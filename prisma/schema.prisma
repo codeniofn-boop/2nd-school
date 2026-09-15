@@ -1,0 +1,128 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// A university or college. Designed so other provinces/countries can be
+// added later — nothing Ontario-specific is hardcoded.
+model Institution {
+  id                String    @id @default(cuid())
+  slug              String    @unique
+  name              String
+  shortName         String?
+  type              String // "university" | "college"
+  city              String
+  province          String    @default("ON")
+  country           String    @default("CA")
+  website           String
+  applicationSystem String // "OUAC" | "OCAS" | future systems
+  programs          Program[]
+
+  @@map("institutions")
+}
+
+// A searchable field of study ("Computer Science", "Nursing"...).
+// `aliases` is a JSON array of strings used by the fuzzy search
+// ("comp sci", "CS", "software engineering" -> Computer Science).
+model ProgramCategory {
+  id              String           @id @default(cuid())
+  slug            String           @unique
+  name            String
+  aliases         String           @default("[]")
+  description     String?
+  programs        Program[]
+  improvementTips ImprovementTip[]
+
+  @@map("program_categories")
+}
+
+// A specific program at a specific institution.
+model Program {
+  id                        String                     @id @default(cuid())
+  slug                      String                     @unique
+  name                      String
+  degreeType                String // "BSc", "BASc", "Advanced Diploma"...
+  campus                    String?
+  url                       String // official program page
+  notes                     String?
+  institution               Institution                @relation(fields: [institutionId], references: [id], onDelete: Cascade)
+  institutionId             String
+  category                  ProgramCategory            @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  categoryId                String
+  admissionRequirements     AdmissionRequirement[]
+  prerequisites             Prerequisite[]
+  supplementaryRequirements SupplementaryRequirement[]
+  improvementTips           ImprovementTip[]
+
+  @@map("programs")
+}
+
+// Admission numbers for one intake year. `isEstimated = true` means the
+// competitive range is NOT officially published and must be shown as an
+// estimate in the UI.
+model AdmissionRequirement {
+  id              String   @id @default(cuid())
+  program         Program  @relation(fields: [programId], references: [id], onDelete: Cascade)
+  programId       String
+  year            Int // intake year, e.g. 2027 = Fall 2027 entry
+  minAverage      Float? // published minimum admission average
+  competitiveLow  Float? // bottom of the typically-admitted range
+  competitiveHigh Float? // top of the range = "safe zone" threshold
+  sourceUrl       String
+  lastVerified    DateTime
+  isEstimated     Boolean  @default(false)
+
+  @@unique([programId, year])
+  @@map("admission_requirements")
+}
+
+// A required (or recommended) high-school course. Prerequisites sharing the
+// same non-null `altGroup` are alternatives: any ONE of them satisfies the
+// group (e.g. "one of MHF4U / MCV4U / MDM4U").
+model Prerequisite {
+  id         String  @id @default(cuid())
+  program    Program @relation(fields: [programId], references: [id], onDelete: Cascade)
+  programId  String
+  courseCode String // "MCV4U"
+  courseName String // "Calculus and Vectors"
+  minGrade   Float? // some programs require a minimum grade in the course
+  isRequired Boolean @default(true) // false = recommended only
+  altGroup   Int? // non-null: any one course in the group satisfies it
+
+  @@map("prerequisites")
+}
+
+// Essay / portfolio / interview / video / CASPer / AIF etc.
+// `isWeighted = true` marks pieces that materially affect admission.
+model SupplementaryRequirement {
+  id          String  @id @default(cuid())
+  program     Program @relation(fields: [programId], references: [id], onDelete: Cascade)
+  programId   String
+  kind        String // "essay" | "portfolio" | "interview" | "video" | "test" | "form"
+  name        String
+  description String?
+  isWeighted  Boolean @default(false)
+
+  @@map("supplementary_requirements")
+}
+
+// Structured "Improve your chances" data. Attached to a program OR a
+// category (category tips apply to every program in it). No generated text.
+model ImprovementTip {
+  id         String           @id @default(cuid())
+  program    Program?         @relation(fields: [programId], references: [id], onDelete: Cascade)
+  programId  String?
+  category   ProgramCategory? @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  categoryId String?
+  kind       String // "supplementary_focus" | "extracurricular" | "deadline" | "scholarship"
+  title      String
+  detail     String
+  value      String? // machine-readable: a date for deadlines, an average for scholarships
+  sortOrder  Int              @default(0)
+
+  @@map("improvement_tips")
+}

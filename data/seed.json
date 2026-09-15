@@ -1,0 +1,1169 @@
+{
+  "institutions": [
+    {
+      "slug": "uoft",
+      "name": "University of Toronto",
+      "shortName": "U of T",
+      "type": "university",
+      "city": "Toronto",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.utoronto.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "waterloo",
+      "name": "University of Waterloo",
+      "shortName": "Waterloo",
+      "type": "university",
+      "city": "Waterloo",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://uwaterloo.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "mcmaster",
+      "name": "McMaster University",
+      "shortName": "McMaster",
+      "type": "university",
+      "city": "Hamilton",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.mcmaster.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "western",
+      "name": "Western University",
+      "shortName": "Western",
+      "type": "university",
+      "city": "London",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.uwo.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "tmu",
+      "name": "Toronto Metropolitan University",
+      "shortName": "TMU",
+      "type": "university",
+      "city": "Toronto",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.torontomu.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "seneca",
+      "name": "Seneca Polytechnic",
+      "shortName": "Seneca",
+      "type": "college",
+      "city": "Toronto",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.senecapolytechnic.ca",
+      "applicationSystem": "OCAS"
+    }
+  ],
+  "categories": [
+    {
+      "slug": "computer-science",
+      "name": "Computer Science",
+      "aliases": [
+        "comp sci",
+        "CS",
+        "software engineering",
+        "software eng",
+        "computing",
+        "computer programming",
+        "coding",
+        "software development",
+        "informatics",
+        "programming"
+      ],
+      "description": "Programs in software, algorithms, and computing systems, from research-oriented computer science degrees to applied programming diplomas.",
+      "tips": [
+        {
+          "kind": "extracurricular",
+          "title": "Build personal projects",
+          "detail": "Ship real software — apps, games, tools — and keep the code in a public GitHub portfolio. Concrete projects are the strongest evidence of genuine interest in computing.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Write the CCC and Euclid contests",
+          "detail": "The Canadian Computing Competition and the Euclid math contest are recognized by admissions committees across Ontario and give a measurable signal beyond course grades.",
+          "sortOrder": 1
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Join hackathons",
+          "detail": "Weekend hackathons (many are free for high-school students) produce portfolio pieces, teamwork stories, and connections you can point to in supplementary applications.",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "slug": "nursing",
+      "name": "Nursing",
+      "aliases": [
+        "nurse",
+        "RN",
+        "BScN",
+        "registered nurse",
+        "practical nursing",
+        "nursing science"
+      ],
+      "description": "Degree and collaborative programs preparing students to become registered nurses in hospital, community, and long-term-care settings.",
+      "tips": [
+        {
+          "kind": "extracurricular",
+          "title": "Volunteer in a hospital or long-term-care home",
+          "detail": "Sustained volunteering in patient-facing settings shows you understand the realities of care work and gives you concrete experiences to draw on in tests like CASPer.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Get First Aid and CPR certified",
+          "detail": "Standard First Aid with CPR-C is inexpensive, widely available, and demonstrates early commitment to health care; many clinical placements will require it anyway.",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "slug": "business",
+      "name": "Business & Commerce",
+      "aliases": [
+        "commerce",
+        "BCom",
+        "management",
+        "accounting",
+        "finance",
+        "marketing",
+        "entrepreneurship",
+        "business admin",
+        "business administration"
+      ],
+      "description": "Commerce, management, and business administration programs covering accounting, finance, marketing, and entrepreneurship.",
+      "tips": [
+        {
+          "kind": "extracurricular",
+          "title": "Compete in DECA",
+          "detail": "DECA case competitions build the presentation and analysis skills business programs screen for, and placing at provincials is a strong line on any supplementary application.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Hold a part-time job or start a small venture",
+          "detail": "Real work experience — a retail job, tutoring business, or online shop — is concrete proof of initiative and is exactly what commerce supplemental essays ask about.",
+          "sortOrder": 1
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Take on a leadership role",
+          "detail": "Student council, club treasurer, or event organizing shows you can lead and manage people and budgets, which business admissions value highly.",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "slug": "engineering",
+      "name": "Engineering",
+      "aliases": [
+        "eng",
+        "mechanical engineering",
+        "electrical engineering",
+        "civil engineering",
+        "mechatronics",
+        "computer engineering",
+        "engineering science"
+      ],
+      "description": "Accredited engineering programs spanning mechanical, electrical, civil, mechatronics, and computer disciplines.",
+      "tips": [
+        {
+          "kind": "extracurricular",
+          "title": "Join a FIRST Robotics team",
+          "detail": "FIRST Robotics is the most widely recognized pre-engineering activity in Ontario; design, build, and competition roles all translate directly into engineering application answers.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Enter a science fair",
+          "detail": "A well-documented science fair project shows you can define a problem, iterate on a design, and present results — the core loop of engineering work.",
+          "sortOrder": 1
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Write math and physics contests",
+          "detail": "Contests like Euclid, CSMC, and the Sir Isaac Newton (SIN) physics exam give admissions a standardized signal of problem-solving strength beyond your course marks.",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "slug": "health-sciences",
+      "name": "Health & Life Sciences",
+      "aliases": [
+        "health sci",
+        "life sciences",
+        "life sci",
+        "biology",
+        "pre-med",
+        "premed",
+        "medical sciences",
+        "med sci",
+        "biomedical"
+      ],
+      "description": "Life science, health science, and medical science programs that commonly lead to medicine, research, and other health professions.",
+      "tips": [
+        {
+          "kind": "extracurricular",
+          "title": "Volunteer in research or clinical settings",
+          "detail": "Helping in a university lab, hospital unit, or community clinic shows sustained commitment to health care and produces the specific stories supplementary applications reward.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Present a science fair project",
+          "detail": "An independent research project — especially one with a health or biology focus — demonstrates scientific thinking beyond the classroom.",
+          "sortOrder": 1
+        }
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "institution": "uoft",
+      "category": "computer-science",
+      "slug": "uoft-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BSc",
+      "campus": "St. George",
+      "url": "https://future.utoronto.ca/undergraduate-programs/computer-science/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 85,
+          "competitiveLow": 93,
+          "competitiveHigh": 96,
+          "sourceUrl": "https://future.utoronto.ca/undergraduate-programs/computer-science/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English" },
+        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "President's/entrance scholar consideration",
+          "detail": "Admitted students with averages of roughly 92% and above are automatically considered for University of Toronto entrance scholarships, including President's Scholars awards.",
+          "value": "92",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "uoft",
+      "category": "business",
+      "slug": "uoft-rotman-commerce",
+      "name": "Rotman Commerce",
+      "degreeType": "BCom",
+      "campus": "St. George",
+      "url": "https://future.utoronto.ca/undergraduate-programs/rotman-commerce/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 83,
+          "competitiveLow": 90,
+          "competitiveHigh": 93,
+          "sourceUrl": "https://future.utoronto.ca/undergraduate-programs/rotman-commerce/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English" },
+        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" }
+      ],
+      "supplementary": [
+        {
+          "kind": "video",
+          "name": "Rotman Supplemental Application",
+          "description": "Timed video interview plus written responses, completed after applying.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Prepare for the Rotman Supplemental",
+          "detail": "The video interview and written responses are weighted alongside your marks. Practice answering on camera within a time limit and have specific stories ready about leadership and initiative.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "President's/entrance scholar consideration",
+          "detail": "Admitted students with averages of roughly 92% and above are automatically considered for University of Toronto entrance scholarships, including President's Scholars awards.",
+          "value": "92",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "uoft",
+      "category": "health-sciences",
+      "slug": "uoft-life-sciences",
+      "name": "Life Sciences",
+      "degreeType": "BSc",
+      "campus": "St. George",
+      "url": "https://future.utoronto.ca/undergraduate-programs/life-sciences/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://future.utoronto.ca/undergraduate-programs/life-sciences/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English" },
+        { "courseCode": "SCH4U", "courseName": "Chemistry" },
+        { "courseCode": "SBI4U", "courseName": "Biology", "isRequired": false },
+        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors", "isRequired": false }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "President's/entrance scholar consideration",
+          "detail": "Admitted students with averages of roughly 92% and above are automatically considered for University of Toronto entrance scholarships, including President's Scholars awards.",
+          "value": "92",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "waterloo",
+      "category": "computer-science",
+      "slug": "waterloo-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BCS",
+      "campus": null,
+      "url": "https://uwaterloo.ca/future-students/programs/computer-science",
+      "notes": "Admission averages of successful applicants are typically well above the published minimum; the AIF and contest results matter for borderline candidates.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 90,
+          "competitiveLow": 95,
+          "competitiveHigh": 98,
+          "sourceUrl": "https://uwaterloo.ca/future-students/programs/computer-science",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English" },
+        { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
+        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
+        { "courseCode": "ICS4U", "courseName": "Computer Science", "isRequired": false }
+      ],
+      "supplementary": [
+        {
+          "kind": "form",
+          "name": "Admission Information Form (AIF)",
+          "description": "Waterloo's supplementary form covering activities, interests, and circumstances; scored and factored into admission decisions.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Make the AIF count",
+          "detail": "The Admission Information Form can meaningfully boost a borderline average. Be specific: name your projects, contests, and roles rather than describing interests in general terms.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Write the Canadian Computing Competition",
+          "detail": "A strong CCC score is concrete evidence of programming ability and one of the clearest ways to strengthen your AIF for Waterloo CS.",
+          "sortOrder": 1
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 2
+        },
+        {
+          "kind": "scholarship",
+          "title": "President's Scholarship of Distinction",
+          "detail": "Automatic consideration by admission average: 95%+ earns the President's Scholarship of Distinction, and 90–94.9% earns the Merit Scholarship.",
+          "value": "95",
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "institution": "waterloo",
+      "category": "computer-science",
+      "slug": "waterloo-software-engineering",
+      "name": "Software Engineering",
+      "degreeType": "BSE",
+      "campus": null,
+      "url": "https://uwaterloo.ca/future-students/programs/software-engineering",
+      "notes": "One of the most competitive programs in Canada; successful applicants typically present averages in the high 90s along with demonstrated programming experience.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 90,
+          "competitiveLow": 96,
+          "competitiveHigh": 99,
+          "sourceUrl": "https://uwaterloo.ca/future-students/programs/software-engineering",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English" },
+        { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
+        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
+        { "courseCode": "SPH4U", "courseName": "Physics" }
+      ],
+      "supplementary": [
+        {
+          "kind": "form",
+          "name": "Admission Information Form (AIF)",
+          "description": "Waterloo's supplementary form; for Software Engineering it includes demonstrated programming experience, which is expected of competitive applicants.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Show programming experience on the AIF",
+          "detail": "Software Engineering expects demonstrated programming experience. Use the AIF to point at shipped projects, repositories, and contest results — vague enthusiasm does not score.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Write the Canadian Computing Competition",
+          "detail": "A strong CCC score is concrete evidence of programming ability and one of the clearest ways to strengthen your AIF for Software Engineering.",
+          "sortOrder": 1
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 2
+        },
+        {
+          "kind": "scholarship",
+          "title": "President's Scholarship of Distinction",
+          "detail": "Automatic consideration by admission average: 95%+ earns the President's Scholarship of Distinction, and 90–94.9% earns the Merit Scholarship.",
+          "value": "95",
+          "sortOrder": 3
+        }
+      ]
+    },
+    {
+      "institution": "waterloo",
+      "category": "engineering",
+      "slug": "waterloo-mechatronics-engineering",
+      "name": "Mechatronics Engineering",
+      "degreeType": "BASc",
+      "campus": null,
+      "url": "https://uwaterloo.ca/future-students/programs/mechatronics-engineering",
+      "notes": "Admission averages of successful applicants are typically well above the published minimum.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 88,
+          "competitiveLow": 92,
+          "competitiveHigh": 95,
+          "sourceUrl": "https://uwaterloo.ca/future-students/programs/mechatronics-engineering",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English" },
+        { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
+        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
+        { "courseCode": "SPH4U", "courseName": "Physics" },
+        { "courseCode": "SCH4U", "courseName": "Chemistry" }
+      ],
+      "supplementary": [
+        {
+          "kind": "form",
+          "name": "Admission Information Form (AIF)",
+          "description": "Waterloo's supplementary form covering activities, interests, and circumstances; scored and factored into admission decisions.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Make the AIF count",
+          "detail": "The Admission Information Form can meaningfully boost a borderline average. Robotics builds, design projects, and contest results are exactly what Waterloo Engineering looks for.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "President's Scholarship of Distinction",
+          "detail": "Automatic consideration by admission average: 95%+ earns the President's Scholarship of Distinction, and 90–94.9% earns the Merit Scholarship.",
+          "value": "95",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "mcmaster",
+      "category": "health-sciences",
+      "slug": "mcmaster-health-sciences",
+      "name": "Health Sciences (BHSc)",
+      "degreeType": "BHSc",
+      "campus": null,
+      "url": "https://healthsci.mcmaster.ca/education-admissions/undergraduate-programs/bhsc-program/",
+      "notes": "Grades act as a threshold; above the cutoff, selection is driven primarily by the supplementary application.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 90,
+          "competitiveLow": 96,
+          "competitiveHigh": 99,
+          "sourceUrl": "https://healthsci.mcmaster.ca/education-admissions/undergraduate-programs/bhsc-program/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English" },
+        {
+          "oneOf": [
+            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
+            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
+            { "courseCode": "MDM4U", "courseName": "Data Management" }
+          ]
+        },
+        {
+          "oneOf": [
+            { "courseCode": "SBI4U", "courseName": "Biology" },
+            { "courseCode": "SCH4U", "courseName": "Chemistry" },
+            { "courseCode": "SPH4U", "courseName": "Physics" }
+          ]
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "essay",
+          "name": "BHSc Supplementary Application",
+          "description": "Short written responses reviewed by multiple assessors; the dominant selection factor above the grade cutoff.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Invest heavily in the supplementary application",
+          "detail": "Above the grade cutoff, the BHSc supplementary application outweighs marks. Draft your responses early, get feedback, and answer the questions actually asked rather than reciting achievements.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "McMaster entrance awards",
+          "detail": "Averages of 95% and above receive automatic consideration for McMaster's top entrance awards; lower tiers apply automatically at lower averages.",
+          "value": "95",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "mcmaster",
+      "category": "nursing",
+      "slug": "mcmaster-nursing",
+      "name": "Nursing (BScN)",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://nursing.mcmaster.ca/programs/bscn/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 85,
+          "competitiveLow": 90,
+          "competitiveHigh": 93,
+          "sourceUrl": "https://nursing.mcmaster.ca/programs/bscn/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English" },
+        { "courseCode": "SBI4U", "courseName": "Biology" },
+        {
+          "oneOf": [
+            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
+            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
+            { "courseCode": "MDM4U", "courseName": "Data Management" }
+          ]
+        },
+        { "courseCode": "SCH4U", "courseName": "Chemistry", "isRequired": false }
+      ],
+      "supplementary": [
+        {
+          "kind": "test",
+          "name": "CASPer",
+          "description": "Online situational judgment test completed during the application cycle.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Prepare for CASPer",
+          "detail": "The CASPer situational judgment test is weighted in admission. Practice typing timed responses to ethical scenarios and book your test date well before the deadline.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "McMaster entrance awards",
+          "detail": "Averages of 95% and above receive automatic consideration for McMaster's top entrance awards; lower tiers apply automatically at lower averages.",
+          "value": "95",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "mcmaster",
+      "category": "engineering",
+      "slug": "mcmaster-engineering",
+      "name": "Engineering I",
+      "degreeType": "BEng",
+      "campus": null,
+      "url": "https://www.eng.mcmaster.ca/future-students/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 85,
+          "competitiveLow": 88,
+          "competitiveHigh": 92,
+          "sourceUrl": "https://www.eng.mcmaster.ca/future-students/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English" },
+        { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
+        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
+        { "courseCode": "SPH4U", "courseName": "Physics" },
+        { "courseCode": "SCH4U", "courseName": "Chemistry" }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "McMaster entrance awards",
+          "detail": "Averages of 95% and above receive automatic consideration for McMaster's top entrance awards; lower tiers apply automatically at lower averages.",
+          "value": "95",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "western",
+      "category": "health-sciences",
+      "slug": "western-medical-sciences",
+      "name": "Medical Sciences",
+      "degreeType": "BMSc",
+      "campus": null,
+      "url": "https://www.schulich.uwo.ca/bmsc/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 90,
+          "competitiveLow": 92,
+          "competitiveHigh": 95,
+          "sourceUrl": "https://www.schulich.uwo.ca/bmsc/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English" },
+        {
+          "oneOf": [
+            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
+            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" }
+          ]
+        },
+        { "courseCode": "SBI4U", "courseName": "Biology" },
+        { "courseCode": "SCH4U", "courseName": "Chemistry" }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Western entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for Western's admission scholarships, with higher tiers at higher averages.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "western",
+      "category": "nursing",
+      "slug": "western-nursing",
+      "name": "Nursing (Western-Fanshawe Collaborative)",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://www.uwo.ca/fhs/nursing/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 85,
+          "competitiveLow": 88,
+          "competitiveHigh": 91,
+          "sourceUrl": "https://www.uwo.ca/fhs/nursing/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English" },
+        { "courseCode": "SBI4U", "courseName": "Biology" },
+        { "courseCode": "SCH4U", "courseName": "Chemistry" },
+        {
+          "oneOf": [
+            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
+            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
+            { "courseCode": "MDM4U", "courseName": "Data Management" }
+          ]
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "test",
+          "name": "CASPer",
+          "description": "Online situational judgment test; verify the current cycle's requirement on the program website.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Prepare for CASPer",
+          "detail": "When required, CASPer is weighted in nursing admission at Western. Confirm the current cycle's requirement early and practice timed scenario responses before booking your sitting.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "Western entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for Western's admission scholarships, with higher tiers at higher averages.",
+          "value": "90",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "western",
+      "category": "engineering",
+      "slug": "western-engineering",
+      "name": "Engineering",
+      "degreeType": "BESc",
+      "campus": null,
+      "url": "https://www.eng.uwo.ca/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 84,
+          "competitiveLow": 87,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://www.eng.uwo.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English" },
+        { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
+        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
+        { "courseCode": "SPH4U", "courseName": "Physics" },
+        { "courseCode": "SCH4U", "courseName": "Chemistry" }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Western entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for Western's admission scholarships, with higher tiers at higher averages.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "tmu",
+      "category": "computer-science",
+      "slug": "tmu-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BSc (Hons)",
+      "campus": null,
+      "url": "https://www.torontomu.ca/programs/undergraduate/computer-science/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 88,
+          "competitiveHigh": 93,
+          "sourceUrl": "https://www.torontomu.ca/programs/undergraduate/computer-science/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": false
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English" },
+        { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
+        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors", "isRequired": false }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "TMU entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for TMU entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "tmu",
+      "category": "nursing",
+      "slug": "tmu-nursing",
+      "name": "Nursing (Collaborative BScN)",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://www.torontomu.ca/programs/undergraduate/nursing/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 90,
+          "competitiveHigh": 93,
+          "sourceUrl": "https://www.torontomu.ca/programs/undergraduate/nursing/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": false
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English" },
+        { "courseCode": "SBI4U", "courseName": "Biology" },
+        { "courseCode": "SCH4U", "courseName": "Chemistry" },
+        {
+          "oneOf": [
+            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
+            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
+            { "courseCode": "MDM4U", "courseName": "Data Management" }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "TMU entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for TMU entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "tmu",
+      "category": "business",
+      "slug": "tmu-business-management",
+      "name": "Business Management",
+      "degreeType": "BComm",
+      "campus": null,
+      "url": "https://www.torontomu.ca/programs/undergraduate/business-management/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 80,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.torontomu.ca/programs/undergraduate/business-management/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": false
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English" },
+        {
+          "oneOf": [
+            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
+            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
+            { "courseCode": "MDM4U", "courseName": "Data Management" }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "TMU entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for TMU entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "seneca",
+      "category": "computer-science",
+      "slug": "seneca-computer-programming-analysis",
+      "name": "Computer Programming & Analysis",
+      "degreeType": "Advanced Diploma",
+      "campus": "Newnham",
+      "url": "https://www.senecapolytechnic.ca/programs/fulltime/CPA.html",
+      "notes": "College admission is requirements-based and much less average-competitive than university; qualified applicants are typically admitted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 70,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.senecapolytechnic.ca/programs/fulltime/CPA.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English (ENG4C also accepted)" },
+        {
+          "oneOf": [
+            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
+            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
+            { "courseCode": "MDM4U", "courseName": "Data Management" }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OCAS application deadline",
+          "detail": "Apply through OCAS by February 1, 2027 — the equal-consideration date for highly competitive Ontario college programs.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Application-based entrance awards",
+          "detail": "Seneca entrance awards are application-based rather than tied to an automatic average threshold; apply separately through Seneca's student awards portal.",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "seneca",
+      "category": "nursing",
+      "slug": "seneca-nursing",
+      "name": "Honours Bachelor of Science - Nursing",
+      "degreeType": "BScN",
+      "campus": "King",
+      "url": "https://www.senecapolytechnic.ca/programs/fulltime/BSCN.html",
+      "notes": "Degree-level nursing at a college: minimum course grades apply, but admission remains less average-competitive than university BScN programs.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 75,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.senecapolytechnic.ca/programs/fulltime/BSCN.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English", "minGrade": 65 },
+        { "courseCode": "SBI4U", "courseName": "Biology", "minGrade": 65 },
+        { "courseCode": "SCH4U", "courseName": "Chemistry", "minGrade": 65 },
+        {
+          "oneOf": [
+            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
+            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
+            { "courseCode": "MDM4U", "courseName": "Data Management" }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OCAS application deadline",
+          "detail": "Apply through OCAS by February 1, 2027 — the equal-consideration date for highly competitive Ontario college programs.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Application-based entrance awards",
+          "detail": "Seneca entrance awards are application-based rather than tied to an automatic average threshold; apply separately through Seneca's student awards portal.",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "seneca",
+      "category": "business",
+      "slug": "seneca-business-administration",
+      "name": "Business Administration - Management",
+      "degreeType": "Advanced Diploma",
+      "campus": "Newnham",
+      "url": "https://www.senecapolytechnic.ca/programs/fulltime/BAM.html",
+      "notes": "College admission is requirements-based and much less average-competitive than university; qualified applicants are typically admitted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 60,
+          "competitiveLow": 65,
+          "competitiveHigh": 72,
+          "sourceUrl": "https://www.senecapolytechnic.ca/programs/fulltime/BAM.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        { "courseCode": "ENG4U", "courseName": "English (ENG4C also accepted)" },
+        {
+          "oneOf": [
+            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
+            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
+            { "courseCode": "MDM4U", "courseName": "Data Management" }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OCAS application deadline",
+          "detail": "Apply through OCAS by February 1, 2027 — the equal-consideration date for highly competitive Ontario college programs.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Application-based entrance awards",
+          "detail": "Seneca entrance awards are application-based rather than tied to an automatic average threshold; apply separately through Seneca's student awards portal.",
+          "sortOrder": 1
+        }
+      ]
+    }
+  ]
+}

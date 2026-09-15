@@ -1,0 +1,82 @@
+{
+  "institutions": [
+    {
+      "slug": "example-college",
+      "name": "Example College (institution display name)",
+      "shortName": "Example (short name shown in compact UI, or null)",
+      "type": "college",
+      "city": "Toronto (city name)",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://example-college.example",
+      "applicationSystem": "OCAS"
+    }
+  ],
+  "categories": [],
+  "programs": [
+    {
+      "institution": "example-college",
+      "category": "business",
+      "slug": "example-college-business-fundamentals",
+      "name": "Business Fundamentals (program display name)",
+      "degreeType": "Diploma (e.g. BSc, BASc, BScN, Advanced Diploma)",
+      "campus": "Main (optional campus name; omit this key if not applicable)",
+      "url": "https://example-college.example/programs/business-fundamentals",
+      "notes": "Optional free-text caveat shown with the program; omit this key if unused.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://example-college.example/programs/business-fundamentals",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English",
+          "minGrade": 65
+        },
+        {
+          "oneOf": [
+            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
+            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
+            { "courseCode": "MDM4U", "courseName": "Data Management" }
+          ]
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "form",
+          "name": "Applicant Questionnaire (kind is one of: essay, portfolio, interview, video, test, form)",
+          "description": "Optional description of the supplementary piece; omit this key if unused.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OCAS application deadline (kind is one of: supplementary_focus, extracurricular, deadline, scholarship)",
+          "detail": "Deadline tips carry an ISO date in value; scholarship tips carry a threshold average as a string in value; other kinds omit value.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Entrance scholarship consideration",
+          "detail": "The value below is the average threshold, written as a number in a string.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    }
+  ]
+}
