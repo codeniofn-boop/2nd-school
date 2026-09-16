@@ -157,20 +157,31 @@ test("target explanation contains the average and the competitive range", () => 
 // ---------------------------------------------------------------------------
 
 test("one missing required group caps at reach even with a safe-level average", () => {
-  // 95% is well above competitiveHigh, but the math group is missing.
+  // 95% is well above competitiveHigh, but the math group is missing —
+  // completing it alone would land the student at Safe.
   const a = assessProgram(student(95, ["ENG4U"]), REQ, ALL_PREREQS);
   assert.equal(a.label, "reach");
   assert.deepEqual(a.missingGroups, ["MHF4U or MCV4U or MDM4U"]);
-  assert.equal(a.nextLabel, "target");
+  assert.equal(a.nextLabel, "safe");
   assert.equal(a.gradeGapToNext, null); // prereqs, not grades, are the blocker
   assert.ok(a.explanation.includes("MHF4U or MCV4U or MDM4U"), a.explanation);
 });
 
-test("one missing group while below the competitive range mentions both problems", () => {
+test("one missing group with an in-range average -> next label target, no grade gap", () => {
+  const a = assessProgram(student(85, ["ENG4U"]), REQ, ALL_PREREQS);
+  assert.equal(a.label, "reach");
+  assert.equal(a.nextLabel, "target");
+  assert.equal(a.gradeGapToNext, null);
+});
+
+test("one missing group while below the competitive range mentions both problems and carries the gap", () => {
   const a = assessProgram(student(75, ["ENG4U"]), REQ, ALL_PREREQS);
   assert.equal(a.label, "reach");
   assert.ok(a.explanation.includes("missing"), a.explanation);
   assert.ok(a.explanation.includes("5%"), `explanation mentions the 5% gap: ${a.explanation}`);
+  // Both blockers are reported so the UI can name both steps honestly.
+  assertClose(a.gradeGapToNext, 5, "gradeGapToNext");
+  assert.equal(a.nextLabel, "target");
 });
 
 test("two missing groups -> unlikely regardless of average", () => {
@@ -268,6 +279,30 @@ test("competitiveLow present but high null: at/above low -> target with threshol
   assert.ok(a.explanation.includes("competitive threshold of 80%"), a.explanation);
   assert.equal(a.gradeGapToNext, null);
   assert.equal(a.nextLabel, null);
+});
+
+test("min + competitiveHigh but no competitiveLow: meeting min -> reach with gap to the safe zone", () => {
+  const req = requirement({ minAverage: 70, competitiveLow: null, competitiveHigh: 90 });
+  const a = assessProgram(student(85, ALL_COURSES), req, ALL_PREREQS);
+  assert.equal(a.label, "reach");
+  assertClose(a.gradeGapToNext, 5, "gradeGapToNext");
+  assert.equal(a.nextLabel, "safe");
+  assert.ok(a.explanation.includes("5%"), `explanation mentions the 5% gap: ${a.explanation}`);
+  assert.ok(a.explanation.includes("safe zone of 90%"), a.explanation);
+  assert.ok(!a.explanation.includes("-"), `no negative numbers: ${a.explanation}`);
+  // At or above high still wins: safe.
+  const b = assessProgram(student(91, ALL_COURSES), req, ALL_PREREQS);
+  assert.equal(b.label, "safe");
+});
+
+test("only competitiveHigh published: below it -> reach with gap to safe, sane wording", () => {
+  const req = requirement({ minAverage: null, competitiveLow: null, competitiveHigh: 90 });
+  const a = assessProgram(student(85, ALL_COURSES), req, ALL_PREREQS);
+  assert.equal(a.label, "reach");
+  assertClose(a.gradeGapToNext, 5, "gradeGapToNext");
+  assert.equal(a.nextLabel, "safe");
+  assert.ok(a.explanation.includes("safe zone of 90%"), a.explanation);
+  assert.ok(!a.explanation.includes("-"), `no negative numbers: ${a.explanation}`);
 });
 
 // ---------------------------------------------------------------------------

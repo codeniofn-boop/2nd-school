@@ -55,10 +55,11 @@ Notes on how prerequisites and partial data are handled:
 - A missing required prerequisite always caps the label: one missing group means at best Reach; two or more mean Unlikely.
 - "One of A/B/C" prerequisite groups are satisfied by any single course in the group. Recommended courses (`isRequired = false`) never count against a student. Course-code matching is case-insensitive.
 - No average entered yet: the label is "Add your grades" rather than a guess.
-- A program with a published minimum but no competitive range: meeting the minimum shows Reach, with wording noting that no competitive range is available.
+- A program with a published minimum but no competitive range at all: meeting the minimum shows Reach, with wording noting that no competitive range is available.
+- A program where only `competitive_high` is published: below it shows Reach with the gap to the safe zone; at or above it shows Safe.
 - A program with no published numbers at all: prerequisites met shows Target ("no published cutoff average").
 
-Each assessment also reports the percentage-point gap to the next-better label (e.g. Target -> Safe, Reach -> Target) when grades — not prerequisites — are the blocker.
+Each assessment also reports the percentage-point gap to the next-better label (e.g. Target -> Safe, Reach -> Target) whenever raising the average would help. When a prerequisite is also missing, the UI names both steps together ("complete SPH4U and raise your average by 6%") instead of promising that one step alone will change the label.
 
 ## Adding programs without touching code
 
@@ -70,7 +71,7 @@ npm run import -- data/myfile.csv
 npm run import -- data/new-institutions.json data/new-programs.csv
 ```
 
-Imports are idempotent: institutions, categories, and programs are upserted by slug; admission requirements are upserted by (program, year); prerequisites, supplementary requirements, and tips are replaced wholesale for the program that owns them. Re-running the same file never duplicates rows.
+Imports are idempotent: institutions, categories, and programs are upserted by slug; admission requirements are upserted by (program, year); prerequisites, supplementary requirements, and tips are replaced wholesale for the program that owns them — but only when the import actually provides them. A JSON program that omits `prerequisites`/`supplementary`/`tips`, or a CSV row with an empty `prerequisites`/`supplementary` cell, leaves the program's existing rows untouched; to clear a list, import JSON with an explicit empty array. Re-running the same file never duplicates rows.
 
 Start from the annotated templates: `data/template.json` and `data/template.csv`.
 
@@ -95,7 +96,7 @@ institution,category,slug,name,degree_type,campus,url,notes,year,min_average,com
 ```
 
 - `institution` and `category` are slugs that must already exist — define them in a JSON file (JSON files in the same `npm run import` invocation are processed first).
-- `campus` and `notes` may be empty. An empty `year` cell means the row carries no admission numbers.
+- `campus` and `notes` may be empty. An empty `year` cell means the row carries no admission numbers. Empty `prerequisites`/`supplementary` cells leave the program's existing rows untouched.
 - `is_estimated` accepts `true`/`false`, `1`/`0`, or `yes`/`no`.
 - **`prerequisites` cell** — e.g. `ENG4U:English|MHF4U/MCV4U/MDM4U:One 4U math|?ICS4U:Computer Science`:
   - `|` separates entries;

@@ -63,21 +63,34 @@ export default function ProgramCard({
     .filter(Boolean)
     .join(" · ");
 
-  const gapLine =
-    assessment.gradeGapToNext !== null && assessment.nextLabel !== null
-      ? `Raise your average by ${fmt(assessment.gradeGapToNext)}% to move to ${LABEL_META[assessment.nextLabel].name}`
-      : null;
-  const prereqLine =
-    assessment.missingGroups.length > 0 &&
-    (assessment.label === "reach" || assessment.label === "unlikely")
-      ? `Complete ${assessment.missingGroups.join(" and ")} to improve your label`
-      : null;
+  // One honest "what would actually change your label" line. A missing
+  // course is only promised to improve the label when completing it alone
+  // would; when grades are also short, both steps are named together.
+  const { label, missingGroups, gradeGapToNext: gap, nextLabel } = assessment;
+  const nextName = nextLabel !== null ? LABEL_META[nextLabel].name : null;
+  let planLine: string | null = null;
+  if (label === "reach" && missingGroups.length === 1) {
+    planLine =
+      gap !== null && nextName
+        ? `To move to ${nextName}: complete ${missingGroups[0]} and raise your average by ${fmt(gap)}%`
+        : `Complete ${missingGroups[0]} to move to ${nextName ?? "the next label"}`;
+  } else if (label === "unlikely") {
+    const gradePart =
+      gap !== null && nextName ? `Raise your average by ${fmt(gap)}% to move to ${nextName}` : null;
+    const coursePart =
+      missingGroups.length > 0
+        ? `${gradePart ? "Also complete" : "Complete"} ${missingGroups.join(" and ")} — required for admission`
+        : null;
+    planLine = [gradePart, coursePart].filter(Boolean).join(". ") || null;
+  } else if (gap !== null && nextName) {
+    planLine = `Raise your average by ${fmt(gap)}% to move to ${nextName}`;
+  }
 
   const tips = [...program.tips, ...categoryTips].sort(
     (a, b) =>
       (TIP_KIND_ORDER[a.kind] ?? 99) - (TIP_KIND_ORDER[b.kind] ?? 99) || a.sortOrder - b.sortOrder
   );
-  const hasImprove = gapLine !== null || prereqLine !== null || tips.length > 0;
+  const hasImprove = planLine !== null || tips.length > 0;
 
   return (
     <article className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
@@ -113,23 +126,24 @@ export default function ProgramCard({
                 Minimum: <span className="font-semibold">{fmt(req.minAverage)}%</span>
               </span>
             )}
-            {(req.competitiveLow !== null || req.competitiveHigh !== null) && (
-              <span className="inline-flex items-center gap-1.5 text-slate-700">
-                <span>
-                  Safe zone:{" "}
-                  <span className="font-semibold">
-                    {req.competitiveLow !== null && req.competitiveHigh !== null
-                      ? `${fmt(req.competitiveLow)}–${fmt(req.competitiveHigh)}%`
-                      : req.competitiveHigh !== null
-                        ? `${fmt(req.competitiveHigh)}%+`
-                        : `${fmt(req.competitiveLow as number)}%+`}
-                  </span>
+            {req.competitiveLow !== null && (
+              <span className="text-slate-700">
+                Competitive:{" "}
+                <span className="font-semibold">
+                  {req.competitiveHigh !== null
+                    ? `${fmt(req.competitiveLow)}–${fmt(req.competitiveHigh)}%`
+                    : `${fmt(req.competitiveLow)}%+`}
                 </span>
-                {req.isEstimated && (
-                  <span className="rounded-full bg-amber-100 px-2 py-0.5 text-[10px] font-semibold text-amber-800 ring-1 ring-inset ring-amber-300">
-                    estimated
-                  </span>
-                )}
+              </span>
+            )}
+            {req.competitiveHigh !== null && (
+              <span className="text-slate-700">
+                Safe zone: <span className="font-semibold">{fmt(req.competitiveHigh)}%+</span>
+              </span>
+            )}
+            {req.isEstimated && (req.competitiveLow !== null || req.competitiveHigh !== null) && (
+              <span className="rounded-full bg-amber-100 px-2 py-0.5 text-[10px] font-semibold text-amber-800 ring-1 ring-inset ring-amber-300">
+                estimated
               </span>
             )}
           </>
@@ -144,6 +158,8 @@ export default function ProgramCard({
       >
         {assessment.explanation}
       </p>
+
+      {program.notes && <p className="mt-2 text-xs italic leading-relaxed text-slate-500">{program.notes}</p>}
 
       {/* Prerequisites */}
       {(requiredGroups.length > 0 || recommended.length > 0) && (
@@ -218,8 +234,7 @@ export default function ProgramCard({
             </span>
           </summary>
           <div className="space-y-3 border-t border-slate-200 px-3 pb-3 pt-2.5">
-            {gapLine && <p className="text-sm font-medium text-slate-800">{gapLine}</p>}
-            {prereqLine && <p className="text-sm font-medium text-slate-800">{prereqLine}</p>}
+            {planLine && <p className="text-sm font-medium text-slate-800">{planLine}</p>}
             {tips.map((tip, i) => {
               const deadline = tip.kind === "deadline" && tip.value ? formatFullDate(tip.value) : null;
               const scholarship = tip.kind === "scholarship" && tip.value ? tip.value : null;
@@ -250,7 +265,7 @@ export default function ProgramCard({
             href={req.sourceUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="underline underline-offset-2 hover:text-slate-600"
+            className="inline-flex min-h-11 items-center rounded underline underline-offset-2 hover:text-slate-600 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"
           >
             Source
           </a>

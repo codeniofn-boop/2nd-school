@@ -158,9 +158,11 @@ interface NormalizedProgram {
   url: string;
   notes: string | null;
   requirements: RequirementRow[];
-  prerequisites: PrereqEntry[];
-  supplementary: SupplementaryRow[];
-  /** null = leave existing tips untouched (the CSV format carries no tips). */
+  /** For each child list, null = leave existing rows untouched (key omitted
+   *  in JSON, or an empty CSV cell); an array — even an empty one — replaces
+   *  the program's rows wholesale. */
+  prerequisites: PrereqEntry[] | null;
+  supplementary: SupplementaryRow[] | null;
   tips: TipRow[] | null;
 }
 
@@ -234,6 +236,11 @@ function validateRequirement(row: RequirementRow, ctx: string): void {
       `${ctx} (year ${row.year}): minAverage (${row.minAverage}) is greater than competitiveLow (${row.competitiveLow}) — double-check the data`
     );
   }
+  if ((row.competitiveLow === null) !== (row.competitiveHigh === null)) {
+    warn(
+      `${ctx} (year ${row.year}): only one of competitiveLow/competitiveHigh is set — labels still work, but the range display and explanations are clearest with both`
+    );
+  }
 }
 
 /** Upsert the program row plus all of its child rows. */
@@ -283,35 +290,40 @@ async function writeProgram(p: NormalizedProgram, ctx: string): Promise<void> {
     counts.requirements += 1;
   }
 
-  // Prerequisites: replace wholesale; oneOf groups get 1, 2, ... per program.
-  const prereqRows: {
-    programId: string;
-    courseCode: string;
-    courseName: string;
-    minGrade: number | null;
-    isRequired: boolean;
-    altGroup: number | null;
-  }[] = [];
-  let altGroup = 0;
-  for (const entry of p.prerequisites) {
-    if (entry.oneOf) {
-      altGroup += 1;
-      for (const c of entry.courses) {
-        prereqRows.push({ programId, ...c, isRequired: entry.isRequired, altGroup });
+  // Prerequisites: replace wholesale (when provided); oneOf groups get
+  // altGroup 1, 2, ... per program.
+  if (p.prerequisites !== null) {
+    const prereqRows: {
+      programId: string;
+      courseCode: string;
+      courseName: string;
+      minGrade: number | null;
+      isRequired: boolean;
+      altGroup: number | null;
+    }[] = [];
+    let altGroup = 0;
+    for (const entry of p.prerequisites) {
+      if (entry.oneOf) {
+        altGroup += 1;
+        for (const c of entry.courses) {
+          prereqRows.push({ programId, ...c, isRequired: entry.isRequired, altGroup });
+        }
+      } else {
+        prereqRows.push({ programId, ...entry.course, isRequired: entry.isRequired, altGroup: null });
       }
-    } else {
-      prereqRows.push({ programId, ...entry.course, isRequired: entry.isRequired, altGroup: null });
     }
+    await prisma.prerequisite.deleteMany({ where: { programId } });
+    if (prereqRows.length > 0) await prisma.prerequisite.createMany({ data: prereqRows });
   }
-  await prisma.prerequisite.deleteMany({ where: { programId } });
-  if (prereqRows.length > 0) await prisma.prerequisite.createMany({ data: prereqRows });
 
-  // Supplementary requirements: replace wholesale.
-  await prisma.supplementaryRequirement.deleteMany({ where: { programId } });
-  if (p.supplementary.length > 0) {
-    await prisma.supplementaryRequirement.createMany({
-      data: p.supplementary.map((s) => ({ programId, ...s })),
-    });
+  // Supplementary requirements: replace wholesale (when provided).
+  if (p.supplementary !== null) {
+    await prisma.supplementaryRequirement.deleteMany({ where: { programId } });
+    if (p.supplementary.length > 0) {
+      await prisma.supplementaryRequirement.createMany({
+        data: p.supplementary.map((s) => ({ programId, ...s })),
+      });
+    }
   }
 
   // Program tips: replace wholesale (only when the source provides them).
@@ -493,13 +505,20 @@ async function importJsonFile(file: string): Promise<void> {
       url: reqStr(raw.url, "url", ctx),
       notes: optStr(raw.notes, "notes", ctx),
       requirements,
-      prerequisites: ((raw.prerequisites as unknown[] | undefined) ?? []).map((p, i) =>
-        normalizeJsonPrereq(p, ctx, i)
-      ),
-      supplementary: ((raw.supplementary as unknown[] | undefined) ?? []).map((s, i) =>
-        normalizeJsonSupplementary(s, ctx, i)
-      ),
-      tips: ((raw.tips as unknown[] | undefined) ?? []).map((t, i) => validateTip(t, ctx, i)),
+      // Omitted keys leave existing rows untouched; an explicit array
+      // (including []) replaces them.
+      prerequisites:
+        raw.prerequisites === undefined
+          ? null
+          : (raw.prerequisites as unknown[]).map((p, i) => normalizeJsonPrereq(p, ctx, i)),
+      supplementary:
+        raw.supplementary === undefined
+          ? null
+          : (raw.supplementary as unknown[]).map((s, i) => normalizeJsonSupplementary(s, ctx, i)),
+      tips:
+        raw.tips === undefined
+          ? null
+          : (raw.tips as unknown[]).map((t, i) => validateTip(t, ctx, i)),
     };
     await writeProgram(program, ctx);
   }
@@ -600,8 +619,8 @@ function csvBool(cell: string, field: string, ctx: string): boolean {
 /** "MHF4U/MCV4U:Grade 12 math|?SPH4U:Physics" -> prerequisite entries.
  *  "|" splits entries, "/" separates alternatives (a oneOf group),
  *  ":Name" names the course/group, a leading "?" means recommended-only. */
-function parsePrereqCell(cell: string, ctx: string): PrereqEntry[] {
-  if (cell.trim() === "") return [];
+function parsePrereqCell(cell: string, ctx: string): PrereqEntry[] | null {
+  if (cell.trim() === "") return null; // empty cell = leave existing rows untouched
   return cell.split("|").map((rawEntry) => {
     let entry = rawEntry.trim();
     if (entry === "") throw new ImportError(`${ctx}: empty prerequisite entry (check for stray "|")`);
@@ -636,8 +655,8 @@ function parsePrereqCell(cell: string, ctx: string): PrereqEntry[] {
 }
 
 /** "essay:Personal statement|portfolio:Design portfolio:weighted" -> rows. */
-function parseSupplementaryCell(cell: string, ctx: string): SupplementaryRow[] {
-  if (cell.trim() === "") return [];
+function parseSupplementaryCell(cell: string, ctx: string): SupplementaryRow[] | null {
+  if (cell.trim() === "") return null; // empty cell = leave existing rows untouched
   return cell.split("|").map((rawEntry) => {
     const parts = rawEntry.trim().split(":");
     const kind = (parts[0] ?? "").trim();

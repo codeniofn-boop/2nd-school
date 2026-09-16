@@ -254,8 +254,14 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English" },
-        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" }
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        }
       ],
       "supplementary": [],
       "tips": [
@@ -295,8 +301,14 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English" },
-        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" }
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        }
       ],
       "supplementary": [
         {
@@ -349,10 +361,23 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English" },
-        { "courseCode": "SCH4U", "courseName": "Chemistry" },
-        { "courseCode": "SBI4U", "courseName": "Biology", "isRequired": false },
-        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors", "isRequired": false }
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology",
+          "isRequired": false
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        }
       ],
       "supplementary": [],
       "tips": [
@@ -370,7 +395,8 @@
           "value": "92",
           "sortOrder": 1
         }
-      ]
+      ],
+      "notes": "Biology (SBI4U) is not required for admission but is strongly recommended — most life-science majors expect it in first year."
     },
     {
       "institution": "waterloo",
@@ -393,10 +419,23 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English" },
-        { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
-        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
-        { "courseCode": "ICS4U", "courseName": "Computer Science", "isRequired": false }
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
       ],
       "supplementary": [
         {
@@ -429,7 +468,7 @@
         {
           "kind": "scholarship",
           "title": "President's Scholarship of Distinction",
-          "detail": "Automatic consideration by admission average: 95%+ earns the President's Scholarship of Distinction, and 90–94.9% earns the Merit Scholarship.",
+          "detail": "Automatic consideration by admission average: 95%+ earns the President's Scholarship of Distinction, 90–94.9% the President's Scholarship, and 85–89.9% the Merit Scholarship.",
           "value": "95",
           "sortOrder": 3
         }
@@ -456,10 +495,22 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English" },
-        { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
-        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
-        { "courseCode": "SPH4U", "courseName": "Physics" }
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        }
       ],
       "supplementary": [
         {
@@ -492,7 +543,7 @@
         {
           "kind": "scholarship",
           "title": "President's Scholarship of Distinction",
-          "detail": "Automatic consideration by admission average: 95%+ earns the President's Scholarship of Distinction, and 90–94.9% earns the Merit Scholarship.",
+          "detail": "Automatic consideration by admission average: 95%+ earns the President's Scholarship of Distinction, 90–94.9% the President's Scholarship, and 85–89.9% the Merit Scholarship.",
           "value": "95",
           "sortOrder": 3
         }
@@ -519,11 +570,26 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English" },
-        { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
-        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
-        { "courseCode": "SPH4U", "courseName": "Physics" },
-        { "courseCode": "SCH4U", "courseName": "Chemistry" }
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
       ],
       "supplementary": [
         {
@@ -550,7 +616,7 @@
         {
           "kind": "scholarship",
           "title": "President's Scholarship of Distinction",
-          "detail": "Automatic consideration by admission average: 95%+ earns the President's Scholarship of Distinction, and 90–94.9% earns the Merit Scholarship.",
+          "detail": "Automatic consideration by admission average: 95%+ earns the President's Scholarship of Distinction, 90–94.9% the President's Scholarship, and 85–89.9% the Merit Scholarship.",
           "value": "95",
           "sortOrder": 2
         }
@@ -577,19 +643,40 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English" },
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
         {
           "oneOf": [
-            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
-            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
-            { "courseCode": "MDM4U", "courseName": "Data Management" }
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
           ]
         },
         {
           "oneOf": [
-            { "courseCode": "SBI4U", "courseName": "Biology" },
-            { "courseCode": "SCH4U", "courseName": "Chemistry" },
-            { "courseCode": "SPH4U", "courseName": "Physics" }
+            {
+              "courseCode": "SBI4U",
+              "courseName": "Biology"
+            },
+            {
+              "courseCode": "SCH4U",
+              "courseName": "Chemistry"
+            },
+            {
+              "courseCode": "SPH4U",
+              "courseName": "Physics"
+            }
           ]
         }
       ],
@@ -644,16 +731,35 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English" },
-        { "courseCode": "SBI4U", "courseName": "Biology" },
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
         {
           "oneOf": [
-            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
-            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
-            { "courseCode": "MDM4U", "courseName": "Data Management" }
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
           ]
         },
-        { "courseCode": "SCH4U", "courseName": "Chemistry", "isRequired": false }
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry",
+          "isRequired": false
+        }
       ],
       "supplementary": [
         {
@@ -706,11 +812,26 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English" },
-        { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
-        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
-        { "courseCode": "SPH4U", "courseName": "Physics" },
-        { "courseCode": "SCH4U", "courseName": "Chemistry" }
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
       ],
       "supplementary": [],
       "tips": [
@@ -750,15 +871,30 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English" },
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
         {
           "oneOf": [
-            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
-            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" }
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
           ]
         },
-        { "courseCode": "SBI4U", "courseName": "Biology" },
-        { "courseCode": "SCH4U", "courseName": "Chemistry" }
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
       ],
       "supplementary": [],
       "tips": [
@@ -798,14 +934,32 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English" },
-        { "courseCode": "SBI4U", "courseName": "Biology" },
-        { "courseCode": "SCH4U", "courseName": "Chemistry" },
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
         {
           "oneOf": [
-            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
-            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
-            { "courseCode": "MDM4U", "courseName": "Data Management" }
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
           ]
         }
       ],
@@ -860,11 +1014,26 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English" },
-        { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
-        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
-        { "courseCode": "SPH4U", "courseName": "Physics" },
-        { "courseCode": "SCH4U", "courseName": "Chemistry" }
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
       ],
       "supplementary": [],
       "tips": [
@@ -904,9 +1073,19 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English" },
-        { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
-        { "courseCode": "MCV4U", "courseName": "Calculus and Vectors", "isRequired": false }
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        }
       ],
       "supplementary": [],
       "tips": [
@@ -946,14 +1125,32 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English" },
-        { "courseCode": "SBI4U", "courseName": "Biology" },
-        { "courseCode": "SCH4U", "courseName": "Chemistry" },
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
         {
           "oneOf": [
-            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
-            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
-            { "courseCode": "MDM4U", "courseName": "Data Management" }
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
           ]
         }
       ],
@@ -995,12 +1192,24 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English" },
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
         {
           "oneOf": [
-            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
-            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
-            { "courseCode": "MDM4U", "courseName": "Data Management" }
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
           ]
         }
       ],
@@ -1043,12 +1252,24 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English (ENG4C also accepted)" },
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English (ENG4C also accepted)"
+        },
         {
           "oneOf": [
-            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
-            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
-            { "courseCode": "MDM4U", "courseName": "Data Management" }
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
           ]
         }
       ],
@@ -1090,14 +1311,35 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English", "minGrade": 65 },
-        { "courseCode": "SBI4U", "courseName": "Biology", "minGrade": 65 },
-        { "courseCode": "SCH4U", "courseName": "Chemistry", "minGrade": 65 },
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English",
+          "minGrade": 65
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology",
+          "minGrade": 65
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry",
+          "minGrade": 65
+        },
         {
           "oneOf": [
-            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
-            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
-            { "courseCode": "MDM4U", "courseName": "Data Management" }
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
           ]
         }
       ],
@@ -1139,12 +1381,24 @@
         }
       ],
       "prerequisites": [
-        { "courseCode": "ENG4U", "courseName": "English (ENG4C also accepted)" },
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English (ENG4C also accepted)"
+        },
         {
           "oneOf": [
-            { "courseCode": "MHF4U", "courseName": "Advanced Functions" },
-            { "courseCode": "MCV4U", "courseName": "Calculus and Vectors" },
-            { "courseCode": "MDM4U", "courseName": "Data Management" }
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
           ]
         }
       ],

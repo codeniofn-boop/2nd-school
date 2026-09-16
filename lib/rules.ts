@@ -96,7 +96,9 @@ export function assessProgram(
     };
   }
 
-  // Reach: exactly one missing prereq group caps the label
+  // Reach: exactly one missing prereq group caps the label.
+  // nextLabel reflects where completing the course (and closing any grade
+  // gap) would land; gradeGapToNext is set only when grades are ALSO short.
   if (missing.length === 1) {
     const belowRange = low !== null && avg < low;
     return {
@@ -105,7 +107,8 @@ export function assessProgram(
       explanation: belowRange
         ? `You're missing ${missingLabels[0]} and ${fmt(low - avg)}% below the competitive range.`
         : `Your average is competitive, but you're missing ${missingLabels[0]}.`,
-      nextLabel: "target",
+      gradeGapToNext: belowRange ? low - avg : null,
+      nextLabel: high !== null && avg >= high ? "safe" : "target",
     };
   }
 
@@ -132,15 +135,29 @@ export function assessProgram(
   }
 
   if (min !== null && avg >= min) {
+    if (low !== null) {
+      return {
+        ...base,
+        label: "reach",
+        explanation: `You're ${fmt(low - avg)}% below the competitive range for this program.`,
+        gradeGapToNext: low - avg,
+        nextLabel: "target",
+      };
+    }
+    if (high !== null) {
+      // Only the safe-zone threshold is published (no competitive_low).
+      return {
+        ...base,
+        label: "reach",
+        explanation: `You're ${fmt(high - avg)}% below the safe zone of ${fmt(high)}% for this program.`,
+        gradeGapToNext: high - avg,
+        nextLabel: "safe",
+      };
+    }
     return {
       ...base,
       label: "reach",
-      explanation:
-        low !== null
-          ? `You're ${fmt(low - avg)}% below the competitive range for this program.`
-          : `You meet the published minimum of ${fmt(min)}%, but no competitive range is available.`,
-      gradeGapToNext: low !== null ? low - avg : null,
-      nextLabel: low !== null ? "target" : null,
+      explanation: `You meet the published minimum of ${fmt(min)}%, but no competitive range is available.`,
     };
   }
 
@@ -153,13 +170,24 @@ export function assessProgram(
     };
   }
 
-  // min is null but a competitive range exists and avg < low
+  // No published minimum, below the published range.
+  if (low !== null) {
+    return {
+      ...base,
+      label: "reach",
+      explanation: `You're ${fmt(low - avg)}% below the competitive range for this program.`,
+      gradeGapToNext: low - avg,
+      nextLabel: "target",
+    };
+  }
+  // Only competitiveHigh is published and avg is below it.
+  const safeHigh = high as number;
   return {
     ...base,
     label: "reach",
-    explanation: `You're ${fmt((low ?? 0) - avg)}% below the competitive range for this program.`,
-    gradeGapToNext: low !== null ? low - avg : null,
-    nextLabel: "target",
+    explanation: `You're ${fmt(safeHigh - avg)}% below the safe zone of ${fmt(safeHigh)}% for this program.`,
+    gradeGapToNext: safeHigh - avg,
+    nextLabel: "safe",
   };
 }
 
