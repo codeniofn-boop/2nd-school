@@ -1,0 +1,1991 @@
+{
+  "categories": [
+    {
+      "slug": "economics",
+      "name": "Economics",
+      "aliases": [
+        "econ",
+        "economic",
+        "financial economics",
+        "mathematical economics",
+        "political economy",
+        "applied economics"
+      ],
+      "description": "Programs in economic theory and its applications — micro and macroeconomics, econometrics, and fields such as financial, international, and public economics — offered as BA and BSc degrees across faculties of arts and social science.",
+      "tips": [
+        {
+          "kind": "extracurricular",
+          "title": "Join an investment or economics club",
+          "detail": "Run a mock stock portfolio, enter DECA's finance and economics events, or organize a stock-pitch night at school. Sustained involvement produces the specific analysis and presentation examples supplementary applications ask for.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Write the Euclid and CSMC math contests",
+          "detail": "Economics degrees lean on calculus and statistics from first year, and contest results give admissions a standardized signal of quantitative strength beyond course marks — useful for profile-based reviews like UBC's Personal Profile.",
+          "sortOrder": 1
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Follow real economic policy and write about it",
+          "detail": "Track the Bank of Canada's rate announcements and Monetary Policy Report, then turn that reading into something concrete: an entry in a student economics essay competition, a school-paper column, or a club presentation on a current policy question.",
+          "sortOrder": 2
+        }
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "institution": "uoft",
+      "category": "economics",
+      "slug": "uoft-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "campus": "St. George",
+      "url": "https://future.utoronto.ca/undergraduate-programs/economics/",
+      "notes": "Admission is to the Faculty of Arts & Science (social science admission category); the economics program is declared after first year. First-year economics assumes calculus, so MCV4U is strongly recommended.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 83,
+          "competitiveLow": 88,
+          "competitiveHigh": 92,
+          "sourceUrl": "https://future.utoronto.ca/undergraduate-programs/economics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "waterloo",
+      "category": "economics",
+      "slug": "waterloo-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://uwaterloo.ca/future-students/programs/economics",
+      "notes": "Offered through the Faculty of Arts, with co-op available. MCV4U is recommended for the mathematics used in intermediate economic theory and econometrics.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://uwaterloo.ca/future-students/programs/economics",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "queens",
+      "category": "economics",
+      "slug": "queens-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.econ.queensu.ca/",
+      "notes": "Admission is to Queen's Arts; the economics plan is declared after first year. MCV4U is strongly recommended for the calculus used in the major.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 86,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://www.econ.queensu.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Queen's entrance scholarships",
+          "detail": "Admitted students with averages of roughly 90% and above are automatically considered for Queen's admission-based entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "western",
+      "category": "economics",
+      "slug": "western-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://economics.uwo.ca/",
+      "notes": "Admission is to the Faculty of Social Science; students declare an economics module after first year. MCV4U is recommended.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 83,
+          "competitiveLow": 87,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://economics.uwo.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Western entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for Western's admission scholarships, with higher tiers at higher averages.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mcmaster",
+      "category": "economics",
+      "slug": "mcmaster-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://socialsciences.mcmaster.ca/economics",
+      "notes": "Entry is through the Social Sciences I gateway; students declare the economics program after first year.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 82,
+          "competitiveHigh": 86,
+          "sourceUrl": "https://socialsciences.mcmaster.ca/economics",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "McMaster entrance awards",
+          "detail": "Averages of 95% and above receive automatic consideration for McMaster's top entrance awards; lower tiers apply automatically at lower averages.",
+          "value": "95",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "york",
+      "category": "economics",
+      "slug": "york-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.yorku.ca/laps/econ/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.yorku.ca/laps/econ/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ottawa",
+      "category": "economics",
+      "slug": "ottawa-economics",
+      "name": "Economics",
+      "degreeType": "BSocSc",
+      "url": "https://www.uottawa.ca/faculty-social-sciences/economics",
+      "notes": "uOttawa is bilingual: the economics program can be completed in English, in French, or in a mix of both.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.uottawa.ca/faculty-social-sciences/economics",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "carleton",
+      "category": "economics",
+      "slug": "carleton-economics",
+      "name": "Economics",
+      "degreeType": "BEcon",
+      "url": "https://carleton.ca/economics/",
+      "notes": "Carleton offers a dedicated Bachelor of Economics degree with concentrations including financial economics and quantitative methods.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://carleton.ca/economics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "guelph",
+      "category": "economics",
+      "slug": "guelph-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.uoguelph.ca/economics/",
+      "notes": "Offered through the Gordon S. Lang School of Business and Economics; co-op is available.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 79,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.uoguelph.ca/economics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "laurier",
+      "category": "economics",
+      "slug": "laurier-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.wlu.ca/programs/business-and-economics/undergraduate/economics-ba/index.html",
+      "notes": "Offered through the Lazaridis School of Business and Economics on the Waterloo campus.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.wlu.ca/programs/business-and-economics/undergraduate/economics-ba/index.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "tmu",
+      "category": "economics",
+      "slug": "tmu-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.torontomu.ca/programs/undergraduate/economics/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 77,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.torontomu.ca/programs/undergraduate/economics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "TMU entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for TMU entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "brock",
+      "category": "economics",
+      "slug": "brock-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://brocku.ca/social-sciences/economics/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://brocku.ca/social-sciences/economics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "windsor",
+      "category": "economics",
+      "slug": "windsor-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.uwindsor.ca/economics/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://www.uwindsor.ca/economics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "trent",
+      "category": "economics",
+      "slug": "trent-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.trentu.ca/economics/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.trentu.ca/economics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "mcgill",
+      "category": "economics",
+      "slug": "mcgill-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.mcgill.ca/economics/",
+      "notes": "Entry is through the Faculty of Arts. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted. MCV4U is strongly recommended for honours and quantitative streams.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 85,
+          "competitiveLow": 89,
+          "competitiveHigh": 93,
+          "sourceUrl": "https://www.mcgill.ca/undergraduate-admissions/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to McGill by February 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on McGill's admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "concordia",
+      "category": "economics",
+      "slug": "concordia-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.concordia.ca/academics/undergraduate/economics.html",
+      "notes": "Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.concordia.ca/admissions/undergraduate.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Concordia by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on Concordia's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "bishops",
+      "category": "economics",
+      "slug": "bishops-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.ubishops.ca/academic-programs/",
+      "notes": "Small English-language university with class sizes well below the Montreal schools. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.ubishops.ca/admissions/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Bishop's reviews applications on a rolling basis; aim to apply by March 1, 2027 for Fall 2027 entry and verify the current cycle's dates on the Bishop's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "laval",
+      "category": "economics",
+      "slug": "laval-economics",
+      "name": "Économique (Economics)",
+      "degreeType": "BA",
+      "url": "https://www.ulaval.ca/etudes/programmes/baccalaureat-en-economique",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.ulaval.ca/admission",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université Laval by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "udem",
+      "category": "economics",
+      "slug": "udem-economics",
+      "name": "Sciences économiques (Economics)",
+      "degreeType": "BSc",
+      "url": "https://admission.umontreal.ca/programmes/baccalaureat-en-sciences-economiques/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 76,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://admission.umontreal.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université de Montréal by February 1, 2027 — the deadline for limited-enrolment (contingenté) programs; verify the current cycle's deadline on the admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uqam",
+      "category": "economics",
+      "slug": "uqam-economics",
+      "name": "Économique (Economics)",
+      "degreeType": "BSc",
+      "url": "https://etudier.uqam.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://etudier.uqam.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to UQAM by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ubc",
+      "category": "economics",
+      "slug": "ubc-economics",
+      "name": "Economics (Vancouver School of Economics)",
+      "degreeType": "BA",
+      "campus": "Vancouver",
+      "url": "https://economics.ubc.ca/",
+      "notes": "Admission is to the Faculty of Arts; entry to the Vancouver School of Economics major is competitive and completed after first year, so strong first-year grades matter. UBC admission is broad-based: grades plus the Personal Profile. BC equivalents of the listed courses are English Studies 12 and Pre-Calculus 12, with calculus strongly recommended.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 84,
+          "competitiveLow": 88,
+          "competitiveHigh": 92,
+          "sourceUrl": "https://economics.ubc.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "essay",
+          "name": "Personal Profile",
+          "description": "Short written responses about experiences, activities, and what you learned from them; weighted alongside grades for all direct-entry UBC applicants.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Take the Personal Profile seriously",
+          "detail": "The Personal Profile is weighted alongside your marks. Draft your short answers early, be specific about what you did and what it taught you, and have someone you trust review them before submitting.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "UBC application deadline",
+          "detail": "Apply through EducationPlannerBC by January 15, 2027 for September 2027 entry. Verify the current cycle's dates on UBC's admissions site before relying on them.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "sfu",
+      "category": "economics",
+      "slug": "sfu-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.sfu.ca/economics.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.sfu.ca/economics.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "SFU application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for Fall 2027 entry. Verify the current cycle's dates on SFU's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uvic",
+      "category": "economics",
+      "slug": "uvic-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.uvic.ca/socialsciences/economics/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.uvic.ca/socialsciences/economics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UVic application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for September 2027 entry. Verify the current cycle's dates on UVic's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ualberta",
+      "category": "economics",
+      "slug": "ualberta-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.ualberta.ca/economics",
+      "notes": "Offered through the Faculty of Arts. Alberta applicants present ELA 30-1 and Math 30-1; Ontario 4U equivalents are shown.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.ualberta.ca/economics",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for most Fall 2027 programs. Deadlines vary by program and competitive programs can close earlier — verify the current cycle's dates on the UAlberta admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UAlberta admission-based entrance scholarships",
+          "detail": "UAlberta automatically considers applicants for entrance scholarships based on admission average, with awards generally starting around 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ucalgary",
+      "category": "economics",
+      "slug": "ucalgary-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.ucalgary.ca/future-students/undergraduate/explore-programs/economics",
+      "notes": "Offered through the Faculty of Arts. Alberta applicants present ELA 30-1 and Math 30-1; Ontario 4U equivalents are shown.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.ucalgary.ca/future-students/undergraduate/explore-programs/economics",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for most Fall 2027 programs. Deadlines vary by program and competitive programs can close earlier — verify the current cycle's dates on the UCalgary admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UCalgary automatic entrance awards",
+          "detail": "UCalgary automatically considers applicants for admission-average-based entrance awards, with most automatic awards starting around an 85% admission average. Verify current thresholds on UCalgary's awards pages.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ulethbridge",
+      "category": "economics",
+      "slug": "ulethbridge-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.ulethbridge.ca/artsci/economics",
+      "notes": "Alberta applicants present ELA 30-1 and Math 30-1. Admission is considerably less average-competitive than at UAlberta or UCalgary.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 70,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.ulethbridge.ca/artsci/economics",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for guaranteed consideration for Fall 2027; later applications may be accepted as space allows. Verify the current cycle's dates on the uLethbridge admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "usask",
+      "category": "economics",
+      "slug": "usask-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://admissions.usask.ca/economics.php",
+      "notes": "Saskatchewan applicants present ELA A30 and B30 plus a grade 12 mathematics; Ontario applicants present ENG4U and a 4U math.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://admissions.usask.ca/economics.php",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "USask application deadline",
+          "detail": "Apply by February 15, 2027 for most direct-entry Fall 2027 programs. Verify the current cycle's deadline for your program on the USask admissions site.",
+          "value": "2027-02-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uregina",
+      "category": "economics",
+      "slug": "uregina-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.uregina.ca/arts/economics/",
+      "notes": "Saskatchewan applicants present ELA A30/B30 and a grade 12 mathematics; Ontario applicants present ENG4U and a 4U math.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 70,
+          "competitiveHigh": 77,
+          "sourceUrl": "https://www.uregina.ca/arts/economics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "URegina application deadline",
+          "detail": "Apply by March 15, 2027 for most Fall 2027 programs at the University of Regina. Verify the current cycle's deadline for your program on the URegina admissions site.",
+          "value": "2027-03-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "umanitoba",
+      "category": "economics",
+      "slug": "umanitoba-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://umanitoba.ca/arts/economics",
+      "notes": "Manitoba applicants present ELA 40S and a 40S mathematics. Students can enter the Faculty of Arts directly or start in University 1 and declare the economics major later.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://umanitoba.ca/arts/economics",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UManitoba application deadline",
+          "detail": "Apply by March 1, 2027 for most direct-entry Fall 2027 programs for Canadian applicants. Verify the current cycle's deadline for your program on the UManitoba admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uwinnipeg",
+      "category": "economics",
+      "slug": "uwinnipeg-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.uwinnipeg.ca/economics/",
+      "notes": "Manitoba applicants present ELA 40S and a 40S mathematics; Ontario 4U equivalents are shown.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 70,
+          "competitiveHigh": 77,
+          "sourceUrl": "https://www.uwinnipeg.ca/economics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UWinnipeg application deadline",
+          "detail": "UWinnipeg's regular application deadline for Fall 2027 is around June 1, 2027 for Canadian applicants, but applying earlier improves scholarship and registration options. Verify the current cycle's dates on the UWinnipeg site.",
+          "value": "2027-06-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "dalhousie",
+      "category": "economics",
+      "slug": "dalhousie-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.dal.ca/academics/programs/undergraduate/economics.html",
+      "notes": "Offered through the Faculty of Arts and Social Sciences; a BSc route and co-op are also available.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.dal.ca/academics/programs/undergraduate/economics.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Dalhousie reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "smu-halifax",
+      "category": "economics",
+      "slug": "smu-halifax-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.smu.ca/academics/departments/economics.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.smu.ca/academics/departments/economics.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Saint Mary's reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "memorial",
+      "category": "economics",
+      "slug": "memorial-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.mun.ca/econ/",
+      "notes": "Memorial's tuition is among the lowest of any Canadian university, particularly for students from Newfoundland and Labrador.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.mun.ca/econ/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Memorial reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "unb",
+      "category": "economics",
+      "slug": "unb-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.unb.ca/fredericton/arts/departments/economics/",
+      "notes": "Offered through the Faculty of Arts on the Fredericton campus.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.unb.ca/fredericton/arts/departments/economics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "UNB reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "mta",
+      "category": "economics",
+      "slug": "mta-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.mta.ca/programs/economics",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.mta.ca/programs/economics",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Mount Allison reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "stu",
+      "category": "economics",
+      "slug": "stu-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.stu.ca/economics/",
+      "notes": "Small liberal-arts university; economics is offered as a BA major, with joint options alongside other social sciences.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 68,
+          "competitiveLow": 72,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.stu.ca/economics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "St. Thomas reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "upei",
+      "category": "economics",
+      "slug": "upei-economics",
+      "name": "Economics",
+      "degreeType": "BA",
+      "url": "https://www.upei.ca/programs/economics",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.upei.ca/programs/economics",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "UPEI reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    }
+  ]
+}
