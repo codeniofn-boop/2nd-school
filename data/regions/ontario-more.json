@@ -1,0 +1,3621 @@
+{
+  "institutions": [
+    {
+      "slug": "queens",
+      "name": "Queen's University",
+      "shortName": "Queen's",
+      "type": "university",
+      "city": "Kingston",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.queensu.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "ottawa",
+      "name": "University of Ottawa",
+      "shortName": "uOttawa",
+      "type": "university",
+      "city": "Ottawa",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.uottawa.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "carleton",
+      "name": "Carleton University",
+      "shortName": "Carleton",
+      "type": "university",
+      "city": "Ottawa",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://carleton.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "york",
+      "name": "York University",
+      "shortName": "York",
+      "type": "university",
+      "city": "Toronto",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.yorku.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "guelph",
+      "name": "University of Guelph",
+      "shortName": "Guelph",
+      "type": "university",
+      "city": "Guelph",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.uoguelph.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "laurier",
+      "name": "Wilfrid Laurier University",
+      "shortName": "Laurier",
+      "type": "university",
+      "city": "Waterloo",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.wlu.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "windsor",
+      "name": "University of Windsor",
+      "shortName": "Windsor",
+      "type": "university",
+      "city": "Windsor",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.uwindsor.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "brock",
+      "name": "Brock University",
+      "shortName": "Brock",
+      "type": "university",
+      "city": "St. Catharines",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://brocku.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "trent",
+      "name": "Trent University",
+      "shortName": "Trent",
+      "type": "university",
+      "city": "Peterborough",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.trentu.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "lakehead",
+      "name": "Lakehead University",
+      "shortName": "Lakehead",
+      "type": "university",
+      "city": "Thunder Bay",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.lakeheadu.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "laurentian",
+      "name": "Laurentian University",
+      "shortName": "Laurentian",
+      "type": "university",
+      "city": "Sudbury",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://laurentian.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "nipissing",
+      "name": "Nipissing University",
+      "shortName": "Nipissing",
+      "type": "university",
+      "city": "North Bay",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.nipissingu.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "ontario-tech",
+      "name": "Ontario Tech University",
+      "shortName": "Ontario Tech",
+      "type": "university",
+      "city": "Oshawa",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://ontariotechu.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "algoma",
+      "name": "Algoma University",
+      "shortName": "Algoma",
+      "type": "university",
+      "city": "Sault Ste. Marie",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://algomau.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "ocad",
+      "name": "OCAD University",
+      "shortName": "OCAD",
+      "type": "university",
+      "city": "Toronto",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.ocadu.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "rmc",
+      "name": "Royal Military College of Canada",
+      "shortName": "RMC",
+      "type": "university",
+      "city": "Kingston",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.rmc-cmr.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "hearst",
+      "name": "Université de Hearst",
+      "shortName": "Hearst",
+      "type": "university",
+      "city": "Hearst",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://www.uhearst.ca",
+      "applicationSystem": "OUAC"
+    },
+    {
+      "slug": "saint-paul",
+      "name": "Saint Paul University",
+      "shortName": "Saint Paul",
+      "type": "university",
+      "city": "Ottawa",
+      "province": "ON",
+      "country": "CA",
+      "website": "https://ustpaul.ca",
+      "applicationSystem": "OUAC"
+    }
+  ],
+  "programs": [
+    {
+      "institution": "queens",
+      "category": "computer-science",
+      "slug": "queens-computing",
+      "name": "Computing",
+      "degreeType": "BCmp",
+      "campus": null,
+      "url": "https://www.cs.queensu.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 87,
+          "competitiveHigh": 92,
+          "sourceUrl": "https://www.cs.queensu.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Queen's entrance scholarships",
+          "detail": "Admitted students with averages of roughly 90% and above are automatically considered for Queen's admission-based entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "queens",
+      "category": "engineering",
+      "slug": "queens-engineering",
+      "name": "Engineering (Smith Engineering)",
+      "degreeType": "BASc",
+      "campus": null,
+      "url": "https://smithengineering.queensu.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 85,
+          "competitiveLow": 90,
+          "competitiveHigh": 94,
+          "sourceUrl": "https://smithengineering.queensu.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Queen's entrance scholarships",
+          "detail": "Admitted students with averages of roughly 90% and above are automatically considered for Queen's admission-based entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "queens",
+      "category": "business",
+      "slug": "queens-commerce",
+      "name": "Commerce (Smith School of Business)",
+      "degreeType": "BCom",
+      "campus": null,
+      "url": "https://smith.queensu.ca/bcom",
+      "notes": "Queen's Commerce admission relies heavily on the PSE supplementary essays; a strong average alone does not secure an offer.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 87,
+          "competitiveLow": 90,
+          "competitiveHigh": 94,
+          "sourceUrl": "https://smith.queensu.ca/bcom",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "essay",
+          "name": "Personal Statement of Experience (PSE)",
+          "description": "Queen's online supplementary essays about activities, leadership, and experiences; weighted heavily in Commerce selection.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Treat the PSE as the deciding factor",
+          "detail": "Above the grade threshold, the PSE essays drive Commerce selection. Draft early, be specific about leadership and initiative, and answer the questions actually asked.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "Queen's entrance scholarships",
+          "detail": "Admitted students with averages of roughly 90% and above are automatically considered for Queen's admission-based entrance scholarships.",
+          "value": "90",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "queens",
+      "category": "nursing",
+      "slug": "queens-nursing",
+      "name": "Nursing (BNSc)",
+      "degreeType": "BNSc",
+      "campus": null,
+      "url": "https://nursing.queensu.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 85,
+          "competitiveLow": 88,
+          "competitiveHigh": 92,
+          "sourceUrl": "https://nursing.queensu.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Queen's entrance scholarships",
+          "detail": "Admitted students with averages of roughly 90% and above are automatically considered for Queen's admission-based entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "queens",
+      "category": "health-sciences",
+      "slug": "queens-health-sciences",
+      "name": "Health Sciences (BHSc)",
+      "degreeType": "BHSc",
+      "campus": null,
+      "url": "https://bhsc.queensu.ca",
+      "notes": "Heavily oversubscribed; successful applicants typically present averages well into the 90s.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 88,
+          "competitiveLow": 93,
+          "competitiveHigh": 96,
+          "sourceUrl": "https://bhsc.queensu.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Queen's entrance scholarships",
+          "detail": "Admitted students with averages of roughly 90% and above are automatically considered for Queen's admission-based entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ottawa",
+      "category": "computer-science",
+      "slug": "ottawa-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.uottawa.ca/faculty-engineering",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://www.uottawa.ca/faculty-engineering",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "uOttawa admission scholarships",
+          "detail": "uOttawa admission scholarships are automatic and tiered by admission average, starting at roughly 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ottawa",
+      "category": "engineering",
+      "slug": "ottawa-engineering",
+      "name": "Engineering",
+      "degreeType": "BASc",
+      "campus": null,
+      "url": "https://www.uottawa.ca/faculty-engineering",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://www.uottawa.ca/faculty-engineering",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "uOttawa admission scholarships",
+          "detail": "uOttawa admission scholarships are automatic and tiered by admission average, starting at roughly 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ottawa",
+      "category": "business",
+      "slug": "ottawa-telfer-commerce",
+      "name": "Commerce (Telfer School of Management)",
+      "degreeType": "BCom",
+      "campus": null,
+      "url": "https://telfer.uottawa.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://telfer.uottawa.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "uOttawa admission scholarships",
+          "detail": "uOttawa admission scholarships are automatic and tiered by admission average, starting at roughly 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ottawa",
+      "category": "nursing",
+      "slug": "ottawa-nursing",
+      "name": "Nursing (BScN)",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://www.uottawa.ca/faculty-health-sciences",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://www.uottawa.ca/faculty-health-sciences",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "uOttawa admission scholarships",
+          "detail": "uOttawa admission scholarships are automatic and tiered by admission average, starting at roughly 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ottawa",
+      "category": "health-sciences",
+      "slug": "ottawa-health-sciences",
+      "name": "Health Sciences (BHSc)",
+      "degreeType": "BHSc",
+      "campus": null,
+      "url": "https://www.uottawa.ca/faculty-health-sciences",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 82,
+          "competitiveHigh": 87,
+          "sourceUrl": "https://www.uottawa.ca/faculty-health-sciences",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "SBI4U",
+              "courseName": "Biology"
+            },
+            {
+              "courseCode": "SCH4U",
+              "courseName": "Chemistry"
+            }
+          ]
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "uOttawa admission scholarships",
+          "detail": "uOttawa admission scholarships are automatic and tiered by admission average, starting at roughly 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "carleton",
+      "category": "computer-science",
+      "slug": "carleton-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BCS",
+      "campus": null,
+      "url": "https://carleton.ca/scs/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://carleton.ca/scs/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Carleton entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for Carleton's renewable entrance scholarships, with higher tiers at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "carleton",
+      "category": "engineering",
+      "slug": "carleton-engineering",
+      "name": "Engineering",
+      "degreeType": "BEng",
+      "campus": null,
+      "url": "https://carleton.ca/engineering-design/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://carleton.ca/engineering-design/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Carleton entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for Carleton's renewable entrance scholarships, with higher tiers at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "carleton",
+      "category": "business",
+      "slug": "carleton-sprott-business",
+      "name": "Commerce (Sprott School of Business)",
+      "degreeType": "BCom",
+      "campus": null,
+      "url": "https://sprott.carleton.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 82,
+          "competitiveHigh": 87,
+          "sourceUrl": "https://sprott.carleton.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Carleton entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for Carleton's renewable entrance scholarships, with higher tiers at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "carleton",
+      "category": "health-sciences",
+      "slug": "carleton-health-sciences",
+      "name": "Health Sciences (BHSc)",
+      "degreeType": "BHSc",
+      "campus": null,
+      "url": "https://carleton.ca/health/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 82,
+          "competitiveHigh": 87,
+          "sourceUrl": "https://carleton.ca/health/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Carleton entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for Carleton's renewable entrance scholarships, with higher tiers at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "york",
+      "category": "computer-science",
+      "slug": "york-computer-science",
+      "name": "Computer Science (Lassonde)",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://lassonde.yorku.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 83,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://lassonde.yorku.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "York entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for York entrance scholarships, with larger awards at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "york",
+      "category": "engineering",
+      "slug": "york-lassonde-engineering",
+      "name": "Engineering (Lassonde)",
+      "degreeType": "BEng",
+      "campus": null,
+      "url": "https://lassonde.yorku.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 83,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://lassonde.yorku.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "York entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for York entrance scholarships, with larger awards at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "york",
+      "category": "business",
+      "slug": "york-schulich-bba",
+      "name": "Business Administration (Schulich)",
+      "degreeType": "BBA",
+      "campus": null,
+      "url": "https://schulich.yorku.ca",
+      "notes": "The Schulich supplementary (essays and timed video responses) is weighted alongside marks; a strong average alone is not sufficient.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 85,
+          "competitiveLow": 90,
+          "competitiveHigh": 93,
+          "sourceUrl": "https://schulich.yorku.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "essay",
+          "name": "Schulich Supplementary Essay",
+          "description": "Written responses submitted after applying; scored and weighted in admission decisions.",
+          "isWeighted": true
+        },
+        {
+          "kind": "video",
+          "name": "Schulich Timed Video Responses",
+          "description": "Recorded video answers to timed questions, completed as part of the supplementary application.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Prepare the Schulich supplementary carefully",
+          "detail": "The essay and timed video responses are weighted alongside your marks. Practice answering on camera within a time limit and have concrete leadership stories ready.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "York entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for York entrance scholarships, with larger awards at higher averages.",
+          "value": "80",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "york",
+      "category": "nursing",
+      "slug": "york-nursing",
+      "name": "Nursing (BScN)",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://health.yorku.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://health.yorku.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "York entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for York entrance scholarships, with larger awards at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "york",
+      "category": "health-sciences",
+      "slug": "york-kinesiology",
+      "name": "Kinesiology and Health Science (BSc)",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://health.yorku.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://health.yorku.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "York entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for York entrance scholarships, with larger awards at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "guelph",
+      "category": "computer-science",
+      "slug": "guelph-computer-science",
+      "name": "Computing (BComp)",
+      "degreeType": "BComp",
+      "campus": null,
+      "url": "https://admission.uoguelph.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 77,
+          "competitiveLow": 81,
+          "competitiveHigh": 86,
+          "sourceUrl": "https://admission.uoguelph.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Guelph entrance scholarships",
+          "detail": "Averages of roughly 85% and above receive automatic consideration for Guelph's admission-average entrance scholarships, with higher tiers at higher averages.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "guelph",
+      "category": "engineering",
+      "slug": "guelph-engineering",
+      "name": "Engineering",
+      "degreeType": "BEng",
+      "campus": null,
+      "url": "https://www.uoguelph.ca/engineering/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://www.uoguelph.ca/engineering/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Guelph entrance scholarships",
+          "detail": "Averages of roughly 85% and above receive automatic consideration for Guelph's admission-average entrance scholarships, with higher tiers at higher averages.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "guelph",
+      "category": "business",
+      "slug": "guelph-commerce",
+      "name": "Commerce",
+      "degreeType": "BComm",
+      "campus": null,
+      "url": "https://admission.uoguelph.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 77,
+          "competitiveLow": 81,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://admission.uoguelph.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Guelph entrance scholarships",
+          "detail": "Averages of roughly 85% and above receive automatic consideration for Guelph's admission-average entrance scholarships, with higher tiers at higher averages.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "guelph",
+      "category": "health-sciences",
+      "slug": "guelph-biological-science",
+      "name": "Biological Science",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://admission.uoguelph.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 77,
+          "competitiveLow": 81,
+          "competitiveHigh": 86,
+          "sourceUrl": "https://admission.uoguelph.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Guelph entrance scholarships",
+          "detail": "Averages of roughly 85% and above receive automatic consideration for Guelph's admission-average entrance scholarships, with higher tiers at higher averages.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "laurier",
+      "category": "computer-science",
+      "slug": "laurier-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.wlu.ca/programs",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 74,
+          "competitiveLow": 79,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.wlu.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Laurier entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Laurier entrance scholarships, with higher tiers at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "laurier",
+      "category": "business",
+      "slug": "laurier-bba",
+      "name": "Business Administration (Lazaridis BBA)",
+      "degreeType": "BBA",
+      "campus": null,
+      "url": "https://www.wlu.ca/programs",
+      "notes": "One of the most competitive BBA programs in Ontario; offers typically go to applicants with averages in the low 90s.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 85,
+          "competitiveLow": 90,
+          "competitiveHigh": 93,
+          "sourceUrl": "https://www.wlu.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Laurier entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Laurier entrance scholarships, with higher tiers at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "windsor",
+      "category": "computer-science",
+      "slug": "windsor-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BCS",
+      "campus": null,
+      "url": "https://www.uwindsor.ca/science/computerscience/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.uwindsor.ca/science/computerscience/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Windsor entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for University of Windsor entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "windsor",
+      "category": "engineering",
+      "slug": "windsor-engineering",
+      "name": "Engineering",
+      "degreeType": "BASc",
+      "campus": null,
+      "url": "https://www.uwindsor.ca/engineering/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 74,
+          "competitiveLow": 80,
+          "competitiveHigh": 86,
+          "sourceUrl": "https://www.uwindsor.ca/engineering/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Windsor entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for University of Windsor entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "windsor",
+      "category": "business",
+      "slug": "windsor-business",
+      "name": "Business Administration (Odette)",
+      "degreeType": "BComm",
+      "campus": null,
+      "url": "https://www.uwindsor.ca/odette/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 77,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.uwindsor.ca/odette/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Windsor entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for University of Windsor entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "windsor",
+      "category": "nursing",
+      "slug": "windsor-nursing",
+      "name": "Nursing (BScN)",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://www.uwindsor.ca/nursing/",
+      "notes": "Demand well exceeds seats; realistic offers sit above the published minimum.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 86,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://www.uwindsor.ca/nursing/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Windsor entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for University of Windsor entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "brock",
+      "category": "computer-science",
+      "slug": "brock-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://brocku.ca/mathematics-science/computer-science/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 76,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://brocku.ca/mathematics-science/computer-science/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Brock Scholars Award",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for the Brock Scholars Award, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "brock",
+      "category": "business",
+      "slug": "brock-business",
+      "name": "Business Administration (Goodman BBA)",
+      "degreeType": "BBA",
+      "campus": null,
+      "url": "https://brocku.ca/goodman/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 82,
+          "competitiveHigh": 86,
+          "sourceUrl": "https://brocku.ca/goodman/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Brock Scholars Award",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for the Brock Scholars Award, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "brock",
+      "category": "nursing",
+      "slug": "brock-nursing",
+      "name": "Nursing (BScN)",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://brocku.ca/applied-health-sciences/nursing/",
+      "notes": "Demand far exceeds seats; realistic offers sit well above the published minimum.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 88,
+          "competitiveHigh": 92,
+          "sourceUrl": "https://brocku.ca/applied-health-sciences/nursing/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Brock Scholars Award",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for the Brock Scholars Award, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "brock",
+      "category": "health-sciences",
+      "slug": "brock-medical-sciences",
+      "name": "Medical Sciences",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://brocku.ca/applied-health-sciences/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 82,
+          "competitiveHigh": 87,
+          "sourceUrl": "https://brocku.ca/applied-health-sciences/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Brock Scholars Award",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for the Brock Scholars Award, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "trent",
+      "category": "computer-science",
+      "slug": "trent-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.trentu.ca/futurestudents/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.trentu.ca/futurestudents/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Trent entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Trent's renewable entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "trent",
+      "category": "business",
+      "slug": "trent-business-administration",
+      "name": "Business Administration",
+      "degreeType": "BBA",
+      "campus": null,
+      "url": "https://www.trentu.ca/business/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.trentu.ca/business/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Trent entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Trent's renewable entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "trent",
+      "category": "nursing",
+      "slug": "trent-nursing",
+      "name": "Nursing (Trent/Fleming BScN)",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://www.trentu.ca/nursing/",
+      "notes": "Delivered through the Trent/Fleming School of Nursing; admission is far more competitive than Trent's general entry programs.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://www.trentu.ca/nursing/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Trent entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Trent's renewable entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "trent",
+      "category": "health-sciences",
+      "slug": "trent-biology",
+      "name": "Biology",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.trentu.ca/biology/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.trentu.ca/biology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry",
+          "isRequired": false
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Trent entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Trent's renewable entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "lakehead",
+      "category": "computer-science",
+      "slug": "lakehead-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.lakeheadu.ca/programs",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.lakeheadu.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Lakehead entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Lakehead entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "lakehead",
+      "category": "engineering",
+      "slug": "lakehead-engineering",
+      "name": "Engineering",
+      "degreeType": "BEng",
+      "campus": null,
+      "url": "https://www.lakeheadu.ca/programs",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 76,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.lakeheadu.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Lakehead entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Lakehead entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "lakehead",
+      "category": "business",
+      "slug": "lakehead-business-administration",
+      "name": "Business Administration",
+      "degreeType": "HBComm",
+      "campus": null,
+      "url": "https://www.lakeheadu.ca/programs",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.lakeheadu.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Lakehead entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Lakehead entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "lakehead",
+      "category": "nursing",
+      "slug": "lakehead-nursing",
+      "name": "Nursing (BScN)",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://www.lakeheadu.ca/programs",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 82,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://www.lakeheadu.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Lakehead entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Lakehead entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "laurentian",
+      "category": "computer-science",
+      "slug": "laurentian-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://laurentian.ca/programs",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://laurentian.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Laurentian entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Laurentian entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "laurentian",
+      "category": "engineering",
+      "slug": "laurentian-engineering",
+      "name": "Engineering (Bharti School)",
+      "degreeType": "BEng",
+      "campus": null,
+      "url": "https://laurentian.ca/programs",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://laurentian.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Laurentian entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Laurentian entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "laurentian",
+      "category": "business",
+      "slug": "laurentian-business-administration",
+      "name": "Business Administration",
+      "degreeType": "BBA",
+      "campus": null,
+      "url": "https://laurentian.ca/programs",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://laurentian.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Laurentian entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Laurentian entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "laurentian",
+      "category": "nursing",
+      "slug": "laurentian-nursing",
+      "name": "Nursing (BScN)",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://laurentian.ca/programs",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 86,
+          "sourceUrl": "https://laurentian.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Laurentian entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Laurentian entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "nipissing",
+      "category": "computer-science",
+      "slug": "nipissing-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.nipissingu.ca/academics",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://www.nipissingu.ca/academics",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Nipissing entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Nipissing entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "nipissing",
+      "category": "business",
+      "slug": "nipissing-business-administration",
+      "name": "Business Administration",
+      "degreeType": "BBA",
+      "campus": null,
+      "url": "https://www.nipissingu.ca/academics",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://www.nipissingu.ca/academics",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Nipissing entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Nipissing entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "nipissing",
+      "category": "nursing",
+      "slug": "nipissing-nursing",
+      "name": "Nursing (Collaborative BScN)",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://www.nipissingu.ca/academics",
+      "notes": "Offered collaboratively with Canadore College.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 86,
+          "sourceUrl": "https://www.nipissingu.ca/academics",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Nipissing entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Nipissing entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ontario-tech",
+      "category": "computer-science",
+      "slug": "ontario-tech-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BSc (Hons)",
+      "campus": null,
+      "url": "https://science.ontariotechu.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 86,
+          "sourceUrl": "https://science.ontariotechu.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Ontario Tech entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Ontario Tech entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ontario-tech",
+      "category": "engineering",
+      "slug": "ontario-tech-engineering",
+      "name": "Engineering",
+      "degreeType": "BEng",
+      "campus": null,
+      "url": "https://engineering.ontariotechu.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 86,
+          "sourceUrl": "https://engineering.ontariotechu.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Ontario Tech entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Ontario Tech entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ontario-tech",
+      "category": "business",
+      "slug": "ontario-tech-commerce",
+      "name": "Commerce",
+      "degreeType": "BCom (Hons)",
+      "campus": null,
+      "url": "https://businessandit.ontariotechu.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 76,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://businessandit.ontariotechu.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Ontario Tech entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Ontario Tech entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ontario-tech",
+      "category": "nursing",
+      "slug": "ontario-tech-nursing",
+      "name": "Nursing (Collaborative BScN)",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://healthsciences.ontariotechu.ca",
+      "notes": "Offered collaboratively with Durham College.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://healthsciences.ontariotechu.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Ontario Tech entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Ontario Tech entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ontario-tech",
+      "category": "health-sciences",
+      "slug": "ontario-tech-health-sciences",
+      "name": "Health Sciences (BHSc)",
+      "degreeType": "BHSc",
+      "campus": null,
+      "url": "https://healthsciences.ontariotechu.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 76,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://healthsciences.ontariotechu.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Ontario Tech entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Ontario Tech entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "algoma",
+      "category": "computer-science",
+      "slug": "algoma-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BCOSC",
+      "campus": null,
+      "url": "https://algomau.ca/academics/programs/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 70,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://algomau.ca/academics/programs/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "algoma",
+      "category": "business",
+      "slug": "algoma-business-administration",
+      "name": "Business Administration",
+      "degreeType": "BBA",
+      "campus": null,
+      "url": "https://algomau.ca/academics/programs/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 70,
+          "competitiveHigh": 76,
+          "sourceUrl": "https://algomau.ca/academics/programs/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "rmc",
+      "category": "engineering",
+      "slug": "rmc-engineering",
+      "name": "Engineering",
+      "degreeType": "BEng",
+      "campus": null,
+      "url": "https://www.rmc-cmr.ca/en",
+      "notes": "Admission is through the Canadian Armed Forces Regular Officer Training Plan (ROTP), not a standard OUAC offer: selection includes an aptitude test, medical exam, and interview, tuition is subsidized, and graduates owe a period of obligatory military service as commissioned officers.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://www.rmc-cmr.ca/en",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "test",
+          "name": "Canadian Forces Aptitude Test (CFAT)",
+          "description": "Standardized aptitude test written at a Canadian Armed Forces recruiting centre as part of ROTP selection.",
+          "isWeighted": true
+        },
+        {
+          "kind": "interview",
+          "name": "CAF selection interview and medical",
+          "description": "Interview and medical examination conducted by the Canadian Armed Forces as part of ROTP selection.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Start the ROTP file early",
+          "detail": "RMC selection runs through Canadian Armed Forces recruiting and includes the CFAT, a medical, and an interview on top of grades. Recruiting files take months to process, so apply in the fall rather than waiting for the deadline.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "ROTP application deadline",
+          "detail": "RMC applications go through Canadian Armed Forces recruiting (ROTP) rather than a standard OUAC program choice, with deadlines typically in late January. Aim to have your file complete by January 15, 2027.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        }
+      ]
+    }
+  ]
+}
