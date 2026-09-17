@@ -1,0 +1,2393 @@
+{
+  "institutions": [
+    {
+      "slug": "dalhousie",
+      "name": "Dalhousie University",
+      "shortName": "Dal",
+      "type": "university",
+      "city": "Halifax",
+      "province": "NS",
+      "country": "CA",
+      "website": "https://www.dal.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "smu-halifax",
+      "name": "Saint Mary's University",
+      "shortName": "SMU",
+      "type": "university",
+      "city": "Halifax",
+      "province": "NS",
+      "country": "CA",
+      "website": "https://www.smu.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "acadia",
+      "name": "Acadia University",
+      "shortName": "Acadia",
+      "type": "university",
+      "city": "Wolfville",
+      "province": "NS",
+      "country": "CA",
+      "website": "https://www2.acadiau.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "stfx",
+      "name": "St. Francis Xavier University",
+      "shortName": "StFX",
+      "type": "university",
+      "city": "Antigonish",
+      "province": "NS",
+      "country": "CA",
+      "website": "https://www.stfx.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "cbu",
+      "name": "Cape Breton University",
+      "shortName": "CBU",
+      "type": "university",
+      "city": "Sydney",
+      "province": "NS",
+      "country": "CA",
+      "website": "https://www.cbu.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "msvu",
+      "name": "Mount Saint Vincent University",
+      "shortName": "MSVU",
+      "type": "university",
+      "city": "Halifax",
+      "province": "NS",
+      "country": "CA",
+      "website": "https://www.msvu.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "nscad",
+      "name": "NSCAD University",
+      "shortName": "NSCAD",
+      "type": "university",
+      "city": "Halifax",
+      "province": "NS",
+      "country": "CA",
+      "website": "https://nscad.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "sainte-anne",
+      "name": "Université Sainte-Anne",
+      "shortName": "Sainte-Anne",
+      "type": "university",
+      "city": "Church Point",
+      "province": "NS",
+      "country": "CA",
+      "website": "https://www.usainteanne.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "kings-halifax",
+      "name": "University of King's College",
+      "shortName": "King's",
+      "type": "university",
+      "city": "Halifax",
+      "province": "NS",
+      "country": "CA",
+      "website": "https://ukings.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "unb",
+      "name": "University of New Brunswick",
+      "shortName": "UNB",
+      "type": "university",
+      "city": "Fredericton",
+      "province": "NB",
+      "country": "CA",
+      "website": "https://www.unb.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "stu",
+      "name": "St. Thomas University",
+      "shortName": "STU",
+      "type": "university",
+      "city": "Fredericton",
+      "province": "NB",
+      "country": "CA",
+      "website": "https://www.stu.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "mta",
+      "name": "Mount Allison University",
+      "shortName": "Mount A",
+      "type": "university",
+      "city": "Sackville",
+      "province": "NB",
+      "country": "CA",
+      "website": "https://www.mta.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "moncton",
+      "name": "Université de Moncton",
+      "shortName": "U de Moncton",
+      "type": "university",
+      "city": "Moncton",
+      "province": "NB",
+      "country": "CA",
+      "website": "https://www.umoncton.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "upei",
+      "name": "University of Prince Edward Island",
+      "shortName": "UPEI",
+      "type": "university",
+      "city": "Charlottetown",
+      "province": "PE",
+      "country": "CA",
+      "website": "https://www.upei.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "memorial",
+      "name": "Memorial University of Newfoundland",
+      "shortName": "Memorial",
+      "type": "university",
+      "city": "St. John's",
+      "province": "NL",
+      "country": "CA",
+      "website": "https://www.mun.ca",
+      "applicationSystem": "Direct"
+    }
+  ],
+  "programs": [
+    {
+      "institution": "dalhousie",
+      "category": "computer-science",
+      "slug": "dalhousie-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BCS",
+      "campus": null,
+      "url": "https://www.dal.ca/academics/programs/undergraduate/computer-science.html",
+      "notes": "Optional co-op is available through the Faculty of Computer Science. Ontario course codes are shown; applicants from other provinces need the equivalent grade 12 academic courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://www.dal.ca/academics/programs/undergraduate/computer-science.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Dalhousie reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "Applicants with admission averages of roughly 85% and above are automatically considered for Dalhousie's general entrance scholarships; larger named awards require a separate application earlier in the cycle.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "dalhousie",
+      "category": "engineering",
+      "slug": "dalhousie-engineering",
+      "name": "Engineering",
+      "degreeType": "BEng",
+      "campus": null,
+      "url": "https://www.dal.ca/academics/programs/undergraduate/engineering.html",
+      "notes": "Students complete a common first two years before choosing a discipline. Calculus (MCV4U) is not formally required but is strongly recommended preparation for first-year engineering mathematics.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://www.dal.ca/academics/programs/undergraduate/engineering.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Dalhousie reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "Applicants with admission averages of roughly 85% and above are automatically considered for Dalhousie's general entrance scholarships; larger named awards require a separate application earlier in the cycle.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "dalhousie",
+      "category": "business",
+      "slug": "dalhousie-commerce",
+      "name": "Commerce (Co-op)",
+      "degreeType": "BComm",
+      "campus": null,
+      "url": "https://www.dal.ca/academics/programs/undergraduate/commerce.html",
+      "notes": "Paid co-op work terms are a required part of Dalhousie's Bachelor of Commerce.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.dal.ca/academics/programs/undergraduate/commerce.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Dalhousie reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "Applicants with admission averages of roughly 85% and above are automatically considered for Dalhousie's general entrance scholarships; larger named awards require a separate application earlier in the cycle.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "dalhousie",
+      "category": "nursing",
+      "slug": "dalhousie-nursing",
+      "name": "Nursing",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://www.dal.ca/academics/programs/undergraduate/nursing.html",
+      "notes": "Limited-enrolment program; successful applicants typically present averages well above the published minimum.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 84,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://www.dal.ca/academics/programs/undergraduate/nursing.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "test",
+          "name": "CASPer",
+          "description": "Online situational judgment test used by Dalhousie's School of Nursing in recent cycles; verify the current requirement on the program website.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Prepare for CASPer",
+          "detail": "When required, the CASPer situational judgment test is weighted in nursing admission. Confirm the current cycle's requirement early, practice timed scenario responses, and book a sitting well before the application deadline.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "Nursing application deadline",
+          "detail": "Nursing at Dalhousie is a limited-enrolment program with a fixed application deadline earlier than general admission, typically in late winter. Confirm the current cycle's date on the university's admissions pages in the fall and apply as early as possible.",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "Applicants with admission averages of roughly 85% and above are automatically considered for Dalhousie's general entrance scholarships; larger named awards require a separate application earlier in the cycle.",
+          "value": "85",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "dalhousie",
+      "category": "health-sciences",
+      "slug": "dalhousie-medical-sciences",
+      "name": "Medical Sciences",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.dal.ca/academics/programs/undergraduate/medical-sciences.html",
+      "notes": "Dalhousie's most selective direct-entry science program. Applicants not admitted are generally considered for the broader BSc, where Biology remains a strong path toward health professions.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 91,
+          "sourceUrl": "https://www.dal.ca/academics/programs/undergraduate/medical-sciences.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Dalhousie reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "Applicants with admission averages of roughly 85% and above are automatically considered for Dalhousie's general entrance scholarships; larger named awards require a separate application earlier in the cycle.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "smu-halifax",
+      "category": "computer-science",
+      "slug": "smu-halifax-computing-science",
+      "name": "Computing Science",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.smu.ca/academics/departments/mathematics-and-computing-science.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.smu.ca/academics/departments/mathematics-and-computing-science.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Saint Mary's reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "smu-halifax",
+      "category": "business",
+      "slug": "smu-halifax-sobey-commerce",
+      "name": "Commerce (Sobey School of Business)",
+      "degreeType": "BComm",
+      "campus": null,
+      "url": "https://www.smu.ca/sobey/",
+      "notes": "The Sobey School of Business is one of the largest business schools in Atlantic Canada, with majors across accounting, finance, marketing, and entrepreneurship.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.smu.ca/sobey/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Saint Mary's reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "acadia",
+      "category": "computer-science",
+      "slug": "acadia-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BCS",
+      "campus": null,
+      "url": "https://cs.acadiau.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://cs.acadiau.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Acadia reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "Acadia automatically considers applicants for entrance scholarships based on admission average, with award tiers beginning around 80%. No separate application is needed for the automatic tiers.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "acadia",
+      "category": "business",
+      "slug": "acadia-business",
+      "name": "Business Administration",
+      "degreeType": "BBA",
+      "campus": null,
+      "url": "https://business.acadiau.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://business.acadiau.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Acadia reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "Acadia automatically considers applicants for entrance scholarships based on admission average, with award tiers beginning around 80%. No separate application is needed for the automatic tiers.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "acadia",
+      "category": "health-sciences",
+      "slug": "acadia-biology",
+      "name": "Biology",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://biology.acadiau.ca",
+      "notes": "Chemistry (SCH4U) is not always required for admission but is expected preparation for first-year science courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://biology.acadiau.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Acadia reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "Acadia automatically considers applicants for entrance scholarships based on admission average, with award tiers beginning around 80%. No separate application is needed for the automatic tiers.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "stfx",
+      "category": "computer-science",
+      "slug": "stfx-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.stfx.ca/programs/computer-science",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.stfx.ca/programs/computer-science",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "StFX reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "StFX automatically considers applicants for entrance scholarships based on admission average, with tiers beginning around 80%; higher averages qualify for larger awards.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "stfx",
+      "category": "business",
+      "slug": "stfx-schwartz-business",
+      "name": "Business Administration (Gerald Schwartz School of Business)",
+      "degreeType": "BBA",
+      "campus": null,
+      "url": "https://www.stfx.ca/programs/business-administration",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 76,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.stfx.ca/programs/business-administration",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "StFX reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "StFX automatically considers applicants for entrance scholarships based on admission average, with tiers beginning around 80%; higher averages qualify for larger awards.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "stfx",
+      "category": "nursing",
+      "slug": "stfx-nursing",
+      "name": "Nursing (Rankin School of Nursing)",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://www.stfx.ca/programs/nursing",
+      "notes": "Limited-enrolment program; successful applicants typically present averages well above the published minimum.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 83,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://www.stfx.ca/programs/nursing",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Nursing application deadline",
+          "detail": "Nursing at StFX is a limited-enrolment program with a fixed application deadline earlier than general admission, typically in late winter. Confirm the current cycle's date on the university's admissions pages in the fall and apply as early as possible.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "StFX automatically considers applicants for entrance scholarships based on admission average, with tiers beginning around 80%; higher averages qualify for larger awards.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "stfx",
+      "category": "health-sciences",
+      "slug": "stfx-human-kinetics",
+      "name": "Human Kinetics",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.stfx.ca/programs/human-kinetics",
+      "notes": "A common route toward physiotherapy, medicine, and other health professions; Chemistry (SCH4U) is recommended preparation for first-year science courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 76,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.stfx.ca/programs/human-kinetics",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "StFX reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "StFX automatically considers applicants for entrance scholarships based on admission average, with tiers beginning around 80%; higher averages qualify for larger awards.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "cbu",
+      "category": "business",
+      "slug": "cbu-business",
+      "name": "Business Administration (Shannon School of Business)",
+      "degreeType": "BBA",
+      "campus": null,
+      "url": "https://www.cbu.ca/academics/programs/bachelor-of-business-administration/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 70,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.cbu.ca/academics/programs/bachelor-of-business-administration/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Cape Breton University reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "cbu",
+      "category": "nursing",
+      "slug": "cbu-nursing",
+      "name": "Nursing",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://www.cbu.ca/academics/programs/bachelor-of-science-nursing/",
+      "notes": "Limited-enrolment program; admission is more competitive than CBU's general published minimum suggests.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 78,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.cbu.ca/academics/programs/bachelor-of-science-nursing/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Nursing application deadline",
+          "detail": "Nursing at CBU is a limited-enrolment program with a fixed application deadline earlier than general admission, typically in late winter. Confirm the current cycle's date on the university's admissions pages in the fall and apply as early as possible.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "msvu",
+      "category": "business",
+      "slug": "msvu-business",
+      "name": "Business Administration",
+      "degreeType": "BBA",
+      "campus": null,
+      "url": "https://www.msvu.ca/academics/bachelor-of-business-administration/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.msvu.ca/academics/bachelor-of-business-administration/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "MSVU reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "msvu",
+      "category": "health-sciences",
+      "slug": "msvu-biology",
+      "name": "Biology",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.msvu.ca/academics/bachelor-of-science-biology/",
+      "notes": "Chemistry (SCH4U) is not always required for admission but is expected preparation for first-year science courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.msvu.ca/academics/bachelor-of-science-biology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "MSVU reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "sainte-anne",
+      "category": "business",
+      "slug": "sainte-anne-administration",
+      "name": "Administration des affaires",
+      "degreeType": "BAA",
+      "campus": null,
+      "url": "https://www.usainteanne.ca/administration-des-affaires",
+      "notes": "Université Sainte-Anne is Nova Scotia's francophone university. Instruction is in French, and applicants must demonstrate French-language proficiency. For Ontario applicants, Grade 12 French (FRA4U or FIF4U) or equivalent francophone schooling is the expected preparation.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 70,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.usainteanne.ca/administration-des-affaires",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Université Sainte-Anne reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "unb",
+      "category": "computer-science",
+      "slug": "unb-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BCS",
+      "campus": "Fredericton",
+      "url": "https://www.unb.ca/fredericton/cs/",
+      "notes": "Optional co-op is available; a software engineering stream is offered within the faculty.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 76,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.unb.ca/fredericton/cs/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "UNB reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "UNB awards entrance scholarships automatically based on admission average, with tiers beginning around 80%; additional named awards require a separate scholarship application.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "unb",
+      "category": "engineering",
+      "slug": "unb-engineering",
+      "name": "Engineering",
+      "degreeType": "BScE",
+      "campus": "Fredericton",
+      "url": "https://www.unb.ca/fredericton/engineering/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 87,
+          "sourceUrl": "https://www.unb.ca/fredericton/engineering/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "UNB reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "UNB awards entrance scholarships automatically based on admission average, with tiers beginning around 80%; additional named awards require a separate scholarship application.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "unb",
+      "category": "business",
+      "slug": "unb-business",
+      "name": "Business Administration",
+      "degreeType": "BBA",
+      "campus": "Fredericton",
+      "url": "https://www.unb.ca/fredericton/management/",
+      "notes": "Also offered at UNB's Saint John campus.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.unb.ca/fredericton/management/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "UNB reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "UNB awards entrance scholarships automatically based on admission average, with tiers beginning around 80%; additional named awards require a separate scholarship application.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "unb",
+      "category": "nursing",
+      "slug": "unb-nursing",
+      "name": "Nursing",
+      "degreeType": "BN",
+      "campus": "Fredericton",
+      "url": "https://www.unb.ca/fredericton/nursing/",
+      "notes": "Limited-enrolment program offered at multiple sites; successful applicants typically present averages well above the published minimum.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 82,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://www.unb.ca/fredericton/nursing/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Nursing application deadline",
+          "detail": "Nursing at UNB is a limited-enrolment program with a fixed application deadline earlier than general admission, typically in late winter. Confirm the current cycle's date on the university's admissions pages in the fall and apply as early as possible.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "UNB awards entrance scholarships automatically based on admission average, with tiers beginning around 80%; additional named awards require a separate scholarship application.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "unb",
+      "category": "health-sciences",
+      "slug": "unb-biology",
+      "name": "Biology",
+      "degreeType": "BSc",
+      "campus": "Fredericton",
+      "url": "https://www.unb.ca/fredericton/science/",
+      "notes": "Chemistry (SCH4U) is not always required for admission but is expected preparation for first-year science courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.unb.ca/fredericton/science/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "UNB reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "UNB awards entrance scholarships automatically based on admission average, with tiers beginning around 80%; additional named awards require a separate scholarship application.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mta",
+      "category": "computer-science",
+      "slug": "mta-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.mta.ca/programs/computer-science",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.mta.ca/programs/computer-science",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Mount Allison reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "Mount Allison automatically considers applicants for entrance awards based on admission average, with tiers beginning around 80%.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mta",
+      "category": "business",
+      "slug": "mta-commerce",
+      "name": "Commerce",
+      "degreeType": "BComm",
+      "campus": null,
+      "url": "https://www.mta.ca/programs/commerce",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 77,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.mta.ca/programs/commerce",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Mount Allison reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "Mount Allison automatically considers applicants for entrance awards based on admission average, with tiers beginning around 80%.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mta",
+      "category": "health-sciences",
+      "slug": "mta-biology",
+      "name": "Biology",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.mta.ca/programs/biology",
+      "notes": "Chemistry (SCH4U) is not always required for admission but is expected preparation for first-year science courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.mta.ca/programs/biology",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Mount Allison reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "Mount Allison automatically considers applicants for entrance awards based on admission average, with tiers beginning around 80%.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "moncton",
+      "category": "computer-science",
+      "slug": "moncton-informatique",
+      "name": "Informatique",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.umoncton.ca/programmes/",
+      "notes": "Instruction is in French, and applicants must demonstrate French-language proficiency. For Ontario applicants, Grade 12 French (FRA4U or FIF4U) or equivalent francophone schooling is the expected preparation.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 70,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.umoncton.ca/programmes/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Université de Moncton reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "moncton",
+      "category": "business",
+      "slug": "moncton-administration",
+      "name": "Administration des affaires",
+      "degreeType": "BAA",
+      "campus": null,
+      "url": "https://www.umoncton.ca/programmes/",
+      "notes": "Instruction is in French, and applicants must demonstrate French-language proficiency. For Ontario applicants, Grade 12 French (FRA4U or FIF4U) or equivalent francophone schooling is the expected preparation.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 70,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.umoncton.ca/programmes/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Université de Moncton reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "moncton",
+      "category": "nursing",
+      "slug": "moncton-science-infirmiere",
+      "name": "Science infirmière",
+      "degreeType": "B.Sc.Inf.",
+      "campus": null,
+      "url": "https://www.umoncton.ca/programmes/",
+      "notes": "Limited-enrolment program. Instruction is in French, and applicants must demonstrate French-language proficiency. For Ontario applicants, Grade 12 French (FRA4U or FIF4U) or equivalent francophone schooling is the expected preparation.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 76,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.umoncton.ca/programmes/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Nursing application deadline",
+          "detail": "Nursing at Université de Moncton is a limited-enrolment program with a fixed application deadline earlier than general admission, typically in late winter. Confirm the current cycle's date on the university's admissions pages in the fall and apply as early as possible.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "upei",
+      "category": "computer-science",
+      "slug": "upei-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.upei.ca/programs/computer-science",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.upei.ca/programs/computer-science",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "UPEI reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "UPEI awards entrance scholarships automatically based on admission average, with tiers beginning around 80%.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "upei",
+      "category": "business",
+      "slug": "upei-business",
+      "name": "Business Administration",
+      "degreeType": "BBA",
+      "campus": null,
+      "url": "https://www.upei.ca/programs/business-administration",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.upei.ca/programs/business-administration",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "UPEI reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "UPEI awards entrance scholarships automatically based on admission average, with tiers beginning around 80%.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "upei",
+      "category": "nursing",
+      "slug": "upei-nursing",
+      "name": "Nursing",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://www.upei.ca/programs/nursing",
+      "notes": "Limited-enrolment program; successful applicants typically present averages well above the published minimum.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 82,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://www.upei.ca/programs/nursing",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Nursing application deadline",
+          "detail": "Nursing at UPEI is a limited-enrolment program with a fixed application deadline earlier than general admission, typically in late winter. Confirm the current cycle's date on the university's admissions pages in the fall and apply as early as possible.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "UPEI awards entrance scholarships automatically based on admission average, with tiers beginning around 80%.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "upei",
+      "category": "health-sciences",
+      "slug": "upei-biology",
+      "name": "Biology",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.upei.ca/programs/biology",
+      "notes": "Chemistry (SCH4U) is not always required for admission but is expected preparation for first-year science courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.upei.ca/programs/biology",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "UPEI reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "UPEI awards entrance scholarships automatically based on admission average, with tiers beginning around 80%.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "memorial",
+      "category": "computer-science",
+      "slug": "memorial-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BSc",
+      "campus": "St. John's",
+      "url": "https://www.mun.ca/computerscience/",
+      "notes": "Memorial's tuition is among the lowest of any Canadian university, particularly for students from Newfoundland and Labrador.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.mun.ca/computerscience/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Memorial reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "memorial",
+      "category": "engineering",
+      "slug": "memorial-engineering",
+      "name": "Engineering (Co-op)",
+      "degreeType": "BEng",
+      "campus": "St. John's",
+      "url": "https://www.mun.ca/engineering/",
+      "notes": "Students enter Engineering One, a common first year, before choosing a discipline; paid co-op work terms are a required part of the program. Memorial's tuition is among the lowest of any Canadian university, particularly for students from Newfoundland and Labrador.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 87,
+          "sourceUrl": "https://www.mun.ca/engineering/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Memorial reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "memorial",
+      "category": "business",
+      "slug": "memorial-business",
+      "name": "Business Administration",
+      "degreeType": "BBA",
+      "campus": "St. John's",
+      "url": "https://www.mun.ca/business/",
+      "notes": "Memorial also offers a limited-enrolment Bachelor of Commerce (Co-op); the BBA is the direct-entry route. Memorial's tuition is among the lowest of any Canadian university, particularly for students from Newfoundland and Labrador.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.mun.ca/business/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Memorial reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "memorial",
+      "category": "nursing",
+      "slug": "memorial-nursing",
+      "name": "Nursing (Collaborative BN)",
+      "degreeType": "BN",
+      "campus": "St. John's",
+      "url": "https://www.mun.ca/nursing/",
+      "notes": "Limited-enrolment collaborative program; successful applicants typically present averages well above the published minimum.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://www.mun.ca/nursing/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Nursing application deadline",
+          "detail": "Nursing at Memorial is a limited-enrolment program with a fixed application deadline earlier than general admission, typically in late winter. Confirm the current cycle's date on the university's admissions pages in the fall and apply as early as possible.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "memorial",
+      "category": "health-sciences",
+      "slug": "memorial-biology",
+      "name": "Biology",
+      "degreeType": "BSc",
+      "campus": "St. John's",
+      "url": "https://www.mun.ca/biology/",
+      "notes": "Chemistry (SCH4U) is not always required for admission but is expected preparation for first-year science courses. Memorial's tuition is among the lowest of any Canadian university, particularly for students from Newfoundland and Labrador.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.mun.ca/biology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Memorial reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    }
+  ]
+}
