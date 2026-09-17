@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo } from "react";
+import { useEffect, useMemo, useRef } from "react";
 import Link from "next/link";
 import type { CategoryDetail } from "@/lib/data";
 import type { RequirementDTO } from "@/lib/types";
@@ -35,7 +35,7 @@ export default function CategoryResults({
   detail: CategoryDetail;
   courses: CourseOption[];
 }) {
-  const { average, courses: myCourses } = useProfile();
+  const { average, courses: myCourses, ready } = useProfile();
 
   const assessed = useMemo(() => {
     const items = detail.programs.map((program) => ({
@@ -57,6 +57,21 @@ export default function CategoryResults({
     }
     return counts;
   }, [assessed]);
+
+  // Deep links from search land on #program-slug. The label sort reorders
+  // cards after hydration, so re-scroll to the target once the final order
+  // (with the loaded profile) has rendered.
+  const scrolledToHash = useRef(false);
+  useEffect(() => {
+    if (!ready || scrolledToHash.current) return;
+    const id = decodeURIComponent(window.location.hash.slice(1));
+    if (!id) return;
+    const el = document.getElementById(id);
+    if (el) {
+      scrolledToHash.current = true;
+      el.scrollIntoView({ block: "start" });
+    }
+  }, [ready, assessed]);
 
   const schoolCount = new Set(detail.programs.map((p) => p.institution.slug)).size;
   const hasEstimated = detail.programs.some((p) => p.requirement?.isEstimated);

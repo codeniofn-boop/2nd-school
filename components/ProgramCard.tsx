@@ -93,7 +93,10 @@ export default function ProgramCard({
   const hasImprove = planLine !== null || tips.length > 0;
 
   return (
-    <article className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
+    <article
+      id={program.slug}
+      className="scroll-mt-20 rounded-xl border border-slate-200 bg-white p-4 shadow-sm target:border-blue-400 target:ring-2 target:ring-blue-200"
+    >
       {/* Top row: label + school */}
       <div className="flex flex-wrap items-center gap-2">
         <LabelBadge label={assessment.label} />

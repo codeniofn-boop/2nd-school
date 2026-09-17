@@ -61,6 +61,16 @@ export interface ProgramDTO {
   tips: TipDTO[]; // program-level tips
 }
 
+export interface ProgramSearchItemDTO {
+  slug: string;
+  name: string;
+  degreeType: string;
+  institutionName: string;
+  institutionShort: string | null;
+  categorySlug: string;
+  categoryName: string;
+}
+
 export interface CategorySummaryDTO {
   slug: string;
   name: string;

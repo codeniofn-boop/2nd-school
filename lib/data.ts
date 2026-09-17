@@ -1,6 +1,6 @@
 // Server-side queries + serialization into the DTO shapes clients receive.
 import { prisma } from "./db";
-import type { CategorySummaryDTO, ProgramDTO } from "./types";
+import type { CategorySummaryDTO, ProgramDTO, ProgramSearchItemDTO } from "./types";
 
 const parseAliases = (raw: string): string[] => {
   try {
@@ -145,6 +145,29 @@ export async function getCategoryDetail(slug: string): Promise<CategoryDetail | 
     })),
     programs: programs.map(serializeProgram),
   };
+}
+
+/** Lightweight list of every program for the home-page fuzzy search. */
+export async function getProgramSearchItems(): Promise<ProgramSearchItemDTO[]> {
+  const rows = await prisma.program.findMany({
+    orderBy: { name: "asc" },
+    select: {
+      slug: true,
+      name: true,
+      degreeType: true,
+      institution: { select: { name: true, shortName: true } },
+      category: { select: { slug: true, name: true } },
+    },
+  });
+  return rows.map((p) => ({
+    slug: p.slug,
+    name: p.name,
+    degreeType: p.degreeType,
+    institutionName: p.institution.name,
+    institutionShort: p.institution.shortName,
+    categorySlug: p.category.slug,
+    categoryName: p.category.name,
+  }));
 }
 
 /** Every distinct course that appears as a prerequisite anywhere —
