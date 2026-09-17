@@ -3,7 +3,7 @@
 ## Recently shipped (v1)
 
 - Fuzzy program search across categories, aliases, and program names, plus an "All programs" browse page.
-- Coverage of every Canadian university (Universities Canada members), with programs across five fields at the universities that offer them.
+- Coverage of every Canadian university (Universities Canada members), with programs spanning STEM, business, health, economics, and the social sciences at the universities that offer them.
 - Safe / Target / Reach / Unlikely labels from a pure, tested rules engine, with plain-language explanations and the grade gap to the next-better label.
 - Prerequisite checking with "one of A/B/C" alternative groups and recommended-course handling.
 - Data honesty: estimated ranges badged as estimates, source URLs and last-verified dates on every number.

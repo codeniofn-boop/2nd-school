@@ -2,7 +2,7 @@
 
 AdmitPath helps Canadian high-school students see where they can realistically get into university for a program they want. Students pick a field of study, enter their average and the Grade 12 courses they have taken (or are taking), and every matching program is labeled Safe, Target, Reach, or Unlikely — with an explanation, the exact gap to the next-better label, and concrete ways to improve their chances.
 
-The seed dataset covers every Canadian university (Universities Canada members) as an institution, with programs across five fields — computer science, engineering, business, nursing, and health/life sciences — at the universities that offer them. Prerequisites are expressed in Ontario Grade 12 (4U/M) course codes as the canonical vocabulary; other provinces' equivalents are noted per program where relevant. An "All programs" page (`/all`) lists everything across fields.
+The seed dataset covers every Canadian university (Universities Canada members) as an institution, with programs across a broad set of fields — computer science, engineering, business, nursing, health/life sciences, economics, and the social sciences (psychology, political science, sociology, anthropology, criminology, social work, geography, communications) — at the universities that offer them. Prerequisites are expressed in Ontario Grade 12 (4U/M) course codes as the canonical vocabulary; other provinces' equivalents are noted per program where relevant. An "All programs" page (`/all`) lists everything across fields.
 
 The core student flow:
 
@@ -136,6 +136,7 @@ prisma/
 data/
   seed.json           Ontario core seed data (real programs)
   regions/            Rest-of-Canada seed data, one file per region
+  fields/             Additional fields of study, one file per field
   template.json       Annotated JSON import template
   template.csv        Annotated CSV import template
 scripts/

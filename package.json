@@ -9,12 +9,12 @@
     "lint": "eslint",
     "setup": "node scripts/ensure-env.mjs && prisma db push && npm run seed",
     "db:push": "prisma db push",
-    "seed": "tsx scripts/import.ts data/seed.json data/regions",
+    "seed": "tsx scripts/import.ts data/seed.json data/regions data/fields",
     "import": "tsx scripts/import.ts",
     "test:rules": "tsx scripts/test-rules.ts"
   },
   "prisma": {
-    "seed": "tsx scripts/import.ts data/seed.json data/regions"
+    "seed": "tsx scripts/import.ts data/seed.json data/regions data/fields"
   },
   "dependencies": {
     "@prisma/client": "^6.19.3",
