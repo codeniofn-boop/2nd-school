@@ -1,0 +1,1009 @@
+{
+  "categories": [
+    {
+      "slug": "anthropology",
+      "name": "Anthropology",
+      "aliases": [
+        "anthro",
+        "archaeology",
+        "cultural anthropology",
+        "biological anthropology"
+      ],
+      "description": "Anthropology programs covering cultural, biological, and linguistic anthropology and archaeology — the comparative study of human societies past and present.",
+      "tips": [
+        {
+          "kind": "extracurricular",
+          "title": "Volunteer at a museum or heritage site",
+          "detail": "Regular shifts at a museum, historic site, or cultural centre — helping with collections, interpretation, or public programming — show sustained interest in human cultures and material history.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Look for archaeology field schools and public digs",
+          "detail": "Many universities, museums, and local archaeological societies run summer field schools or community dig days open to high-school students. Even a single season of survey or lab work is a standout application story.",
+          "sortOrder": 1
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Learn a second language",
+          "detail": "Sustained language study, whether at school or through community classes, signals seriousness about fieldwork and cross-cultural research — the core of anthropological work.",
+          "sortOrder": 2
+        }
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "institution": "uoft",
+      "category": "anthropology",
+      "slug": "uoft-anthropology",
+      "name": "Anthropology",
+      "degreeType": "BA/BSc",
+      "campus": "St. George",
+      "url": "https://www.anthropology.utoronto.ca/",
+      "notes": "Admission is to the Faculty of Arts & Science; the anthropology major is declared after first year. Both BA streams (sociocultural, linguistic) and a BSc stream (evolutionary anthropology) are offered.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.anthropology.utoronto.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "President's/entrance scholar consideration",
+          "detail": "Admitted students with averages of roughly 92% and above are automatically considered for University of Toronto entrance scholarships, including President's Scholars awards.",
+          "value": "92",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mcmaster",
+      "category": "anthropology",
+      "slug": "mcmaster-anthropology",
+      "name": "Anthropology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://anthropology.mcmaster.ca/",
+      "notes": "Entry is through McMaster's Social Sciences I gateway; students declare the anthropology major after first year.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 76,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://anthropology.mcmaster.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "McMaster entrance awards",
+          "detail": "Averages of 95% and above receive automatic consideration for McMaster's top entrance awards; lower tiers apply automatically at lower averages.",
+          "value": "95",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "western",
+      "category": "anthropology",
+      "slug": "western-anthropology",
+      "name": "Anthropology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://anthropology.uwo.ca/",
+      "notes": "Entry is through Western's Social Science first year; the anthropology module is selected after first year.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 83,
+          "competitiveHigh": 87,
+          "sourceUrl": "https://anthropology.uwo.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Western entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for Western's admission scholarships, with higher tiers at higher averages.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mcgill",
+      "category": "anthropology",
+      "slug": "mcgill-anthropology",
+      "name": "Anthropology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.mcgill.ca/anthropology/",
+      "notes": "Admission is to the Faculty of Arts; the anthropology major is declared during first year.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 84,
+          "competitiveLow": 87,
+          "competitiveHigh": 91,
+          "sourceUrl": "https://www.mcgill.ca/anthropology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to McGill by February 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on McGill's admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Basic Entrance Scholarship consideration",
+          "detail": "All admitted students are automatically considered for McGill's one-time Basic Entrance Scholarship. Recent recipients have typically presented averages of roughly 93% and above; exact cutoffs vary by year and faculty.",
+          "value": "93",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ubc",
+      "category": "anthropology",
+      "slug": "ubc-anthropology",
+      "name": "Anthropology",
+      "degreeType": "BA",
+      "campus": "Vancouver",
+      "url": "https://anth.ubc.ca/",
+      "notes": "UBC admission is broad-based: grades plus the Personal Profile. Entry is through the Faculty of Arts; the anthropology major is declared after first year. BC equivalents of the listed courses are English Studies 12 and a Grade 12 math.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 82,
+          "competitiveHigh": 87,
+          "sourceUrl": "https://anth.ubc.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "essay",
+          "name": "Personal Profile",
+          "description": "Short written responses about experiences, activities, and what you learned from them; weighted alongside grades for all direct-entry UBC applicants.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Take the Personal Profile seriously",
+          "detail": "The Personal Profile is weighted alongside your marks. Museum and heritage volunteering, field-school experience, and language study make strong, specific answers for anthropology applicants.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "UBC application deadline",
+          "detail": "Apply through EducationPlannerBC by January 15, 2027 for September 2027 entry. Verify the current cycle's dates on UBC's admissions site before relying on them.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "Major entrance awards are profile-based",
+          "detail": "UBC's major entrance awards, including Presidential Scholars Awards, are selected from the application and Personal Profile rather than an automatic average cutoff; some require a separate application.",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "sfu",
+      "category": "anthropology",
+      "slug": "sfu-anthropology",
+      "name": "Anthropology",
+      "degreeType": "BA",
+      "campus": "Burnaby",
+      "url": "https://www.sfu.ca/sociology-anthropology.html",
+      "notes": "Offered by the Department of Sociology and Anthropology in the Faculty of Arts and Social Sciences. Requirements shown use Ontario 4U codes; BC applicants present English Studies 12 and other approved Grade 12 courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.sfu.ca/sociology-anthropology.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "SFU application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for Fall 2027 entry. Verify the current cycle's dates on SFU's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uvic",
+      "category": "anthropology",
+      "slug": "uvic-anthropology",
+      "name": "Anthropology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.uvic.ca/socialsciences/anthropology/",
+      "notes": "Requirements shown use Ontario 4U codes; BC applicants present English Studies 12 and other approved Grade 12 courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 76,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.uvic.ca/socialsciences/anthropology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UVic application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for September 2027 entry. Verify the current cycle's dates on UVic's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ualberta",
+      "category": "anthropology",
+      "slug": "ualberta-anthropology",
+      "name": "Anthropology",
+      "degreeType": "BA",
+      "campus": "North Campus",
+      "url": "https://www.ualberta.ca/anthropology",
+      "notes": "Requirements shown use Ontario 4U codes; Alberta applicants present ELA 30-1 and four other 30-level academic courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://www.ualberta.ca/anthropology",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for most Fall 2027 programs. Deadlines vary by program and competitive programs can close earlier — verify the current cycle's dates on the UAlberta admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UAlberta admission-based entrance scholarships",
+          "detail": "UAlberta automatically considers applicants for entrance scholarships based on admission average, with awards generally starting around 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ucalgary",
+      "category": "anthropology",
+      "slug": "ucalgary-anthropology",
+      "name": "Anthropology and Archaeology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.ucalgary.ca/future-students/undergraduate/explore-programs/anthropology",
+      "notes": "The Department of Anthropology and Archaeology offers an anthropology major (BA) and an archaeology major (BA or BSc). Requirements shown use Ontario 4U codes; Alberta applicants present ELA 30-1 and other 30-level academic courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://www.ucalgary.ca/future-students/undergraduate/explore-programs/anthropology",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for most Fall 2027 programs. Deadlines vary by program and competitive programs can close earlier — verify the current cycle's dates on the UCalgary admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UCalgary automatic entrance awards",
+          "detail": "UCalgary automatically considers applicants for admission-average-based entrance awards, with most automatic awards starting around an 85% admission average. Verify current thresholds on UCalgary's awards pages.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "usask",
+      "category": "anthropology",
+      "slug": "usask-anthropology",
+      "name": "Anthropology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://admissions.usask.ca/anthropology.php",
+      "notes": "Offered in USask's College of Arts and Science, closely allied with the archaeology programs. Requirements shown use Ontario 4U codes; Saskatchewan applicants present ELA A30/B30 and other Grade 12 academic courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 72,
+          "competitiveHigh": 77,
+          "sourceUrl": "https://admissions.usask.ca/anthropology.php",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "USask application deadline",
+          "detail": "Apply by February 15, 2027 for most direct-entry Fall 2027 programs. Verify the current cycle's deadline for your program on the USask admissions site.",
+          "value": "2027-02-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "USask Guaranteed Entrance Scholarships",
+          "detail": "USask awards Guaranteed Entrance Scholarships automatically by admission average, with tiers starting at 80% and larger awards at 85% and 90%. Verify current values on USask's scholarship pages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "umanitoba",
+      "category": "anthropology",
+      "slug": "umanitoba-anthropology",
+      "name": "Anthropology",
+      "degreeType": "BA",
+      "campus": "Fort Garry",
+      "url": "https://umanitoba.ca/explore/programs-of-study",
+      "notes": "Requirements shown use Ontario 4U codes; Manitoba applicants present ELA 40S and other Grade 12 academic courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 72,
+          "competitiveHigh": 77,
+          "sourceUrl": "https://umanitoba.ca/explore/programs-of-study",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UManitoba application deadline",
+          "detail": "Apply by March 1, 2027 for most direct-entry Fall 2027 programs for Canadian applicants. Verify the current cycle's deadline for your program on the UManitoba admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "trent",
+      "category": "anthropology",
+      "slug": "trent-anthropology",
+      "name": "Anthropology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.trentu.ca/anthropology/",
+      "notes": "Trent is particularly known for archaeology and forensic-adjacent anthropology; both BA and BSc streams are offered.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.trentu.ca/anthropology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Trent entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Trent's renewable entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "york",
+      "category": "anthropology",
+      "slug": "york-anthropology",
+      "name": "Anthropology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.yorku.ca/laps/",
+      "notes": "Offered by the Department of Anthropology in the Faculty of Liberal Arts & Professional Studies.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 77,
+          "sourceUrl": "https://www.yorku.ca/laps/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "York entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for York entrance scholarships, with larger awards at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "waterloo",
+      "category": "anthropology",
+      "slug": "waterloo-anthropology",
+      "name": "Anthropology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://uwaterloo.ca/future-students/programs/anthropology",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://uwaterloo.ca/future-students/programs/anthropology",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "President's Scholarship of Distinction",
+          "detail": "Automatic consideration by admission average: 95%+ earns the President's Scholarship of Distinction, 90–94.9% the President's Scholarship, and 85–89.9% the Merit Scholarship.",
+          "value": "95",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "memorial",
+      "category": "anthropology",
+      "slug": "memorial-anthropology",
+      "name": "Anthropology",
+      "degreeType": "BA",
+      "campus": "St. John's",
+      "url": "https://www.mun.ca/anthropology/",
+      "notes": "Memorial also has a separate, internationally known Department of Archaeology; students interested in digs and material culture can combine the two or switch between them. Requirements shown use Ontario 4U codes; Newfoundland and Labrador applicants present the provincial Grade 12 equivalents.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 72,
+          "competitiveHigh": 76,
+          "sourceUrl": "https://www.mun.ca/anthropology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Memorial reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "dalhousie",
+      "category": "anthropology",
+      "slug": "dalhousie-social-anthropology",
+      "name": "Sociology & Social Anthropology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.dal.ca/academics/programs/undergraduate/sociology-social-anthropology.html",
+      "notes": "Dalhousie combines sociology and social anthropology in a single department and degree. Requirements shown use Ontario 4U codes; Nova Scotia applicants present English 12 and other Grade 12 academic courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.dal.ca/academics/programs/undergraduate/sociology-social-anthropology.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Dalhousie reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "Applicants with admission averages of roughly 85% and above are automatically considered for Dalhousie's general entrance scholarships; larger named awards require a separate application earlier in the cycle.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    }
+  ]
+}
