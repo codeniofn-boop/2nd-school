@@ -15,7 +15,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
     <html lang="en" className="h-full antialiased">
       <body className="flex min-h-full flex-col bg-slate-50 font-sans text-slate-900">
         <ProfileProvider>
-          <header className="sticky top-0 z-40 border-b border-slate-200 bg-white/90 backdrop-blur">
+          <header id="site-header" className="sticky top-0 z-40 border-b border-slate-200 bg-white/90 backdrop-blur">
             <div className="mx-auto flex h-12 w-full max-w-[40rem] items-center px-4">
               <Link
                 href="/"
@@ -28,7 +28,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
 
           <main className="mx-auto w-full max-w-[40rem] flex-1 px-4 pb-16">{children}</main>
 
-          <footer className="border-t border-slate-200 bg-white">
+          <footer id="site-footer" className="border-t border-slate-200 bg-white">
             <div className="mx-auto w-full max-w-[40rem] px-4 py-6 text-xs leading-relaxed text-slate-500">
               <p>
                 Admission data changes every year — always confirm requirements and averages on the

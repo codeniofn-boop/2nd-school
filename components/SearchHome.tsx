@@ -99,6 +99,12 @@ export default function SearchHome({ categories }: { categories: CategorySummary
 
         <p className="mt-6 text-center">
           <Link
+            href="/story"
+            className="mr-6 inline-flex min-h-11 items-center rounded text-sm font-semibold text-slate-500 underline-offset-2 hover:underline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"
+          >
+            Take the tour
+          </Link>
+          <Link
             href="/all"
             className="inline-flex min-h-11 items-center rounded text-sm font-semibold text-blue-600 underline-offset-2 hover:underline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"
           >
