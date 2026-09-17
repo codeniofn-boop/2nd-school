@@ -1,0 +1,1027 @@
+{
+  "categories": [
+    {
+      "slug": "history",
+      "name": "History",
+      "aliases": [
+        "hist",
+        "classics",
+        "ancient history",
+        "classical studies",
+        "medieval studies",
+        "military history"
+      ],
+      "description": "History and related programs spanning Canadian, international, ancient, and medieval topics, built around archival research, source analysis, and sustained writing.",
+      "tips": [
+        {
+          "kind": "extracurricular",
+          "title": "Volunteer at a museum, archive, or heritage fair",
+          "detail": "Local museums, archives, and heritage fairs regularly take student volunteers. Cataloguing collections, guiding visitors, or helping run a fair shows sustained engagement with the past beyond the classroom.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Enter a history essay contest",
+          "detail": "Essay competitions run by universities, historical societies, and remembrance organizations reward exactly the research and writing skills history programs screen for, and a placement is a strong line on any application.",
+          "sortOrder": 1
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Take on a genealogy or local-history project",
+          "detail": "Tracing a family tree or documenting a local building, event, or community teaches primary-source research with censuses, newspapers, and archival records — and produces a concrete project you can describe in applications.",
+          "sortOrder": 2
+        }
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "institution": "uoft",
+      "category": "history",
+      "slug": "uoft-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": "St. George",
+      "url": "https://future.utoronto.ca/undergraduate-programs/history/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://future.utoronto.ca/undergraduate-programs/history/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "mcgill",
+      "category": "history",
+      "slug": "mcgill-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.mcgill.ca/history/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 83,
+          "competitiveLow": 86,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://www.mcgill.ca/history/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to McGill by February 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on McGill's admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "queens",
+      "category": "history",
+      "slug": "queens-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.queensu.ca/history/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 83,
+          "competitiveHigh": 87,
+          "sourceUrl": "https://www.queensu.ca/history/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Queen's entrance scholarships",
+          "detail": "Admitted students with averages of roughly 90% and above are automatically considered for Queen's admission-based entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "western",
+      "category": "history",
+      "slug": "western-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.history.uwo.ca/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 81,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.history.uwo.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Western entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for Western's admission scholarships, with higher tiers at higher averages.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mcmaster",
+      "category": "history",
+      "slug": "mcmaster-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://history.mcmaster.ca/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 77,
+          "competitiveLow": 80,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://history.mcmaster.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "McMaster entrance awards",
+          "detail": "Averages of 95% and above receive automatic consideration for McMaster's top entrance awards; lower tiers apply automatically at lower averages.",
+          "value": "95",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "york",
+      "category": "history",
+      "slug": "york-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.yorku.ca/laps/hist/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 74,
+          "competitiveLow": 77,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.yorku.ca/laps/hist/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ottawa",
+      "category": "history",
+      "slug": "ottawa-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.uottawa.ca/faculty-arts/history",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.uottawa.ca/faculty-arts/history",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "carleton",
+      "category": "history",
+      "slug": "carleton-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://carleton.ca/history/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 74,
+          "competitiveLow": 77,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://carleton.ca/history/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "guelph",
+      "category": "history",
+      "slug": "guelph-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.uoguelph.ca/arts/history",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.uoguelph.ca/arts/history",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "laurier",
+      "category": "history",
+      "slug": "laurier-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.wlu.ca/programs",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 74,
+          "competitiveLow": 77,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.wlu.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "tmu",
+      "category": "history",
+      "slug": "tmu-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.torontomu.ca/programs/undergraduate/history/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.torontomu.ca/programs/undergraduate/history/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "TMU entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for TMU entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "brock",
+      "category": "history",
+      "slug": "brock-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://brocku.ca/humanities/history/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://brocku.ca/humanities/history/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "trent",
+      "category": "history",
+      "slug": "trent-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.trentu.ca/history/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.trentu.ca/history/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "windsor",
+      "category": "history",
+      "slug": "windsor-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.uwindsor.ca/history/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.uwindsor.ca/history/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "waterloo",
+      "category": "history",
+      "slug": "waterloo-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://uwaterloo.ca/history/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 79,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://uwaterloo.ca/history/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ubc",
+      "category": "history",
+      "slug": "ubc-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": "Vancouver",
+      "url": "https://history.ubc.ca/",
+      "notes": "UBC admission is broad-based: grades plus the Personal Profile, weighted together. Entry is through the Faculty of Arts. The BC equivalent of the listed English requirement is English Studies 12.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://history.ubc.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "essay",
+          "name": "Personal Profile",
+          "description": "Short written responses about experiences, activities, and what you learned from them; weighted alongside grades for all direct-entry UBC applicants.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Take the Personal Profile seriously",
+          "detail": "The Personal Profile is weighted alongside your marks. Draft your short answers early, be specific about what you did and what it taught you, and have someone you trust review them before submitting.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "UBC application deadline",
+          "detail": "Apply through EducationPlannerBC by January 15, 2027 for September 2027 entry. Verify the current cycle's dates on UBC's admissions site before relying on them.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "sfu",
+      "category": "history",
+      "slug": "sfu-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.sfu.ca/history.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.sfu.ca/history.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "SFU application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for Fall 2027 entry. Verify the current cycle's dates on SFU's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uvic",
+      "category": "history",
+      "slug": "uvic-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.uvic.ca/humanities/history/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.uvic.ca/humanities/history/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UVic application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for September 2027 entry. Verify the current cycle's dates on UVic's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ualberta",
+      "category": "history",
+      "slug": "ualberta-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.ualberta.ca/history-classics-religion",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.ualberta.ca/history-classics-religion",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for most Fall 2027 programs. Deadlines vary by program and competitive programs can close earlier — verify the current cycle's dates on the UAlberta admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UAlberta admission-based entrance scholarships",
+          "detail": "UAlberta automatically considers applicants for entrance scholarships based on admission average, with awards generally starting around 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ucalgary",
+      "category": "history",
+      "slug": "ucalgary-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://arts.ucalgary.ca/history",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://arts.ucalgary.ca/history",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for most Fall 2027 programs. Deadlines vary by program and competitive programs can close earlier — verify the current cycle's dates on the UCalgary admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UCalgary automatic entrance awards",
+          "detail": "UCalgary automatically considers applicants for admission-average-based entrance awards, with most automatic awards starting around an 85% admission average. Verify current thresholds on UCalgary's awards pages.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "usask",
+      "category": "history",
+      "slug": "usask-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://admissions.usask.ca/history.php",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://admissions.usask.ca/history.php",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "USask application deadline",
+          "detail": "Apply by February 15, 2027 for most direct-entry Fall 2027 programs. Verify the current cycle's deadline for your program on the USask admissions site.",
+          "value": "2027-02-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "umanitoba",
+      "category": "history",
+      "slug": "umanitoba-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://umanitoba.ca/explore/programs-of-study",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://umanitoba.ca/explore/programs-of-study",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UManitoba application deadline",
+          "detail": "Apply by March 1, 2027 for most direct-entry Fall 2027 programs for Canadian applicants. Verify the current cycle's deadline for your program on the UManitoba admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "dalhousie",
+      "category": "history",
+      "slug": "dalhousie-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.dal.ca/academics/programs/undergraduate/history.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.dal.ca/academics/programs/undergraduate/history.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Dalhousie reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "acadia",
+      "category": "history",
+      "slug": "acadia-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://history.acadiau.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://history.acadiau.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Acadia reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "unb",
+      "category": "history",
+      "slug": "unb-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": "Fredericton",
+      "url": "https://www.unb.ca/fredericton/arts/departments/history/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.unb.ca/fredericton/arts/departments/history/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "UNB reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "memorial",
+      "category": "history",
+      "slug": "memorial-history",
+      "name": "History",
+      "degreeType": "BA",
+      "campus": "St. John's",
+      "url": "https://www.mun.ca/history/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.mun.ca/history/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Memorial reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    }
+  ]
+}

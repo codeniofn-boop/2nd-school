@@ -1,0 +1,807 @@
+{
+  "categories": [
+    {
+      "slug": "philosophy",
+      "name": "Philosophy",
+      "aliases": [
+        "phil",
+        "ethics",
+        "logic",
+        "religious studies",
+        "philosophy politics economics",
+        "PPE"
+      ],
+      "description": "Philosophy programs covering ethics, logic, metaphysics, political philosophy, and the history of ideas, including great-books and philosophy-politics-economics style pathways.",
+      "tips": [
+        {
+          "kind": "extracurricular",
+          "title": "Join a debate club or Ethics Bowl team",
+          "detail": "Structured argument is the core skill philosophy programs build on. Debate, model parliament, and Ethics Bowl give you regular practice constructing and defending positions, and concrete results to cite in supplementary applications.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Read widely and keep a written record",
+          "detail": "Work through serious books beyond the curriculum and write as you go — essays, reviews, or a blog. A visible body of writing is the clearest evidence of sustained interest in ideas that an arts application can show.",
+          "sortOrder": 1
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Write math or logic contests",
+          "detail": "Formal logic sits at the centre of a philosophy degree. Contests such as the CSMC or Euclid signal the rigorous, step-by-step reasoning philosophy departments value, even though the contest content is mathematical.",
+          "sortOrder": 2
+        }
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "institution": "uoft",
+      "category": "philosophy",
+      "slug": "uoft-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": "St. George",
+      "url": "https://future.utoronto.ca/undergraduate-programs/philosophy/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://future.utoronto.ca/undergraduate-programs/philosophy/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "mcgill",
+      "category": "philosophy",
+      "slug": "mcgill-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.mcgill.ca/philosophy/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 83,
+          "competitiveLow": 86,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://www.mcgill.ca/philosophy/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to McGill by February 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on McGill's admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "western",
+      "category": "philosophy",
+      "slug": "western-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.uwo.ca/philosophy/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 81,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.uwo.ca/philosophy/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Western entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for Western's admission scholarships, with higher tiers at higher averages.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "queens",
+      "category": "philosophy",
+      "slug": "queens-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.queensu.ca/philosophy/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 83,
+          "competitiveHigh": 87,
+          "sourceUrl": "https://www.queensu.ca/philosophy/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Queen's entrance scholarships",
+          "detail": "Admitted students with averages of roughly 90% and above are automatically considered for Queen's admission-based entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mcmaster",
+      "category": "philosophy",
+      "slug": "mcmaster-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://philos.mcmaster.ca/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 77,
+          "competitiveLow": 80,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://philos.mcmaster.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "McMaster entrance awards",
+          "detail": "Averages of 95% and above receive automatic consideration for McMaster's top entrance awards; lower tiers apply automatically at lower averages.",
+          "value": "95",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "york",
+      "category": "philosophy",
+      "slug": "york-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.yorku.ca/laps/phil/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 74,
+          "competitiveLow": 77,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.yorku.ca/laps/phil/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ottawa",
+      "category": "philosophy",
+      "slug": "ottawa-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.uottawa.ca/faculty-arts/philosophy",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.uottawa.ca/faculty-arts/philosophy",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "carleton",
+      "category": "philosophy",
+      "slug": "carleton-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://carleton.ca/philosophy/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 74,
+          "competitiveLow": 77,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://carleton.ca/philosophy/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "guelph",
+      "category": "philosophy",
+      "slug": "guelph-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.uoguelph.ca/arts/philosophy",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.uoguelph.ca/arts/philosophy",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "laurier",
+      "category": "philosophy",
+      "slug": "laurier-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.wlu.ca/programs",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 74,
+          "competitiveLow": 77,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.wlu.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "brock",
+      "category": "philosophy",
+      "slug": "brock-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://brocku.ca/humanities/philosophy/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://brocku.ca/humanities/philosophy/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "windsor",
+      "category": "philosophy",
+      "slug": "windsor-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.uwindsor.ca/philosophy/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.uwindsor.ca/philosophy/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "waterloo",
+      "category": "philosophy",
+      "slug": "waterloo-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://uwaterloo.ca/philosophy/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 79,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://uwaterloo.ca/philosophy/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ubc",
+      "category": "philosophy",
+      "slug": "ubc-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": "Vancouver",
+      "url": "https://philosophy.ubc.ca/",
+      "notes": "UBC admission is broad-based: grades plus the Personal Profile, weighted together. Entry is through the Faculty of Arts. The BC equivalent of the listed English requirement is English Studies 12.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://philosophy.ubc.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "essay",
+          "name": "Personal Profile",
+          "description": "Short written responses about experiences, activities, and what you learned from them; weighted alongside grades for all direct-entry UBC applicants.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Take the Personal Profile seriously",
+          "detail": "The Personal Profile is weighted alongside your marks. Draft your short answers early, be specific about what you did and what it taught you, and have someone you trust review them before submitting.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "UBC application deadline",
+          "detail": "Apply through EducationPlannerBC by January 15, 2027 for September 2027 entry. Verify the current cycle's dates on UBC's admissions site before relying on them.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "sfu",
+      "category": "philosophy",
+      "slug": "sfu-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.sfu.ca/philosophy.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.sfu.ca/philosophy.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "SFU application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for Fall 2027 entry. Verify the current cycle's dates on SFU's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uvic",
+      "category": "philosophy",
+      "slug": "uvic-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.uvic.ca/humanities/philosophy/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.uvic.ca/humanities/philosophy/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UVic application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for September 2027 entry. Verify the current cycle's dates on UVic's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ualberta",
+      "category": "philosophy",
+      "slug": "ualberta-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.ualberta.ca/philosophy",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.ualberta.ca/philosophy",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for most Fall 2027 programs. Deadlines vary by program and competitive programs can close earlier — verify the current cycle's dates on the UAlberta admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UAlberta admission-based entrance scholarships",
+          "detail": "UAlberta automatically considers applicants for entrance scholarships based on admission average, with awards generally starting around 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ucalgary",
+      "category": "philosophy",
+      "slug": "ucalgary-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://arts.ucalgary.ca/philosophy",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://arts.ucalgary.ca/philosophy",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for most Fall 2027 programs. Deadlines vary by program and competitive programs can close earlier — verify the current cycle's dates on the UCalgary admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UCalgary automatic entrance awards",
+          "detail": "UCalgary automatically considers applicants for admission-average-based entrance awards, with most automatic awards starting around an 85% admission average. Verify current thresholds on UCalgary's awards pages.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "dalhousie",
+      "category": "philosophy",
+      "slug": "dalhousie-philosophy",
+      "name": "Philosophy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.dal.ca/academics/programs/undergraduate/philosophy.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.dal.ca/academics/programs/undergraduate/philosophy.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Dalhousie reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "kings-halifax",
+      "category": "philosophy",
+      "slug": "kings-halifax-foundation-year",
+      "name": "Foundation Year Program",
+      "degreeType": "BA(Hons)",
+      "campus": null,
+      "url": "https://ukings.ca/area-of-study/foundation-year-program/",
+      "notes": "The Foundation Year Program is King's celebrated great-books first year: a single integrated course that reads foundational works from the ancient world to the present through daily lectures and small tutorials. Students continue into King's and Dalhousie honours degrees, including Philosophy, in upper years.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://ukings.ca/area-of-study/foundation-year-program/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "King's reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    }
+  ]
+}
