@@ -1,0 +1,2379 @@
+{
+  "institutions": [
+    {
+      "slug": "mcgill",
+      "name": "McGill University",
+      "shortName": "McGill",
+      "type": "university",
+      "city": "Montreal",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://www.mcgill.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "concordia",
+      "name": "Concordia University",
+      "shortName": "Concordia",
+      "type": "university",
+      "city": "Montreal",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://www.concordia.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "bishops",
+      "name": "Bishop's University",
+      "shortName": "Bishop's",
+      "type": "university",
+      "city": "Sherbrooke",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://www.ubishops.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "laval",
+      "name": "Université Laval",
+      "shortName": "ULaval",
+      "type": "university",
+      "city": "Québec City",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://www.ulaval.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "udem",
+      "name": "Université de Montréal",
+      "shortName": "UdeM",
+      "type": "university",
+      "city": "Montreal",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://www.umontreal.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "sherbrooke",
+      "name": "Université de Sherbrooke",
+      "shortName": "UdeS",
+      "type": "university",
+      "city": "Sherbrooke",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://www.usherbrooke.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "uqam",
+      "name": "Université du Québec à Montréal",
+      "shortName": "UQAM",
+      "type": "university",
+      "city": "Montreal",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://uqam.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "uqtr",
+      "name": "Université du Québec à Trois-Rivières",
+      "shortName": "UQTR",
+      "type": "university",
+      "city": "Trois-Rivières",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://www.uqtr.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "uqac",
+      "name": "Université du Québec à Chicoutimi",
+      "shortName": "UQAC",
+      "type": "university",
+      "city": "Saguenay",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://www.uqac.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "uqar",
+      "name": "Université du Québec à Rimouski",
+      "shortName": "UQAR",
+      "type": "university",
+      "city": "Rimouski",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://www.uqar.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "uqo",
+      "name": "Université du Québec en Outaouais",
+      "shortName": "UQO",
+      "type": "university",
+      "city": "Gatineau",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://uqo.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "uqat",
+      "name": "Université du Québec en Abitibi-Témiscamingue",
+      "shortName": "UQAT",
+      "type": "university",
+      "city": "Rouyn-Noranda",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://www.uqat.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "teluq",
+      "name": "Université TÉLUQ",
+      "shortName": "TÉLUQ",
+      "type": "university",
+      "city": "Québec City",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://www.teluq.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "ets",
+      "name": "École de technologie supérieure",
+      "shortName": "ÉTS",
+      "type": "university",
+      "city": "Montreal",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://www.etsmtl.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "hec",
+      "name": "HEC Montréal",
+      "shortName": "HEC",
+      "type": "university",
+      "city": "Montreal",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://www.hec.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "polymtl",
+      "name": "Polytechnique Montréal",
+      "shortName": "Polytechnique",
+      "type": "university",
+      "city": "Montreal",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://www.polymtl.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "inrs",
+      "name": "Institut national de la recherche scientifique",
+      "shortName": "INRS",
+      "type": "university",
+      "city": "Québec City",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://inrs.ca",
+      "applicationSystem": "Direct"
+    },
+    {
+      "slug": "enap",
+      "name": "École nationale d'administration publique",
+      "shortName": "ENAP",
+      "type": "university",
+      "city": "Québec City",
+      "province": "QC",
+      "country": "CA",
+      "website": "https://enap.ca",
+      "applicationSystem": "Direct"
+    }
+  ],
+  "programs": [
+    {
+      "institution": "mcgill",
+      "category": "computer-science",
+      "slug": "mcgill-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.cs.mcgill.ca/",
+      "notes": "Entry is through the Faculty of Science, which requires mathematics plus two of biology, chemistry, and physics. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 90,
+          "competitiveLow": 94,
+          "competitiveHigh": 97,
+          "sourceUrl": "https://www.mcgill.ca/undergraduate-admissions/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "SBI4U",
+              "courseName": "Biology"
+            },
+            {
+              "courseCode": "SCH4U",
+              "courseName": "Chemistry"
+            },
+            {
+              "courseCode": "SPH4U",
+              "courseName": "Physics"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to McGill by February 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on McGill's admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Basic Entrance Scholarship consideration",
+          "detail": "All admitted students are automatically considered for McGill's one-time Basic Entrance Scholarship. Recent recipients have typically presented averages of roughly 93% and above; exact cutoffs vary by year and faculty.",
+          "value": "93",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mcgill",
+      "category": "business",
+      "slug": "mcgill-desautels-commerce",
+      "name": "Desautels Bachelor of Commerce",
+      "degreeType": "BCom",
+      "campus": null,
+      "url": "https://www.mcgill.ca/desautels/programs/bcom",
+      "notes": "Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 88,
+          "competitiveLow": 92,
+          "competitiveHigh": 95,
+          "sourceUrl": "https://www.mcgill.ca/undergraduate-admissions/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to McGill by February 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on McGill's admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Basic Entrance Scholarship consideration",
+          "detail": "All admitted students are automatically considered for McGill's one-time Basic Entrance Scholarship. Recent recipients have typically presented averages of roughly 93% and above; exact cutoffs vary by year and faculty.",
+          "value": "93",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mcgill",
+      "category": "engineering",
+      "slug": "mcgill-engineering",
+      "name": "Engineering",
+      "degreeType": "BEng",
+      "campus": null,
+      "url": "https://www.mcgill.ca/engineering/",
+      "notes": "Applicants choose a discipline (mechanical, electrical, civil, chemical, software, and others) when applying. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 88,
+          "competitiveLow": 92,
+          "competitiveHigh": 96,
+          "sourceUrl": "https://www.mcgill.ca/undergraduate-admissions/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to McGill by February 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on McGill's admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Basic Entrance Scholarship consideration",
+          "detail": "All admitted students are automatically considered for McGill's one-time Basic Entrance Scholarship. Recent recipients have typically presented averages of roughly 93% and above; exact cutoffs vary by year and faculty.",
+          "value": "93",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mcgill",
+      "category": "nursing",
+      "slug": "mcgill-nursing",
+      "name": "Nursing (BScN)",
+      "degreeType": "BScN",
+      "campus": null,
+      "url": "https://www.mcgill.ca/nursing/",
+      "notes": "Offered by the Ingram School of Nursing. Confirm the current science course requirements on McGill's admissions site. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 85,
+          "competitiveLow": 88,
+          "competitiveHigh": 92,
+          "sourceUrl": "https://www.mcgill.ca/undergraduate-admissions/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to McGill by February 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on McGill's admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Basic Entrance Scholarship consideration",
+          "detail": "All admitted students are automatically considered for McGill's one-time Basic Entrance Scholarship. Recent recipients have typically presented averages of roughly 93% and above; exact cutoffs vary by year and faculty.",
+          "value": "93",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mcgill",
+      "category": "health-sciences",
+      "slug": "mcgill-life-sciences",
+      "name": "Life Sciences (Biological, Biomedical & Life Sciences)",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.mcgill.ca/science/",
+      "notes": "Entry is through the Faculty of Science; students choose a life-science major after first year. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 90,
+          "competitiveLow": 92,
+          "competitiveHigh": 95,
+          "sourceUrl": "https://www.mcgill.ca/undergraduate-admissions/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to McGill by February 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on McGill's admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Basic Entrance Scholarship consideration",
+          "detail": "All admitted students are automatically considered for McGill's one-time Basic Entrance Scholarship. Recent recipients have typically presented averages of roughly 93% and above; exact cutoffs vary by year and faculty.",
+          "value": "93",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "concordia",
+      "category": "computer-science",
+      "slug": "concordia-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BCompSc",
+      "campus": null,
+      "url": "https://www.concordia.ca/academics/undergraduate/computer-science.html",
+      "notes": "Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://www.concordia.ca/admissions/undergraduate.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Concordia by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on Concordia's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "concordia",
+      "category": "engineering",
+      "slug": "concordia-gina-cody-engineering",
+      "name": "Gina Cody School Engineering",
+      "degreeType": "BEng",
+      "campus": null,
+      "url": "https://www.concordia.ca/ginacody.html",
+      "notes": "Applicants choose a discipline (mechanical, electrical, civil, industrial, aerospace, and others) when applying. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 83,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://www.concordia.ca/admissions/undergraduate.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Concordia by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on Concordia's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "concordia",
+      "category": "business",
+      "slug": "concordia-jmsb-commerce",
+      "name": "John Molson School of Business Commerce",
+      "degreeType": "BComm",
+      "campus": null,
+      "url": "https://www.concordia.ca/jmsb.html",
+      "notes": "Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 82,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://www.concordia.ca/admissions/undergraduate.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Concordia by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on Concordia's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "bishops",
+      "category": "computer-science",
+      "slug": "bishops-computer-science",
+      "name": "Computer Science",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.ubishops.ca/academic-programs/",
+      "notes": "Small English-language university with class sizes well below the Montreal schools. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.ubishops.ca/admissions/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Bishop's reviews applications on a rolling basis; aim to apply by March 1, 2027 for Fall 2027 entry and verify the current cycle's dates on the Bishop's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "bishops",
+      "category": "business",
+      "slug": "bishops-business",
+      "name": "Business Administration (Williams School of Business)",
+      "degreeType": "BBA",
+      "campus": null,
+      "url": "https://www.ubishops.ca/academic-programs/",
+      "notes": "Small English-language university with class sizes well below the Montreal schools. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.ubishops.ca/admissions/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Bishop's reviews applications on a rolling basis; aim to apply by March 1, 2027 for Fall 2027 entry and verify the current cycle's dates on the Bishop's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "laval",
+      "category": "computer-science",
+      "slug": "laval-informatique",
+      "name": "Informatique (Computer Science)",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.ulaval.ca/etudes/programmes/baccalaureat-en-informatique",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.ulaval.ca/admission",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université Laval by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "laval",
+      "category": "engineering",
+      "slug": "laval-genie-mecanique",
+      "name": "Génie mécanique (Mechanical Engineering)",
+      "degreeType": "BIng",
+      "campus": null,
+      "url": "https://www.ulaval.ca/etudes/programmes/baccalaureat-en-genie-mecanique",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 87,
+          "sourceUrl": "https://www.ulaval.ca/admission",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université Laval by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "laval",
+      "category": "business",
+      "slug": "laval-administration",
+      "name": "Administration des affaires (Business Administration)",
+      "degreeType": "BAA",
+      "campus": null,
+      "url": "https://www.ulaval.ca/etudes/programmes/baccalaureat-en-administration-des-affaires",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 76,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.ulaval.ca/admission",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université Laval by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "laval",
+      "category": "nursing",
+      "slug": "laval-sciences-infirmieres",
+      "name": "Sciences infirmières (Nursing)",
+      "degreeType": "BScInf",
+      "campus": null,
+      "url": "https://www.ulaval.ca/etudes/programmes/baccalaureat-en-sciences-infirmieres",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 87,
+          "sourceUrl": "https://www.ulaval.ca/admission",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université Laval by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "laval",
+      "category": "health-sciences",
+      "slug": "laval-sciences-biomedicales",
+      "name": "Sciences biomédicales (Biomedical Sciences)",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.ulaval.ca/etudes/programmes/baccalaureat-en-sciences-biomedicales",
+      "notes": "Limited-enrolment (contingenté) program. Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 92,
+          "sourceUrl": "https://www.ulaval.ca/admission",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université Laval by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "udem",
+      "category": "computer-science",
+      "slug": "udem-informatique",
+      "name": "Informatique (Computer Science)",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://admission.umontreal.ca/programmes/baccalaureat-en-informatique/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 87,
+          "sourceUrl": "https://admission.umontreal.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université de Montréal by February 1, 2027 — the deadline for limited-enrolment (contingenté) programs; verify the current cycle's deadline on the admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "udem",
+      "category": "health-sciences",
+      "slug": "udem-sciences-biomedicales",
+      "name": "Sciences biomédicales (Biomedical Sciences)",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://admission.umontreal.ca/programmes/baccalaureat-en-sciences-biomedicales/",
+      "notes": "Highly limited-enrolment (contingenté) program and a common pre-medicine route; admitted applicants present very strong records. Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 85,
+          "competitiveLow": 90,
+          "competitiveHigh": 95,
+          "sourceUrl": "https://admission.umontreal.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université de Montréal by February 1, 2027 — the deadline for limited-enrolment (contingenté) programs; verify the current cycle's deadline on the admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "udem",
+      "category": "nursing",
+      "slug": "udem-sciences-infirmieres",
+      "name": "Sciences infirmières (Nursing)",
+      "degreeType": "BScInf",
+      "campus": null,
+      "url": "https://admission.umontreal.ca/programmes/baccalaureat-en-sciences-infirmieres-formation-initiale/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 82,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://admission.umontreal.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université de Montréal by February 1, 2027 — the deadline for limited-enrolment (contingenté) programs; verify the current cycle's deadline on the admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "sherbrooke",
+      "category": "computer-science",
+      "slug": "sherbrooke-informatique",
+      "name": "Informatique (Computer Science)",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.usherbrooke.ca/informatique/",
+      "notes": "Co-op work terms are available. Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.usherbrooke.ca/admission/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université de Sherbrooke by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "sherbrooke",
+      "category": "engineering",
+      "slug": "sherbrooke-genie-mecanique",
+      "name": "Génie mécanique (Mechanical Engineering)",
+      "degreeType": "BIng",
+      "campus": null,
+      "url": "https://www.usherbrooke.ca/genie/",
+      "notes": "Sherbrooke engineering is known for its mandatory co-op model, alternating study and paid work terms. Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 87,
+          "sourceUrl": "https://www.usherbrooke.ca/admission/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université de Sherbrooke by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "sherbrooke",
+      "category": "business",
+      "slug": "sherbrooke-administration",
+      "name": "Administration des affaires (Business Administration)",
+      "degreeType": "BAA",
+      "campus": null,
+      "url": "https://www.usherbrooke.ca/ecole-gestion/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 76,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.usherbrooke.ca/admission/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université de Sherbrooke by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "sherbrooke",
+      "category": "nursing",
+      "slug": "sherbrooke-sciences-infirmieres",
+      "name": "Sciences infirmières (Nursing)",
+      "degreeType": "BScInf",
+      "campus": null,
+      "url": "https://www.usherbrooke.ca/sciences-infirmieres/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 86,
+          "sourceUrl": "https://www.usherbrooke.ca/admission/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université de Sherbrooke by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uqam",
+      "category": "computer-science",
+      "slug": "uqam-informatique",
+      "name": "Informatique et génie logiciel (Computer Science and Software Engineering)",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://etudier.uqam.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 76,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://etudier.uqam.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to UQAM by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uqam",
+      "category": "business",
+      "slug": "uqam-administration",
+      "name": "Administration (ESG UQAM)",
+      "degreeType": "BAA",
+      "campus": null,
+      "url": "https://etudier.uqam.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://etudier.uqam.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to UQAM by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uqtr",
+      "category": "computer-science",
+      "slug": "uqtr-informatique",
+      "name": "Informatique (Computer Science)",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.uqtr.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.uqtr.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to UQTR by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uqtr",
+      "category": "nursing",
+      "slug": "uqtr-sciences-infirmieres",
+      "name": "Sciences infirmières (Nursing)",
+      "degreeType": "BScInf",
+      "campus": null,
+      "url": "https://www.uqtr.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.uqtr.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to UQTR by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uqtr",
+      "category": "business",
+      "slug": "uqtr-administration",
+      "name": "Administration des affaires (Business Administration)",
+      "degreeType": "BAA",
+      "campus": null,
+      "url": "https://www.uqtr.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.uqtr.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to UQTR by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uqac",
+      "category": "computer-science",
+      "slug": "uqac-informatique",
+      "name": "Informatique (Computer Science)",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://www.uqac.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.uqac.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to UQAC by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uqac",
+      "category": "nursing",
+      "slug": "uqac-sciences-infirmieres",
+      "name": "Sciences infirmières (Nursing)",
+      "degreeType": "BScInf",
+      "campus": null,
+      "url": "https://www.uqac.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.uqac.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to UQAC by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uqac",
+      "category": "business",
+      "slug": "uqac-administration",
+      "name": "Administration (Business Administration)",
+      "degreeType": "BAA",
+      "campus": null,
+      "url": "https://www.uqac.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.uqac.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to UQAC by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uqar",
+      "category": "nursing",
+      "slug": "uqar-sciences-infirmieres",
+      "name": "Sciences infirmières (Nursing)",
+      "degreeType": "BScInf",
+      "campus": null,
+      "url": "https://www.uqar.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.uqar.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to UQAR by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uqar",
+      "category": "business",
+      "slug": "uqar-administration",
+      "name": "Administration (Business Administration)",
+      "degreeType": "BAA",
+      "campus": null,
+      "url": "https://www.uqar.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.uqar.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to UQAR by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uqo",
+      "category": "computer-science",
+      "slug": "uqo-informatique",
+      "name": "Informatique (Computer Science)",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://uqo.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://uqo.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to UQO by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uqo",
+      "category": "nursing",
+      "slug": "uqo-sciences-infirmieres",
+      "name": "Sciences infirmières (Nursing)",
+      "degreeType": "BScInf",
+      "campus": null,
+      "url": "https://uqo.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://uqo.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "SBI4U",
+          "courseName": "Biology"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to UQO by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uqo",
+      "category": "business",
+      "slug": "uqo-administration",
+      "name": "Administration (Business Administration)",
+      "degreeType": "BAA",
+      "campus": null,
+      "url": "https://uqo.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://uqo.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to UQO by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uqat",
+      "category": "business",
+      "slug": "uqat-administration",
+      "name": "Administration (Business Administration)",
+      "degreeType": "BAA",
+      "campus": null,
+      "url": "https://www.uqat.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.uqat.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to UQAT by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "teluq",
+      "category": "business",
+      "slug": "teluq-administration",
+      "name": "Administration (Business Administration, distance education)",
+      "degreeType": "BAA",
+      "campus": null,
+      "url": "https://www.teluq.ca/",
+      "notes": "TÉLUQ is a distance-education university; courses are completed online with flexible start dates. Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.teluq.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "TÉLUQ admits on a continuous basis with several start dates per year; aim to apply by March 1, 2027 for a fall start and verify the current cycle's dates on the TÉLUQ site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ets",
+      "category": "computer-science",
+      "slug": "ets-genie-logiciel",
+      "name": "Génie logiciel (Software Engineering)",
+      "degreeType": "BIng",
+      "campus": null,
+      "url": "https://www.etsmtl.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. ÉTS admits primarily holders of a Québec technical DEC (CEGEP); grade-12 applicants from outside Québec should contact ÉTS admissions about preparatory pathways before applying. Listed prerequisites are Ontario 4U equivalents.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 86,
+          "sourceUrl": "https://www.etsmtl.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "ICS4U",
+          "courseName": "Computer Science",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to ÉTS by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ets",
+      "category": "engineering",
+      "slug": "ets-genie-mecanique",
+      "name": "Génie mécanique (Mechanical Engineering)",
+      "degreeType": "BIng",
+      "campus": null,
+      "url": "https://www.etsmtl.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. ÉTS admits primarily holders of a Québec technical DEC (CEGEP); grade-12 applicants from outside Québec should contact ÉTS admissions about preparatory pathways before applying. Listed prerequisites are Ontario 4U equivalents.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.etsmtl.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to ÉTS by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "hec",
+      "category": "business",
+      "slug": "hec-baa",
+      "name": "Baccalauréat en administration des affaires (BAA)",
+      "degreeType": "BAA",
+      "campus": null,
+      "url": "https://www.hec.ca/programmes/baa/",
+      "notes": "Instruction is mainly in French, and HEC Montréal also offers bilingual and trilingual BAA tracks; proof of French proficiency is required for the French track. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://www.hec.ca/programmes/baa/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors",
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to HEC Montréal by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "polymtl",
+      "category": "engineering",
+      "slug": "polymtl-genie-informatique",
+      "name": "Génie informatique (Computer Engineering)",
+      "degreeType": "BIng",
+      "campus": null,
+      "url": "https://www.polymtl.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 91,
+          "sourceUrl": "https://www.polymtl.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Polytechnique Montréal by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "polymtl",
+      "category": "engineering",
+      "slug": "polymtl-genie-mecanique",
+      "name": "Génie mécanique (Mechanical Engineering)",
+      "degreeType": "BIng",
+      "campus": null,
+      "url": "https://www.polymtl.ca/",
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 83,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://www.polymtl.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "MHF4U",
+          "courseName": "Advanced Functions"
+        },
+        {
+          "courseCode": "MCV4U",
+          "courseName": "Calculus and Vectors"
+        },
+        {
+          "courseCode": "SPH4U",
+          "courseName": "Physics"
+        },
+        {
+          "courseCode": "SCH4U",
+          "courseName": "Chemistry"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Polytechnique Montréal by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    }
+  ]
+}
