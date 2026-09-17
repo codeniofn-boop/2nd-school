@@ -1,0 +1,1684 @@
+{
+  "categories": [
+    {
+      "slug": "political-science",
+      "name": "Political Science & International Relations",
+      "aliases": [
+        "poli sci",
+        "politics",
+        "political studies",
+        "international relations",
+        "IR",
+        "global studies",
+        "public affairs",
+        "government"
+      ],
+      "description": "Political science, political studies, and international relations programs covering Canadian government, comparative politics, political theory, and global affairs, along with applied public affairs and policy degrees.",
+      "tips": [
+        {
+          "kind": "extracurricular",
+          "title": "Join Model UN",
+          "detail": "Model United Nations conferences build the research, public-speaking, and negotiation skills these programs reward, and sustained involvement — chairing a committee or leading a delegation — is concrete evidence of interest in politics and international affairs.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Compete on a debate team",
+          "detail": "Debate club sharpens argumentation and current-affairs knowledge, and results at regional or provincial tournaments give admissions and scholarship committees a clear signal beyond course grades.",
+          "sortOrder": 1
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Volunteer on a campaign or in a constituency office",
+          "detail": "Volunteering for a political campaign or in an MP or MPP constituency office shows first-hand engagement with how government actually works and produces specific stories to draw on in supplementary applications and scholarship essays.",
+          "sortOrder": 2
+        }
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "institution": "uoft",
+      "category": "political-science",
+      "slug": "uoft-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": "St. George",
+      "url": "https://future.utoronto.ca/undergraduate-programs/political-science/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://future.utoronto.ca/undergraduate-programs/political-science/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "President's/entrance scholar consideration",
+          "detail": "Admitted students with averages of roughly 92% and above are automatically considered for University of Toronto entrance scholarships, including President's Scholars awards.",
+          "value": "92",
+          "sortOrder": 1
+        }
+      ],
+      "notes": "Admission is to the Faculty of Arts & Science social sciences admission category; the Political Science program is selected after first year."
+    },
+    {
+      "institution": "carleton",
+      "category": "political-science",
+      "slug": "carleton-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://carleton.ca/polisci/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 77,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://carleton.ca/polisci/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Carleton entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for Carleton's renewable entrance scholarships, with higher tiers at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "carleton",
+      "category": "political-science",
+      "slug": "carleton-public-affairs",
+      "name": "Public Affairs and Policy Management",
+      "degreeType": "BPAPM",
+      "campus": null,
+      "url": "https://carleton.ca/arthurkroeger/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 85,
+          "competitiveLow": 88,
+          "competitiveHigh": 92,
+          "sourceUrl": "https://carleton.ca/arthurkroeger/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Carleton entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for Carleton's renewable entrance scholarships, with higher tiers at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ],
+      "notes": "Carleton's interdisciplinary public affairs degree, taught through the Arthur Kroeger College of Public Affairs. Enrolment is limited and cutoffs sit well above Carleton's BA programs, with admitted students typically presenting high-80s averages."
+    },
+    {
+      "institution": "queens",
+      "category": "political-science",
+      "slug": "queens-political-science",
+      "name": "Political Studies",
+      "degreeType": "BA (Hons)",
+      "campus": null,
+      "url": "https://www.queensu.ca/politics/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://www.queensu.ca/politics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Queen's entrance scholarships",
+          "detail": "Admitted students with averages of roughly 90% and above are automatically considered for Queen's admission-based entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ottawa",
+      "category": "political-science",
+      "slug": "ottawa-political-science",
+      "name": "Political Science",
+      "degreeType": "BSocSc",
+      "campus": null,
+      "url": "https://www.uottawa.ca/faculty-social-sciences",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.uottawa.ca/faculty-social-sciences",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "uOttawa admission scholarships",
+          "detail": "uOttawa admission scholarships are automatic and tiered by admission average, starting at roughly 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ],
+      "notes": "uOttawa is a bilingual university: Political Science can be completed in English, in French, or in both languages, and French Immersion Stream options are available."
+    },
+    {
+      "institution": "york",
+      "category": "political-science",
+      "slug": "york-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": "Keele",
+      "url": "https://www.yorku.ca/laps/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.yorku.ca/laps/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "York entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for York entrance scholarships, with larger awards at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ],
+      "notes": "Offered at the Keele campus through the Faculty of Liberal Arts & Professional Studies; York also offers a separate bilingual political science program at Glendon College."
+    },
+    {
+      "institution": "western",
+      "category": "political-science",
+      "slug": "western-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://politicalscience.uwo.ca/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 83,
+          "competitiveHigh": 87,
+          "sourceUrl": "https://politicalscience.uwo.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Western entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for Western's admission scholarships, with higher tiers at higher averages.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ],
+      "notes": "Admission is to Western's Social Science first-year entry; the Political Science module is selected after first year."
+    },
+    {
+      "institution": "mcmaster",
+      "category": "political-science",
+      "slug": "mcmaster-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://polisci.mcmaster.ca/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://polisci.mcmaster.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "McMaster entrance awards",
+          "detail": "Averages of 95% and above receive automatic consideration for McMaster's top entrance awards; lower tiers apply automatically at lower averages.",
+          "value": "95",
+          "sortOrder": 1
+        }
+      ],
+      "notes": "Admission is through McMaster's Social Sciences I gateway year; students move into the Political Science program after first year."
+    },
+    {
+      "institution": "guelph",
+      "category": "political-science",
+      "slug": "guelph-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://admission.uoguelph.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 76,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://admission.uoguelph.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Guelph entrance scholarships",
+          "detail": "Averages of roughly 85% and above receive automatic consideration for Guelph's admission-average entrance scholarships, with higher tiers at higher averages.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "laurier",
+      "category": "political-science",
+      "slug": "laurier-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.wlu.ca/programs",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.wlu.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Laurier entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Laurier entrance scholarships, with higher tiers at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "tmu",
+      "category": "political-science",
+      "slug": "tmu-political-science",
+      "name": "Politics and Governance",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.torontomu.ca/programs/undergraduate/politics-governance/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.torontomu.ca/programs/undergraduate/politics-governance/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "TMU entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for TMU entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "trent",
+      "category": "political-science",
+      "slug": "trent-political-science",
+      "name": "Political Studies",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.trentu.ca/politicalstudies/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://www.trentu.ca/politicalstudies/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Trent entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Trent's renewable entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "brock",
+      "category": "political-science",
+      "slug": "brock-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://brocku.ca/social-sciences/political-science/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://brocku.ca/social-sciences/political-science/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Brock Scholars Award",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for the Brock Scholars Award, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mcgill",
+      "category": "political-science",
+      "slug": "mcgill-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.mcgill.ca/politicalscience/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 82,
+          "competitiveLow": 86,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://www.mcgill.ca/politicalscience/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to McGill by February 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on McGill's admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Basic Entrance Scholarship consideration",
+          "detail": "All admitted students are automatically considered for McGill's one-time Basic Entrance Scholarship. Recent recipients have typically presented averages of roughly 93% and above; exact cutoffs vary by year and faculty.",
+          "value": "93",
+          "sortOrder": 1
+        }
+      ],
+      "notes": "Admission is to the Faculty of Arts, with the Political Science major declared after first year. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted."
+    },
+    {
+      "institution": "concordia",
+      "category": "political-science",
+      "slug": "concordia-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.concordia.ca/academics/undergraduate/political-science.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.concordia.ca/academics/undergraduate/political-science.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Concordia by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on Concordia's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ],
+      "notes": "Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted."
+    },
+    {
+      "institution": "laval",
+      "category": "political-science",
+      "slug": "laval-political-science",
+      "name": "Science politique (Political Science)",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.ulaval.ca/etudes/programmes/baccalaureat-en-science-politique",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.ulaval.ca/etudes/programmes/baccalaureat-en-science-politique",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université Laval by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ],
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted."
+    },
+    {
+      "institution": "udem",
+      "category": "political-science",
+      "slug": "udem-political-science",
+      "name": "Science politique (Political Science)",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://admission.umontreal.ca/programmes/baccalaureat-en-science-politique/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 76,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://admission.umontreal.ca/programmes/baccalaureat-en-science-politique/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université de Montréal by February 1, 2027 — the deadline for limited-enrolment (contingenté) programs; verify the current cycle's deadline on the admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        }
+      ],
+      "notes": "Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted."
+    },
+    {
+      "institution": "ubc",
+      "category": "political-science",
+      "slug": "ubc-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": "Vancouver",
+      "url": "https://politics.ubc.ca/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://politics.ubc.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "essay",
+          "name": "Personal Profile",
+          "description": "Short written responses about experiences, activities, and what you learned from them; weighted alongside grades for all direct-entry UBC applicants.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Take the Personal Profile seriously",
+          "detail": "The Personal Profile is weighted alongside your marks. Draft your short answers early, be specific about what you did and what it taught you, and have someone you trust review them before submitting.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "UBC application deadline",
+          "detail": "Apply through EducationPlannerBC by January 15, 2027 for September 2027 entry. Verify the current cycle's dates on UBC's admissions site before relying on them.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "Major entrance awards are profile-based",
+          "detail": "UBC's major entrance awards, including Presidential Scholars Awards, are selected from the application and Personal Profile rather than an automatic average cutoff; some require a separate application.",
+          "sortOrder": 2
+        }
+      ],
+      "notes": "Admission is to UBC's Bachelor of Arts, with majors declared after first year. International Relations at UBC is an upper-year program entered from within the BA rather than directly from high school, so applicants interested in IR apply to Arts and typically begin in Political Science."
+    },
+    {
+      "institution": "sfu",
+      "category": "political-science",
+      "slug": "sfu-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": "Burnaby",
+      "url": "https://www.sfu.ca/politics.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.sfu.ca/politics.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "SFU application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for Fall 2027 entry. Verify the current cycle's dates on SFU's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uvic",
+      "category": "political-science",
+      "slug": "uvic-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.uvic.ca/socialsciences/politicalscience/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.uvic.ca/socialsciences/politicalscience/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UVic application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for September 2027 entry. Verify the current cycle's dates on UVic's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ualberta",
+      "category": "political-science",
+      "slug": "ualberta-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": "North Campus",
+      "url": "https://www.ualberta.ca/political-science",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.ualberta.ca/political-science",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for most Fall 2027 programs. Deadlines vary by program and competitive programs can close earlier — verify the current cycle's dates on the UAlberta admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UAlberta admission-based entrance scholarships",
+          "detail": "UAlberta automatically considers applicants for entrance scholarships based on admission average, with awards generally starting around 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ucalgary",
+      "category": "political-science",
+      "slug": "ucalgary-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.ucalgary.ca/future-students/undergraduate/explore-programs/political-science",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.ucalgary.ca/future-students/undergraduate/explore-programs/political-science",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for most Fall 2027 programs. Deadlines vary by program and competitive programs can close earlier — verify the current cycle's dates on the UCalgary admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UCalgary automatic entrance awards",
+          "detail": "UCalgary automatically considers applicants for admission-average-based entrance awards, with most automatic awards starting around an 85% admission average. Verify current thresholds on UCalgary's awards pages.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "usask",
+      "category": "political-science",
+      "slug": "usask-political-science",
+      "name": "Political Studies",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://admissions.usask.ca/political-studies.php",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://admissions.usask.ca/political-studies.php",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "USask application deadline",
+          "detail": "Apply by February 15, 2027 for most direct-entry Fall 2027 programs. Verify the current cycle's deadline for your program on the USask admissions site.",
+          "value": "2027-02-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "USask Guaranteed Entrance Scholarships",
+          "detail": "USask awards Guaranteed Entrance Scholarships automatically by admission average, with tiers starting at 80% and larger awards at 85% and 90%. Verify current values on USask's scholarship pages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "umanitoba",
+      "category": "political-science",
+      "slug": "umanitoba-political-science",
+      "name": "Political Studies",
+      "degreeType": "BA",
+      "campus": "Fort Garry",
+      "url": "https://umanitoba.ca/explore/programs-of-study",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://umanitoba.ca/explore/programs-of-study",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UManitoba application deadline",
+          "detail": "Apply by March 1, 2027 for most direct-entry Fall 2027 programs for Canadian applicants. Verify the current cycle's deadline for your program on the UManitoba admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "dalhousie",
+      "category": "political-science",
+      "slug": "dalhousie-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.dal.ca/academics/programs/undergraduate/political-science.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.dal.ca/academics/programs/undergraduate/political-science.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Dalhousie reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "Applicants with admission averages of roughly 85% and above are automatically considered for Dalhousie's general entrance scholarships; larger named awards require a separate application earlier in the cycle.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "stfx",
+      "category": "political-science",
+      "slug": "stfx-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.stfx.ca/programs/political-science",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.stfx.ca/programs/political-science",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "StFX reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "StFX automatically considers applicants for entrance scholarships based on admission average, with tiers beginning around 80%; higher averages qualify for larger awards.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "acadia",
+      "category": "political-science",
+      "slug": "acadia-political-science",
+      "name": "Politics",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://politics.acadiau.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://politics.acadiau.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Acadia reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "Acadia automatically considers applicants for entrance scholarships based on admission average, with award tiers beginning around 80%. No separate application is needed for the automatic tiers.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "stu",
+      "category": "political-science",
+      "slug": "stu-political-science",
+      "name": "Political Science",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.stu.ca/academics/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://www.stu.ca/academics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "St. Thomas reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ],
+      "notes": "St. Thomas is a liberal-arts university: all students enter a common Bachelor of Arts and declare their major, such as Political Science, after first year."
+    }
+  ]
+}

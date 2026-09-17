@@ -1,0 +1,962 @@
+{
+  "categories": [
+    {
+      "slug": "criminology",
+      "name": "Criminology & Criminal Justice",
+      "aliases": [
+        "crim",
+        "criminal justice",
+        "policing",
+        "forensic studies",
+        "justice studies"
+      ],
+      "description": "Criminology and criminal justice programs examining crime, law, policing, courts, and corrections, from research-focused criminology degrees to applied justice studies.",
+      "tips": [
+        {
+          "kind": "extracurricular",
+          "title": "Volunteer in police or community-safety programs",
+          "detail": "Police auxiliary or youth cadet programs, Crime Stoppers chapters, and neighbourhood or school safety initiatives show sustained interest in community safety and give you concrete stories about working with the public.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Join debate or mock trial",
+          "detail": "Debate club and mock trial competitions build the argumentation, case-analysis, and public-speaking skills that criminology and justice programs reward, and they translate directly into supplementary application answers.",
+          "sortOrder": 1
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Hold a part-time job with real responsibility",
+          "detail": "Customer-facing work such as retail, food service, or camp leadership demonstrates reliability and the calm de-escalation skills that justice-related programs and future employers look for.",
+          "sortOrder": 2
+        }
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "institution": "uoft",
+      "category": "criminology",
+      "slug": "uoft-criminology",
+      "name": "Criminology & Sociolegal Studies",
+      "degreeType": "BA",
+      "campus": "St. George",
+      "url": "https://criminology.utoronto.ca/",
+      "notes": "Admission is to the Faculty of Arts & Science (Social Sciences admission category); the criminology major is declared after first year based on course results.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://criminology.utoronto.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "President's/entrance scholar consideration",
+          "detail": "Admitted students with averages of roughly 92% and above are automatically considered for University of Toronto entrance scholarships, including President's Scholars awards.",
+          "value": "92",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ottawa",
+      "category": "criminology",
+      "slug": "ottawa-criminology",
+      "name": "Criminology",
+      "degreeType": "BSocSc",
+      "campus": null,
+      "url": "https://www.uottawa.ca/faculty-social-sciences",
+      "notes": "Offered by the Department of Criminology in the Faculty of Social Sciences; available in English and in French.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.uottawa.ca/faculty-social-sciences",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "uOttawa admission scholarships",
+          "detail": "uOttawa admission scholarships are automatic and tiered by admission average, starting at roughly 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "tmu",
+      "category": "criminology",
+      "slug": "tmu-criminology",
+      "name": "Criminology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.torontomu.ca/programs/undergraduate/criminology/",
+      "notes": "One of the more competitive arts admissions at TMU; grade ranges in recent cycles have run well above the stated minimum.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 83,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://www.torontomu.ca/programs/undergraduate/criminology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "TMU entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for TMU entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "york",
+      "category": "criminology",
+      "slug": "york-criminology",
+      "name": "Criminology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.yorku.ca/laps/",
+      "notes": "Offered through the Department of Social Science in the Faculty of Liberal Arts & Professional Studies.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.yorku.ca/laps/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "York entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for York entrance scholarships, with larger awards at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "windsor",
+      "category": "criminology",
+      "slug": "windsor-criminology",
+      "name": "Criminology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.uwindsor.ca/fahss/",
+      "notes": "Offered by the Department of Sociology and Criminology in the Faculty of Arts, Humanities and Social Sciences.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.uwindsor.ca/fahss/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Windsor entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for University of Windsor entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ontario-tech",
+      "category": "criminology",
+      "slug": "ontario-tech-criminology-and-justice",
+      "name": "Criminology and Justice",
+      "degreeType": "BA (Hons)",
+      "campus": null,
+      "url": "https://socialscienceandhumanities.ontariotechu.ca",
+      "notes": "Offered by the Faculty of Social Science and Humanities.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://socialscienceandhumanities.ontariotechu.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Ontario Tech entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Ontario Tech entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "laurier",
+      "category": "criminology",
+      "slug": "laurier-criminology",
+      "name": "Criminology",
+      "degreeType": "BA",
+      "campus": "Brantford",
+      "url": "https://www.wlu.ca/programs",
+      "notes": "Offered at Laurier's Brantford campus.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://www.wlu.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Laurier entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Laurier entrance scholarships, with higher tiers at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "guelph",
+      "category": "criminology",
+      "slug": "guelph-criminal-justice",
+      "name": "Criminal Justice and Public Policy",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://admission.uoguelph.ca",
+      "notes": "Interdisciplinary honours major combining criminology, law, and policy, taught across the Departments of Sociology & Anthropology and Political Science.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 74,
+          "competitiveLow": 77,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://admission.uoguelph.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Guelph entrance scholarships",
+          "detail": "Averages of roughly 85% and above receive automatic consideration for Guelph's admission-average entrance scholarships, with higher tiers at higher averages.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "carleton",
+      "category": "criminology",
+      "slug": "carleton-criminology",
+      "name": "Criminology and Criminal Justice",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://carleton.ca/criminology/",
+      "notes": "Offered by Carleton's Institute of Criminology & Criminal Justice, with concentrations in law, psychology, and sociology.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 76,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://carleton.ca/criminology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Carleton entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for Carleton's renewable entrance scholarships, with higher tiers at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "sfu",
+      "category": "criminology",
+      "slug": "sfu-criminology",
+      "name": "Criminology",
+      "degreeType": "BA",
+      "campus": "Burnaby",
+      "url": "https://www.sfu.ca/criminology.html",
+      "notes": "SFU's School of Criminology is one of the largest and best-known criminology schools in Canada, and entry runs more competitive than the general Faculty of Arts and Social Sciences minimum. Requirements shown use Ontario 4U codes; BC applicants present English Studies 12 and other approved Grade 12 courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 82,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://www.sfu.ca/criminology.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "SFU application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for Fall 2027 entry. Verify the current cycle's dates on SFU's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ufv",
+      "category": "criminology",
+      "slug": "ufv-criminal-justice",
+      "name": "Criminal Justice",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.ufv.ca/criminology/",
+      "notes": "Offered by UFV's School of Criminology and Criminal Justice, with diploma-to-degree laddering available.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 72,
+          "competitiveHigh": 76,
+          "sourceUrl": "https://www.ufv.ca/criminology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Apply early through EducationPlannerBC",
+          "detail": "UFV accepts applications over an extended window, but popular programs fill early; applying in the winter for September entry is safest. Verify the current cycle's dates on ufv.ca.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "kpu",
+      "category": "criminology",
+      "slug": "kpu-criminology",
+      "name": "Criminology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.kpu.ca/programs",
+      "notes": "Bachelor of Arts major in Criminology in KPU's Faculty of Arts.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 72,
+          "competitiveHigh": 75,
+          "sourceUrl": "https://www.kpu.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Apply early through EducationPlannerBC",
+          "detail": "KPU has multiple intakes and an extended application window, but popular programs fill early; applying in the winter for September entry is safest. Verify the current cycle's dates on kpu.ca.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "mru",
+      "category": "criminology",
+      "slug": "mru-criminal-justice",
+      "name": "Criminal Justice",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.mtroyal.ca/ProgramsCourses/",
+      "notes": "Requirements shown use Ontario 4U codes; Alberta applicants present ELA 30-1 and other 30-level academic courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.mtroyal.ca/ProgramsCourses/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Apply early — first-qualified admission",
+          "detail": "MRU opens applications October 1, 2026 and fills many programs on a first-qualified, first-admitted basis; the final deadline for most Fall 2027 programs is around March 1, 2027. Verify the current cycle's dates on the MRU site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uwinnipeg",
+      "category": "criminology",
+      "slug": "uwinnipeg-criminal-justice",
+      "name": "Criminal Justice",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.uwinnipeg.ca/future-student/",
+      "notes": "UWinnipeg's Department of Criminal Justice offers one of the few dedicated criminal justice degrees in the Prairies. Requirements shown use Ontario 4U codes; Manitoba applicants present ELA 40S and other Grade 12 academic courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 72,
+          "competitiveHigh": 76,
+          "sourceUrl": "https://www.uwinnipeg.ca/future-student/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UWinnipeg application deadline",
+          "detail": "UWinnipeg's regular application deadline for Fall 2027 is around June 1, 2027 for Canadian applicants, but applying earlier improves scholarship and registration options. Verify the current cycle's dates on the UWinnipeg site.",
+          "value": "2027-06-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "umanitoba",
+      "category": "criminology",
+      "slug": "umanitoba-criminology",
+      "name": "Criminology",
+      "degreeType": "BA",
+      "campus": "Fort Garry",
+      "url": "https://umanitoba.ca/explore/programs-of-study",
+      "notes": "Offered by the Department of Sociology and Criminology in the Faculty of Arts; students enter Arts or University 1 and declare the major afterward. Requirements shown use Ontario 4U codes; Manitoba applicants present ELA 40S and other Grade 12 academic courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://umanitoba.ca/explore/programs-of-study",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UManitoba application deadline",
+          "detail": "Apply by March 1, 2027 for most direct-entry Fall 2027 programs for Canadian applicants. Verify the current cycle's deadline for your program on the UManitoba admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "smu-halifax",
+      "category": "criminology",
+      "slug": "smu-halifax-criminology",
+      "name": "Criminology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.smu.ca/academics/departments/sociology-and-criminology.html",
+      "notes": "Offered by the Department of Sociology and Criminology. Requirements shown use Ontario 4U codes; Nova Scotia applicants present English 12 and other Grade 12 academic courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 72,
+          "competitiveHigh": 77,
+          "sourceUrl": "https://www.smu.ca/academics/departments/sociology-and-criminology.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Saint Mary's reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    }
+  ]
+}
