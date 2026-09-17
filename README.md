@@ -56,6 +56,7 @@ Notes on how prerequisites and partial data are handled:
 
 - A missing required prerequisite always caps the label: one missing group means at best Reach; two or more mean Unlikely.
 - "One of A/B/C" prerequisite groups are satisfied by any single course in the group. Recommended courses (`isRequired = false`) never count against a student. Course-code matching is case-insensitive.
+- The course checklist students pick from is the Ontario Grade 12 catalogue in `lib/courses.ts` — every University (4U) and University/College (4M) course, grouped by subject. College-only, workplace, and open courses are excluded because they do not satisfy university admission requirements. Any course code that appears in imported program data but not in the catalogue is still offered, grouped under "Other courses", so a prerequisite is never unselectable.
 - No average entered yet: the label is "Add your grades" rather than a guess.
 - A program with a published minimum but no competitive range at all: meeting the minimum shows Reach, with wording noting that no competitive range is available.
 - A program where only `competitive_high` is published: below it shows Reach with the gap to the safe zone; at or above it shows Safe.
@@ -130,6 +131,7 @@ lib/
   db.ts               Prisma client singleton
   types.ts            Serializable DTO shapes (server -> client)
   rules.ts            Label rules engine (pure functions)
+  courses.ts          Ontario Grade 12 U/M course catalogue
   data.ts             Server-side queries -> DTOs
 prisma/
   schema.prisma       Database schema

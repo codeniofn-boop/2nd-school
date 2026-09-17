@@ -1,6 +1,7 @@
 // Server-side queries + serialization into the DTO shapes clients receive.
 import { prisma } from "./db";
-import type { CategorySummaryDTO, ProgramDTO, ProgramSearchItemDTO } from "./types";
+import type { CategorySummaryDTO, CourseOptionDTO, ProgramDTO, ProgramSearchItemDTO } from "./types";
+import { COURSE_BY_CODE, ONTARIO_GRADE_12_COURSES } from "./courses";
 
 const parseAliases = (raw: string): string[] => {
   try {
@@ -170,19 +171,33 @@ export async function getProgramSearchItems(): Promise<ProgramSearchItemDTO[]> {
   }));
 }
 
-/** Every distinct course that appears as a prerequisite anywhere —
- *  drives the "courses I've taken" checklist. */
-export async function getAllCourses(): Promise<{ courseCode: string; courseName: string }[]> {
+/** The course checklist a student picks from: every Ontario Grade 12 U/M
+ *  course, plus any course code that appears in imported program data but
+ *  is not in the catalogue (grouped under "Other courses" so nothing a
+ *  program requires is ever unselectable). */
+export async function getAllCourses(): Promise<CourseOptionDTO[]> {
   const rows = await prisma.prerequisite.findMany({
     select: { courseCode: true, courseName: true },
   });
-  const seen = new Map<string, string>();
+
+  const extras = new Map<string, string>();
   for (const r of rows) {
+    const code = r.courseCode.toUpperCase();
+    if (COURSE_BY_CODE.has(code)) continue;
     // Prefer the shortest name for a code (some rows carry "or equivalent" notes)
-    const existing = seen.get(r.courseCode);
-    if (!existing || r.courseName.length < existing.length) seen.set(r.courseCode, r.courseName);
+    const existing = extras.get(code);
+    if (!existing || r.courseName.length < existing.length) extras.set(code, r.courseName);
   }
-  return [...seen.entries()]
-    .map(([courseCode, courseName]) => ({ courseCode, courseName }))
+
+  const catalogue: CourseOptionDTO[] = ONTARIO_GRADE_12_COURSES.map((c) => ({ ...c }));
+  const other: CourseOptionDTO[] = [...extras.entries()]
+    .map(([courseCode, courseName]) => ({
+      courseCode,
+      courseName,
+      subject: "Other courses",
+      level: (courseCode.endsWith("M") ? "M" : "U") as "U" | "M",
+    }))
     .sort((a, b) => a.courseCode.localeCompare(b.courseCode));
+
+  return [...catalogue, ...other];
 }

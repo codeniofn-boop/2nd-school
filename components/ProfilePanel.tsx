@@ -1,12 +1,11 @@
 "use client";
 
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import { useProfile } from "@/lib/profile-context";
+import { SUBJECT_ORDER } from "@/lib/courses";
+import type { CourseOptionDTO } from "@/lib/types";
 
-export interface CourseOption {
-  courseCode: string;
-  courseName: string;
-}
+export type CourseOption = CourseOptionDTO;
 
 const clampAverage = (n: number) => Math.min(100, Math.max(50, Math.round(n * 10) / 10));
 
@@ -62,6 +61,38 @@ function ProfilePanelInner({ courses }: { courses: CourseOption[] }) {
     setDraft(null);
   };
 
+  const [filter, setFilter] = useState("");
+  const selectedSet = useMemo(
+    () => new Set(selected.map((c) => c.toUpperCase())),
+    [selected]
+  );
+
+  // Group the catalogue by subject, in curriculum order, applying the filter.
+  // Selected courses always stay visible so nothing silently disappears.
+  const groups = useMemo(() => {
+    const q = filter.trim().toLowerCase();
+    const match = (c: CourseOption) =>
+      q === "" ||
+      selectedSet.has(c.courseCode.toUpperCase()) ||
+      c.courseCode.toLowerCase().includes(q) ||
+      c.courseName.toLowerCase().includes(q) ||
+      c.subject.toLowerCase().includes(q);
+
+    const bySubject = new Map<string, CourseOption[]>();
+    for (const c of courses) {
+      if (!match(c)) continue;
+      const list = bySubject.get(c.subject) ?? [];
+      list.push(c);
+      bySubject.set(c.subject, list);
+    }
+    const order = [...SUBJECT_ORDER] as string[];
+    return [...bySubject.entries()].sort(
+      (a, b) =>
+        (order.indexOf(a[0]) === -1 ? 99 : order.indexOf(a[0])) -
+        (order.indexOf(b[0]) === -1 ? 99 : order.indexOf(b[0]))
+    );
+  }, [courses, filter, selectedSet]);
+
   const summary =
     average !== null
       ? `Your average: ${fmt(average)}% · ${selected.length} course${selected.length === 1 ? "" : "s"}`
@@ -104,37 +135,64 @@ function ProfilePanelInner({ courses }: { courses: CourseOption[] }) {
             className="mt-1 h-11 w-32 rounded-lg border border-slate-300 bg-white px-3 text-base text-slate-900 shadow-sm placeholder:text-slate-400 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-200"
           />
 
-          <p className="mt-4 text-sm font-medium text-slate-700" id="profile-courses-label">
-            Courses you&rsquo;ve taken or are taking
-          </p>
-          <div
-            className="mt-2 flex flex-wrap gap-2"
-            role="group"
-            aria-labelledby="profile-courses-label"
-          >
-            {courses.map((c) => {
-              const isSelected = selected.includes(c.courseCode);
-              return (
-                <button
-                  key={c.courseCode}
-                  type="button"
-                  aria-pressed={isSelected}
-                  onClick={() => toggleCourse(c.courseCode)}
-                  className={`min-h-11 rounded-full border px-3 py-1.5 text-sm transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 ${
-                    isSelected
-                      ? "border-slate-900 bg-slate-900 text-white"
-                      : "border-slate-300 bg-white text-slate-700 hover:border-slate-400"
-                  }`}
-                >
-                  <span className="font-semibold">{c.courseCode}</span>{" "}
-                  <span className={isSelected ? "text-slate-200" : "text-slate-500"}>
-                    {c.courseName}
-                  </span>
-                </button>
-              );
-            })}
-            {courses.length === 0 && (
-              <p className="text-sm text-slate-500">No prerequisite courses to pick from yet.</p>
+          <div className="mt-4 flex flex-wrap items-baseline justify-between gap-x-3 gap-y-1">
+            <p className="text-sm font-medium text-slate-700" id="profile-courses-label">
+              Courses you&rsquo;ve taken or are taking
+            </p>
+            <p className="text-xs text-slate-500">
+              {selected.length > 0 ? `${selected.length} selected` : "Grade 12 U/M courses"}
+            </p>
+          </div>
+
+          <label htmlFor="course-filter" className="sr-only">
+            Filter courses
+          </label>
+          <input
+            id="course-filter"
+            type="search"
+            value={filter}
+            onChange={(e) => setFilter(e.target.value)}
+            placeholder="Filter by code or name — e.g. &quot;bio&quot;, &quot;SCH&quot;"
+            autoComplete="off"
+            className="mt-2 h-11 w-full rounded-lg border border-slate-300 bg-white px-3 text-sm text-slate-900 shadow-sm placeholder:text-slate-400 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-200"
+          />
+
+          <div className="mt-3 space-y-4" role="group" aria-labelledby="profile-courses-label">
+            {groups.map(([subject, list]) => (
+              <div key={subject}>
+                <p className="text-[11px] font-semibold uppercase tracking-wide text-slate-400">
+                  {subject}
+                </p>
+                <div className="mt-1.5 flex flex-wrap gap-2">
+                  {list.map((c) => {
+                    const isSelected = selectedSet.has(c.courseCode.toUpperCase());
+                    return (
+                      <button
+                        key={c.courseCode}
+                        type="button"
+                        aria-pressed={isSelected}
+                        title={c.courseName}
+                        onClick={() => toggleCourse(c.courseCode)}
+                        className={`min-h-11 rounded-full border px-3 py-1.5 text-sm transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 ${
+                          isSelected
+                            ? "border-slate-900 bg-slate-900 text-white"
+                            : "border-slate-300 bg-white text-slate-700 hover:border-slate-400"
+                        }`}
+                      >
+                        <span className="font-semibold">{c.courseCode}</span>{" "}
+                        <span className={isSelected ? "text-slate-200" : "text-slate-500"}>
+                          {c.courseName}
+                        </span>
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+            ))}
+            {groups.length === 0 && (
+              <p className="text-sm text-slate-500">
+                No courses match &ldquo;{filter.trim()}&rdquo;.
+              </p>
             )}
           </div>
 

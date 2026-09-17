@@ -80,3 +80,10 @@ export interface CategorySummaryDTO {
   institutionCount: number;
   programNames: string[]; // extra fuzzy-search fodder
 }
+
+export interface CourseOptionDTO {
+  courseCode: string;
+  courseName: string;
+  subject: string;
+  level: "U" | "M";
+}
