@@ -1,0 +1,1170 @@
+{
+  "categories": [
+    {
+      "slug": "fine-arts",
+      "name": "Fine Arts, Music & Design",
+      "aliases": [
+        "art",
+        "visual arts",
+        "studio art",
+        "music",
+        "theatre",
+        "drama",
+        "design",
+        "graphic design",
+        "illustration",
+        "animation",
+        "film production",
+        "BFA",
+        "BMus"
+      ],
+      "description": "Studio art, design, music, theatre, and film programs where a portfolio or audition usually carries more weight in admission than grades.",
+      "tips": [
+        {
+          "kind": "extracurricular",
+          "title": "Build a curated portfolio over time",
+          "detail": "Admissions portfolios are typically 10–20 strong pieces, not everything you have ever made. Work steadily, keep your best pieces, revisit and refine them, and include observational work alongside personal projects — reviewers look for growth and intent, not just polish.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Complete graded music exams and play in ensembles",
+          "detail": "RCM (or Conservatory Canada) performance and theory exams give music schools a standardized signal of your level, and sustained ensemble experience — band, orchestra, choir, or a chamber group — shows the collaborative musicianship auditions and interviews probe for.",
+          "sortOrder": 1
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Perform, exhibit, or publish your work",
+          "detail": "School productions, student exhibitions, community galleries, or a finished personal project that reached an audience — a zine, short film, recital, or published illustration — proves you can carry creative work to completion, which supplementary applications reward.",
+          "sortOrder": 2
+        }
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "institution": "ocad",
+      "category": "fine-arts",
+      "slug": "ocad-drawing-painting",
+      "name": "Drawing & Painting (BFA)",
+      "degreeType": "BFA",
+      "campus": null,
+      "url": "https://www.ocadu.ca/admissions",
+      "notes": "Admission is dominated by the portfolio and process work; the academic average mostly needs to clear the minimum. OCAD U also admits to other BFA majors through the same portfolio-based process.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.ocadu.ca/admissions",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "portfolio",
+          "name": "Admission Portfolio",
+          "description": "Curated selection of recent work with process documentation, uploaded after applying; the dominant selection factor.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Treat the portfolio as the application",
+          "detail": "OCAD U selects primarily on the portfolio. Show a range of media with strong observational drawing, include sketchbook and process pages, and follow the posted format requirements exactly — a smaller set of refined pieces beats a large unedited one.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "Application and portfolio deadline",
+          "detail": "OCAD U applications (via OUAC) and portfolio uploads are typically due around February 1, 2027 for Fall 2027 entry — earlier than many portfolio reviews at other schools. Verify the current cycle's dates on ocadu.ca before relying on them.",
+          "value": "2027-02-01",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "nscad",
+      "category": "fine-arts",
+      "slug": "nscad-fine-arts",
+      "name": "Fine Arts (BFA)",
+      "degreeType": "BFA",
+      "campus": null,
+      "url": "https://nscad.ca/admissions/",
+      "notes": "Entry is through a common foundation year before specializing; the portfolio and written statement drive selection, with the academic average acting mainly as a threshold.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 72,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://nscad.ca/admissions/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "portfolio",
+          "name": "Admission Portfolio",
+          "description": "Selection of recent creative work submitted with a written statement; the dominant selection factor.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Curate the portfolio and statement together",
+          "detail": "NSCAD reviews the portfolio alongside your written statement, so make them tell one story: pick 10–20 pieces that show observation, experimentation, and finish, and use the statement to explain what you are exploring rather than listing achievements.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "Priority application and portfolio deadline",
+          "detail": "NSCAD's priority application and portfolio deadline for fall entry typically falls in early February — plan for February 1, 2027, with later applications considered as space allows. Verify the current cycle's dates on nscad.ca.",
+          "value": "2027-02-01",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "emily-carr",
+      "category": "fine-arts",
+      "slug": "emily-carr-visual-arts",
+      "name": "Visual Arts (BFA)",
+      "degreeType": "BFA",
+      "campus": null,
+      "url": "https://www.ecuad.ca/admissions",
+      "notes": "Admission is competitive on the strength of the portfolio and written responses rather than grades; the academic average mostly needs to clear the minimum. Foundation year is shared before students specialize.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 67,
+          "competitiveLow": 72,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.ecuad.ca/admissions",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "portfolio",
+          "name": "Admission Portfolio",
+          "description": "Curated portfolio with short written responses, submitted after applying; the dominant selection factor at one of Canada's most applied-to art schools.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Make the portfolio show thinking, not just skill",
+          "detail": "Emily Carr's reviewers weight idea development heavily. Include process documentation and experiments alongside finished pieces, keep the selection tight, and answer the written prompts specifically — generic artist statements score poorly.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "Application and portfolio deadline",
+          "detail": "Emily Carr's application and portfolio deadline for Fall 2027 typically falls in early February — plan for February 1, 2027 and verify the current cycle's dates on ecuad.ca before relying on them.",
+          "value": "2027-02-01",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "concordia",
+      "category": "fine-arts",
+      "slug": "concordia-studio-arts",
+      "name": "Studio Arts (BFA)",
+      "degreeType": "BFA",
+      "campus": null,
+      "url": "https://www.concordia.ca/finearts.html",
+      "notes": "Part of Concordia's Faculty of Fine Arts, one of the largest in Canada. The portfolio and letter of intent drive selection; the academic average mostly needs to clear the minimum.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 72,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.concordia.ca/finearts.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "portfolio",
+          "name": "Admission Portfolio",
+          "description": "Portfolio of recent work with a letter of intent, submitted after applying; the dominant selection factor.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Build the portfolio around a direction",
+          "detail": "Studio Arts reviews the portfolio with your letter of intent, so choose pieces that support what you say you want to explore. Show range across media, but let a genuine line of inquiry come through rather than assembling disconnected highlights.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Concordia by March 1, 2027 for Fall 2027 entry; Fine Arts portfolio and letter-of-intent packages are due shortly after applying. Verify the current cycle's deadlines on concordia.ca.",
+          "value": "2027-03-01",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "concordia",
+      "category": "fine-arts",
+      "slug": "concordia-film-production",
+      "name": "Film Production — Mel Hoppenheim School of Cinema (BFA)",
+      "degreeType": "BFA",
+      "campus": null,
+      "url": "https://www.concordia.ca/finearts/cinema.html",
+      "notes": "One of the most selective film programs in the country: a small cohort chosen almost entirely on the portfolio and letter of intent. A solid but unspectacular average will not hold you back if the creative work stands out.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.concordia.ca/finearts/cinema.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "portfolio",
+          "name": "Admission Portfolio",
+          "description": "Creative portfolio (film or other media) with a letter of intent; the dominant selection factor for a small, highly competitive cohort.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Lead with finished films",
+          "detail": "Film Production admits a small cohort on the strength of the portfolio. Submit completed short work you directed or shot — even modest pieces with clear intent beat ambitious fragments — and use the letter of intent to show you understand filmmaking as craft, not just fandom.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Concordia by March 1, 2027 for Fall 2027 entry; portfolio and letter-of-intent packages are due shortly after applying, and the program fills quickly. Verify the current cycle's deadlines on concordia.ca.",
+          "value": "2027-03-01",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "york",
+      "category": "fine-arts",
+      "slug": "york-visual-arts",
+      "name": "Visual Arts (BFA)",
+      "degreeType": "BFA",
+      "campus": null,
+      "url": "https://ampd.yorku.ca",
+      "notes": "Offered through York's School of the Arts, Media, Performance & Design (AMPD). The portfolio and supplementary evaluation drive selection; the academic average mostly needs to clear the program minimum.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://ampd.yorku.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "portfolio",
+          "name": "AMPD Portfolio Evaluation",
+          "description": "Portfolio submission and supplementary evaluation required by AMPD after applying; the dominant selection factor.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Complete the AMPD evaluation early",
+          "detail": "York's AMPD programs assess the portfolio and supplementary evaluation ahead of grades. Book your evaluation slot as soon as you apply, follow the submission format exactly, and include observational drawing alongside personal work.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities. AMPD portfolio and evaluation materials are typically due in January–February, shortly after the application itself.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "tmu",
+      "category": "fine-arts",
+      "slug": "tmu-image-arts",
+      "name": "Image Arts: Film and Photography (BFA)",
+      "degreeType": "BFA",
+      "campus": null,
+      "url": "https://www.torontomu.ca/image-arts/",
+      "notes": "TMU's School of Image Arts admits separately to Film Studies and Photography Studies; apply to one stream. Both are portfolio-driven and competitive well beyond what the grade range suggests.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.torontomu.ca/image-arts/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "portfolio",
+          "name": "Image Arts Portfolio",
+          "description": "Portfolio of film or photographic work with written components, submitted after applying; the dominant selection factor.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Tailor the portfolio to your stream",
+          "detail": "Film and Photography assess different things: finished moving-image work and storytelling for Film, coherent edited series for Photography. Read the current portfolio brief for your stream and answer it directly instead of submitting a general art portfolio.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities. Image Arts portfolio materials are typically due in January–February, shortly after the application itself.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "TMU entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for TMU entrance scholarships.",
+          "value": "90",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "uoft",
+      "category": "fine-arts",
+      "slug": "uoft-music",
+      "name": "Music (BMus)",
+      "degreeType": "BMus",
+      "campus": "St. George",
+      "url": "https://music.utoronto.ca",
+      "notes": "Selection at the Faculty of Music is dominated by the audition and musicianship assessment; the academic average mostly needs to clear the minimum. Applicants are generally expected to perform at roughly RCM Grade 8 level or higher with a grounding in rudiments and theory — check the requirements for your instrument or voice.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://music.utoronto.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "video",
+          "name": "Audition",
+          "description": "Live or recorded audition on your principal instrument or voice, plus a musicianship assessment; the dominant selection factor.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Prepare the audition like a recital",
+          "detail": "The audition outweighs grades at the Faculty of Music. Learn the posted repertoire requirements for your instrument early, run mock auditions in front of people, and brush up rudiments and theory for the musicianship assessment.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities. Faculty of Music supplementary materials and audition bookings are typically due in January–February, shortly after the application itself.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ubc",
+      "category": "fine-arts",
+      "slug": "ubc-visual-art",
+      "name": "Visual Art (BFA)",
+      "degreeType": "BFA",
+      "campus": "Vancouver",
+      "url": "https://ahva.ubc.ca",
+      "notes": "The portfolio drives selection into the BFA, and like all UBC applicants you also complete the Personal Profile as part of admission. Grades matter more here than at the stand-alone art schools, but the creative work is decisive.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://ahva.ubc.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "portfolio",
+          "name": "Admission Portfolio",
+          "description": "Portfolio of recent work submitted for BFA selection, alongside UBC's standard Personal Profile; the dominant selection factor for the major.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Prepare the portfolio and Personal Profile together",
+          "detail": "The BFA portfolio decides the major while the Personal Profile factors into UBC admission overall. Keep the portfolio tight and well documented, and use the Profile's short answers to give context to your creative practice with specific examples.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "UBC application deadline",
+          "detail": "Apply through EducationPlannerBC by January 15, 2027 for September 2027 entry; the BFA portfolio is submitted separately after applying. Verify the current cycle's dates on UBC's admissions site before relying on them.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ubc",
+      "category": "fine-arts",
+      "slug": "ubc-music",
+      "name": "Music (BMus)",
+      "degreeType": "BMus",
+      "campus": "Vancouver",
+      "url": "https://music.ubc.ca",
+      "notes": "The School of Music selects primarily on the audition and theory placement; the academic side follows UBC's general admission. Applicants typically perform at roughly RCM Grade 8 level or higher — check the audition requirements for your instrument or voice.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://music.ubc.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "video",
+          "name": "Audition",
+          "description": "Live or recorded audition on your principal instrument or voice, plus a theory assessment; the dominant selection factor.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Book the audition early",
+          "detail": "UBC Music auditions are scheduled in limited windows after you apply. Confirm the repertoire list for your instrument as soon as the cycle opens, decide early between live and recorded formats, and prepare for the theory assessment alongside the performance.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "UBC application deadline",
+          "detail": "Apply through EducationPlannerBC by January 15, 2027 for September 2027 entry; auditions are booked separately after applying. Verify the current cycle's dates on UBC's admissions site before relying on them.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mcgill",
+      "category": "fine-arts",
+      "slug": "mcgill-music",
+      "name": "Music — Schulich School of Music (BMus)",
+      "degreeType": "BMus",
+      "campus": null,
+      "url": "https://www.mcgill.ca/music/",
+      "notes": "One of Canada's most respected music schools; the audition dominates selection and academic requirements are modest by McGill standards. Expect an entrance theory and ear-training placement, with performance standards that vary by instrument and area.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.mcgill.ca/music/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "video",
+          "name": "Audition",
+          "description": "Live or recorded audition on your principal instrument or voice; the dominant selection factor at a highly competitive school.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Prepare Schulich-level repertoire",
+          "detail": "Schulich auditions are competitive at a national level. Choose repertoire that meets the posted requirements for your instrument and shows contrast, work with a teacher on audition-specific preparation, and record practice runs months ahead — polish is expected, not optional.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "Schulich application deadline",
+          "detail": "Music applications to McGill are typically due by mid-January — earlier than McGill's general deadline — with auditions scheduled in late winter. Plan for January 15, 2027 and verify the current cycle's dates on mcgill.ca.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "western",
+      "category": "fine-arts",
+      "slug": "western-music",
+      "name": "Music — Don Wright Faculty of Music (BMus)",
+      "degreeType": "BMus",
+      "campus": null,
+      "url": "https://music.uwo.ca",
+      "notes": "Admission turns on the audition and theory placement rather than the average, which mostly needs to clear the minimum. Applicants are generally expected to perform at roughly RCM Grade 8 level or higher — confirm the standard for your instrument or voice.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://music.uwo.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "video",
+          "name": "Audition",
+          "description": "Live or recorded audition on your principal instrument or voice, plus a theory assessment; the dominant selection factor.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Schedule the audition, then work backwards",
+          "detail": "Don Wright auditions run in set windows after you apply. Book a date early, build a practice plan back from it, and prepare the theory and ear-training components — they are assessed alongside the performance, not as an afterthought.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities. Audition bookings and supplementary materials are typically due in January–February, shortly after the application itself.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "Western entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for Western's admission scholarships, with higher tiers at higher averages.",
+          "value": "90",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "queens",
+      "category": "fine-arts",
+      "slug": "queens-fine-art",
+      "name": "Fine Art — Visual Art (BFAH)",
+      "degreeType": "BFAH",
+      "campus": null,
+      "url": "https://www.queensu.ca/bfa/",
+      "notes": "A small limited-enrolment studio program; the portfolio dominates selection and seats fill from a deep applicant pool. The academic average mostly needs to clear the minimum.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.queensu.ca/bfa/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "portfolio",
+          "name": "Admission Portfolio",
+          "description": "Portfolio of recent work with a written statement, submitted after applying; the dominant selection factor for a small limited-enrolment cohort.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Compete on the portfolio, not the average",
+          "detail": "With one of the smallest BFA intakes in Ontario, Queen's selects almost entirely on the portfolio. Include strong observational drawing, show sustained work in at least one medium, and have an art teacher or practicing artist critique your selection before you submit.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities. Portfolio materials are typically due in January–February, shortly after the application itself.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "Queen's entrance scholarships",
+          "detail": "Admitted students with averages of roughly 90% and above are automatically considered for Queen's admission-based entrance scholarships.",
+          "value": "90",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "uvic",
+      "category": "fine-arts",
+      "slug": "uvic-visual-arts",
+      "name": "Visual Arts (BFA)",
+      "degreeType": "BFA",
+      "campus": null,
+      "url": "https://www.uvic.ca/finearts/visualarts/",
+      "notes": "The portfolio drives selection into the BFA; the academic average mostly needs to clear UVic's minimum.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 67,
+          "competitiveLow": 70,
+          "competitiveHigh": 76,
+          "sourceUrl": "https://www.uvic.ca/finearts/visualarts/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "portfolio",
+          "name": "Admission Portfolio",
+          "description": "Portfolio of recent work submitted for BFA selection; the dominant selection factor.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Show a working studio practice",
+          "detail": "UVic's reviewers respond to evidence of regular making: sketchbooks, series, and works in progress alongside finished pieces. Curate 10–20 pieces, label each with medium and intent, and follow the department's submission format.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "UVic application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for September 2027 entry; the portfolio is submitted separately after applying. Verify the current cycle's dates on UVic's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "uvic",
+      "category": "fine-arts",
+      "slug": "uvic-music",
+      "name": "Music (BMus)",
+      "degreeType": "BMus",
+      "campus": null,
+      "url": "https://www.uvic.ca/finearts/music/",
+      "notes": "The School of Music selects on the audition and theory placement; the academic average mostly needs to clear UVic's minimum. Applicants typically perform at roughly RCM Grade 8 level or higher — check the requirements for your instrument or voice.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 67,
+          "competitiveLow": 70,
+          "competitiveHigh": 76,
+          "sourceUrl": "https://www.uvic.ca/finearts/music/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "video",
+          "name": "Audition",
+          "description": "Live or recorded audition on your principal instrument or voice; the dominant selection factor.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Prepare audition and theory together",
+          "detail": "UVic assesses performance and musicianship side by side. Choose contrasting repertoire that meets the posted requirements, run timed mock auditions, and review rudiments and ear training in the months before your date.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "UVic application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for September 2027 entry; auditions are booked separately after applying. Verify the current cycle's dates on UVic's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ualberta",
+      "category": "fine-arts",
+      "slug": "ualberta-music",
+      "name": "Music (BMus)",
+      "degreeType": "BMus",
+      "campus": "North Campus",
+      "url": "https://www.ualberta.ca/music",
+      "notes": "The audition and theory placement drive selection; the academic average mostly needs to clear the Faculty of Arts minimum. Applicants typically perform at roughly RCM Grade 8 level or higher — confirm the standard for your instrument or voice.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 72,
+          "competitiveHigh": 76,
+          "sourceUrl": "https://www.ualberta.ca/music",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "video",
+          "name": "Audition",
+          "description": "Live or recorded audition on your principal instrument or voice, plus a theory assessment; the dominant selection factor.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Contact the department before you audition",
+          "detail": "UAlberta schedules auditions separately from admission, and requirements differ by instrument. Reach out to the Department of Music early, confirm your repertoire meets the posted standard, and prepare for the theory placement alongside the performance.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for most Fall 2027 programs; auditions are booked separately and often run in late winter and spring, so start the process early. Verify the current cycle's dates on ualberta.ca.",
+          "value": "2027-03-01",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "UAlberta admission-based entrance scholarships",
+          "detail": "UAlberta automatically considers applicants for entrance scholarships based on admission average, with awards generally starting around 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "umanitoba",
+      "category": "fine-arts",
+      "slug": "umanitoba-school-of-art",
+      "name": "School of Art (BFA)",
+      "degreeType": "BFA",
+      "campus": "Fort Garry",
+      "url": "https://umanitoba.ca/art",
+      "notes": "One of the oldest art schools in Western Canada. The portfolio drives selection into studio streams; confirm the current portfolio requirements for your intended entry route on the School of Art's pages, as they differ between general and studio admission.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 70,
+          "competitiveHigh": 75,
+          "sourceUrl": "https://umanitoba.ca/art",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "portfolio",
+          "name": "Admission Portfolio",
+          "description": "Portfolio of recent work submitted for studio admission; the dominant selection factor for studio streams.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Match the portfolio to the entry route",
+          "detail": "The School of Art's portfolio expectations differ by stream, so read the current requirements before assembling anything. Lead with observational drawing and finished series, and document three-dimensional or time-based work with clean photography.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "UManitoba application deadline",
+          "detail": "Apply by March 1, 2027 for most direct-entry Fall 2027 programs for Canadian applicants; the School of Art portfolio is submitted separately. Verify the current cycle's deadline on the UManitoba admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "windsor",
+      "category": "fine-arts",
+      "slug": "windsor-visual-arts",
+      "name": "Visual Arts (BFA)",
+      "degreeType": "BFA",
+      "campus": null,
+      "url": "https://www.uwindsor.ca/creativearts/",
+      "notes": "Offered through the School of Creative Arts. The portfolio drives selection, and the academic average mostly needs to clear the minimum; confirm the current portfolio requirements on the school's pages.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 72,
+          "competitiveHigh": 76,
+          "sourceUrl": "https://www.uwindsor.ca/creativearts/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "portfolio",
+          "name": "Admission Portfolio",
+          "description": "Portfolio of recent work submitted after applying; the dominant selection factor.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Submit a focused portfolio",
+          "detail": "Windsor reviews the portfolio ahead of grades. Keep the selection to your strongest recent work, include drawing from observation, and write short, specific notes on each piece rather than a general statement.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities. Portfolio materials are typically due in January–February, shortly after the application itself.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mta",
+      "category": "fine-arts",
+      "slug": "mta-fine-arts",
+      "name": "Fine Arts (BFA)",
+      "degreeType": "BFA",
+      "campus": null,
+      "url": "https://www.mta.ca/programs/fine-arts",
+      "notes": "One of the few dedicated BFA programs in Atlantic Canada; the portfolio drives selection and the academic average mostly needs to clear the minimum.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 70,
+          "competitiveHigh": 75,
+          "sourceUrl": "https://www.mta.ca/programs/fine-arts",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "portfolio",
+          "name": "Admission Portfolio",
+          "description": "Portfolio of recent work submitted with the application; the dominant selection factor.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Let the portfolio carry the application",
+          "detail": "Mount Allison's BFA selects on the portfolio, so treat it as the main event: 10–20 refined pieces showing observation and a developing personal direction, photographed cleanly and organized to the program's submission guidelines.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Mount Allison reviews applications on a rolling basis rather than against a single deadline. Applying by early spring — ideally before March — keeps program, scholarship, and housing options open and leaves time to prepare the portfolio.",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mta",
+      "category": "fine-arts",
+      "slug": "mta-music",
+      "name": "Music (BMus)",
+      "degreeType": "BMus",
+      "campus": null,
+      "url": "https://www.mta.ca/programs/music",
+      "notes": "The audition and theory placement drive selection; the academic average mostly needs to clear the minimum. Applicants typically perform at roughly RCM Grade 8 level or higher — confirm the standard for your instrument or voice.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 70,
+          "competitiveHigh": 75,
+          "sourceUrl": "https://www.mta.ca/programs/music",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "video",
+          "name": "Audition",
+          "description": "Live or recorded audition on your principal instrument or voice; the dominant selection factor.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Book an audition date early",
+          "detail": "Mount Allison's audition dates are limited, and a live audition also doubles as a scholarship assessment. Confirm repertoire requirements with the Department of Music, then rehearse to performance standard well before your date.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — book your audition early",
+          "detail": "Applications are reviewed on a rolling basis rather than against a single deadline, but audition dates are limited and often fall in late winter. Apply early — ideally before March — and book an audition as soon as the cycle opens.",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "acadia",
+      "category": "fine-arts",
+      "slug": "acadia-music",
+      "name": "Music (BMus)",
+      "degreeType": "BMus",
+      "campus": null,
+      "url": "https://music.acadiau.ca",
+      "notes": "The audition and theory placement drive selection; the academic average mostly needs to clear the minimum. Applicants typically perform at roughly RCM Grade 8 level or higher — confirm the standard for your instrument or voice.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 72,
+          "competitiveHigh": 76,
+          "sourceUrl": "https://music.acadiau.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "video",
+          "name": "Audition",
+          "description": "Live or recorded audition on your principal instrument or voice; the dominant selection factor.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Prepare contrasting audition repertoire",
+          "detail": "Acadia's audition outweighs grades. Prepare contrasting pieces that meet the posted requirements for your instrument, review rudiments for the theory placement, and run your program for listeners several times before the audition.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — book your audition early",
+          "detail": "Applications are reviewed on a rolling basis rather than against a single deadline, but audition dates are limited and often fall in late winter. Apply early — ideally before March — and book an audition as soon as the cycle opens.",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "memorial",
+      "category": "fine-arts",
+      "slug": "memorial-music",
+      "name": "Music (BMus)",
+      "degreeType": "BMus",
+      "campus": "St. John's",
+      "url": "https://www.mun.ca/music/",
+      "notes": "The School of Music selects on the audition and theory assessment; the academic average mostly needs to clear Memorial's minimum. Applicants typically perform at roughly RCM Grade 8 level or higher — confirm the standard for your instrument or voice.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 72,
+          "competitiveHigh": 76,
+          "sourceUrl": "https://www.mun.ca/music/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "video",
+          "name": "Audition",
+          "description": "Live or recorded audition on your principal instrument or voice, plus a theory assessment; the dominant selection factor.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Treat the audition as the deciding factor",
+          "detail": "Memorial's School of Music admits on the audition and theory assessment. Confirm the requirements for your instrument with the school, prepare contrasting repertoire to performance standard, and review rudiments before the assessment.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — book your audition early",
+          "detail": "Applications are reviewed on a rolling basis rather than against a single deadline, but School of Music audition dates are limited and often fall in late winter. Apply early — ideally before March — and book an audition as soon as the cycle opens.",
+          "sortOrder": 1
+        }
+      ]
+    }
+  ]
+}

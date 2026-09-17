@@ -1,0 +1,1163 @@
+{
+  "categories": [
+    {
+      "slug": "geography",
+      "name": "Geography & Environmental Studies",
+      "aliases": [
+        "geo",
+        "human geography",
+        "physical geography",
+        "GIS",
+        "environmental studies",
+        "environment",
+        "urban planning"
+      ],
+      "description": "Human and physical geography, environmental studies, and planning programs examining how people, places, and ecosystems interact — from GIS and spatial analysis to conservation and urban planning.",
+      "tips": [
+        {
+          "kind": "extracurricular",
+          "title": "Volunteer in local conservation",
+          "detail": "Sustained stewardship work — tree plantings, stream cleanups, invasive-species pulls with a conservation authority, park friends group, or naturalist club — is concrete evidence of environmental commitment and produces specific stories for supplementary applications.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Build a mapping project with open data",
+          "detail": "Free tools like QGIS and municipal open-data portals make it possible to map something you care about — transit access, tree cover, flood risk — in a weekend. A finished map or story map is a portfolio piece few applicants can show.",
+          "sortOrder": 1
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Take on outdoor leadership",
+          "detail": "The Duke of Edinburgh's Award, Scouts, cadets, camp counselling, and school outdoor or eco clubs all combine fieldwork comfort with leadership — exactly the mix geography and environment programs like to see.",
+          "sortOrder": 2
+        }
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "institution": "uoft",
+      "category": "geography",
+      "slug": "uoft-geography-planning",
+      "name": "Geography & Planning",
+      "degreeType": "BA",
+      "campus": "St. George",
+      "url": "https://www.geography.utoronto.ca/",
+      "notes": "Entry is through the Faculty of Arts & Science's Social Sciences admission category; geography and planning programs of study are declared after first year.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 82,
+          "competitiveHigh": 86,
+          "sourceUrl": "https://www.geography.utoronto.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "President's/entrance scholar consideration",
+          "detail": "Admitted students with averages of roughly 92% and above are automatically considered for University of Toronto entrance scholarships, including President's Scholars awards.",
+          "value": "92",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "waterloo",
+      "category": "geography",
+      "slug": "waterloo-geography",
+      "name": "Geography and Environmental Management",
+      "degreeType": "BES",
+      "campus": null,
+      "url": "https://uwaterloo.ca/future-students/programs/geography-and-environmental-management",
+      "notes": "Offered by Waterloo's Faculty of Environment with optional co-op; specializations include Geomatics and Climate Change.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://uwaterloo.ca/future-students/programs/geography-and-environmental-management",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "form",
+          "name": "Admission Information Form (AIF)",
+          "description": "Waterloo's supplementary form covering activities, interests, and circumstances; scored and factored into admission decisions.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Make the AIF count",
+          "detail": "The Admission Information Form can meaningfully boost a borderline average. Mapping projects, conservation volunteering, and outdoor leadership roles are exactly the specifics Waterloo's Faculty of Environment looks for.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "President's Scholarship of Distinction",
+          "detail": "Automatic consideration by admission average: 95%+ earns the President's Scholarship of Distinction, 90–94.9% the President's Scholarship, and 85–89.9% the Merit Scholarship.",
+          "value": "95",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "waterloo",
+      "category": "geography",
+      "slug": "waterloo-planning",
+      "name": "Planning",
+      "degreeType": "BES",
+      "campus": null,
+      "url": "https://uwaterloo.ca/future-students/programs/planning",
+      "notes": "Professionally accredited honours planning degree with co-op; one of the most competitive routes into urban planning in Canada, with successful applicants typically above the published minimum.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://uwaterloo.ca/future-students/programs/planning",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "form",
+          "name": "Admission Information Form (AIF)",
+          "description": "Waterloo's supplementary form covering activities, interests, and circumstances; scored and factored into admission decisions.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Make the AIF count",
+          "detail": "Planning is a small, competitive cohort, so the Admission Information Form matters for borderline averages. Point at concrete civic interests — municipal open-data projects, youth councils, community consultations you attended — rather than general enthusiasm for cities.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "President's Scholarship of Distinction",
+          "detail": "Automatic consideration by admission average: 95%+ earns the President's Scholarship of Distinction, 90–94.9% the President's Scholarship, and 85–89.9% the Merit Scholarship.",
+          "value": "95",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "western",
+      "category": "geography",
+      "slug": "western-geography",
+      "name": "Geography",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://geoenvironment.uwo.ca/",
+      "notes": "Entry is through Western's general first year; geography and environment modules from the Department of Geography and Environment are declared after first year.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://geoenvironment.uwo.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Western entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for Western's admission scholarships, with higher tiers at higher averages.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mcmaster",
+      "category": "geography",
+      "slug": "mcmaster-environment-society",
+      "name": "Environment & Society",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://sees.mcmaster.ca/",
+      "notes": "Offered by the School of Earth, Environment & Society; entry is through McMaster's Social Sciences I gateway, with the program declared after first year.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 77,
+          "competitiveLow": 81,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://sees.mcmaster.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "McMaster entrance awards",
+          "detail": "Averages of 95% and above receive automatic consideration for McMaster's top entrance awards; lower tiers apply automatically at lower averages.",
+          "value": "95",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "queens",
+      "category": "geography",
+      "slug": "queens-geography",
+      "name": "Geography",
+      "degreeType": "BAH",
+      "campus": null,
+      "url": "https://www.queensu.ca/geographyandplanning/",
+      "notes": "Entry is through the Queen's Bachelor of Arts (Honours); plans in the Department of Geography and Planning are declared after first year.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://www.queensu.ca/geographyandplanning/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Queen's entrance scholarships",
+          "detail": "Admitted students with averages of roughly 90% and above are automatically considered for Queen's admission-based entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "guelph",
+      "category": "geography",
+      "slug": "guelph-geography",
+      "name": "Geography",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://admission.uoguelph.ca",
+      "notes": "Offered through Guelph's Bachelor of Arts by the Department of Geography, Environment and Geomatics; science-oriented environmental programs are available separately through the Bachelor of Science.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://admission.uoguelph.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Guelph entrance scholarships",
+          "detail": "Averages of roughly 85% and above receive automatic consideration for Guelph's admission-average entrance scholarships, with higher tiers at higher averages.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ottawa",
+      "category": "geography",
+      "slug": "ottawa-geography",
+      "name": "Geography",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.uottawa.ca/faculty-arts",
+      "notes": "Offered by the Department of Geography, Environment and Geomatics in the Faculty of Arts; courses are available in both English and French, with a French immersion stream.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 76,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.uottawa.ca/faculty-arts",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "uOttawa admission scholarships",
+          "detail": "uOttawa admission scholarships are automatic and tiered by admission average, starting at roughly 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "carleton",
+      "category": "geography",
+      "slug": "carleton-geography",
+      "name": "Geography",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://carleton.ca/geography/",
+      "notes": "Offered by the Department of Geography and Environmental Studies, which also offers a separate BA in Environmental Studies.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 76,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://carleton.ca/geography/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Carleton entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for Carleton's renewable entrance scholarships, with higher tiers at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "tmu",
+      "category": "geography",
+      "slug": "tmu-geographic-analysis",
+      "name": "Geographic Analysis",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.torontomu.ca/programs/undergraduate/geographic-analysis/",
+      "notes": "An applied program with a strong GIS, spatial-analysis, and urban focus, including an internship option.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.torontomu.ca/programs/undergraduate/geographic-analysis/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "TMU entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for TMU entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "brock",
+      "category": "geography",
+      "slug": "brock-geography",
+      "name": "Geography",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://brocku.ca/social-sciences/geography/",
+      "notes": "Offered by the Department of Geography and Tourism Studies in Brock's Faculty of Social Sciences.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://brocku.ca/social-sciences/geography/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Brock Scholars Award",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for the Brock Scholars Award, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "trent",
+      "category": "geography",
+      "slug": "trent-environment",
+      "name": "Environmental and Resource Science/Studies",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.trentu.ca/environment/",
+      "notes": "Offered by the Trent School of the Environment. Students take the BSc stream (Environmental and Resource Science), which expects 4U science, or the BA stream (Environmental and Resource Studies).",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.trentu.ca/environment/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Trent entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Trent's renewable entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ubc",
+      "category": "geography",
+      "slug": "ubc-geography",
+      "name": "Geography",
+      "degreeType": "BA",
+      "campus": "Vancouver",
+      "url": "https://www.geog.ubc.ca/",
+      "notes": "UBC admission is broad-based: grades plus the Personal Profile. Entry is through the Faculty of Arts, and geography majors — human and environmental streams — are declared after first year. The BC equivalent of the listed course is English Studies 12.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://www.geog.ubc.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "essay",
+          "name": "Personal Profile",
+          "description": "Short written responses about experiences, activities, and what you learned from them; weighted alongside grades for all direct-entry UBC applicants.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Take the Personal Profile seriously",
+          "detail": "The Personal Profile is weighted alongside your marks. Conservation volunteering, mapping projects, and outdoor leadership give geography applicants specific stories — describe what you did and what it taught you.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "UBC application deadline",
+          "detail": "Apply through EducationPlannerBC by January 15, 2027 for September 2027 entry. Verify the current cycle's dates on UBC's admissions site before relying on them.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "Major entrance awards are profile-based",
+          "detail": "UBC's major entrance awards, including Presidential Scholars Awards, are selected from the application and Personal Profile rather than an automatic average cutoff; some require a separate application.",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "sfu",
+      "category": "geography",
+      "slug": "sfu-geography",
+      "name": "Geography",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.sfu.ca/geography.html",
+      "notes": "Offered by SFU's Department of Geography in the Faculty of Environment; a BSc route in Physical Geography is also available, and co-op is optional.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 79,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.sfu.ca/geography.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "SFU application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for Fall 2027 entry. Verify the current cycle's dates on SFU's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uvic",
+      "category": "geography",
+      "slug": "uvic-geography",
+      "name": "Geography",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.uvic.ca/socialsciences/geography/",
+      "notes": "Offered by UVic's Department of Geography in the Faculty of Social Sciences, with human, physical, and geomatics concentrations; a BSc route is also available.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.uvic.ca/socialsciences/geography/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UVic application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for September 2027 entry. Verify the current cycle's dates on UVic's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ualberta",
+      "category": "geography",
+      "slug": "ualberta-human-geography",
+      "name": "Human Geography",
+      "degreeType": "BA",
+      "campus": "North Campus",
+      "url": "https://www.ualberta.ca/arts",
+      "notes": "Requirements shown use Ontario 4U codes; Alberta applicants present ELA 30-1 and four other 30-level academic courses. Offered through the Faculty of Arts, with a related BA in Planning available.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.ualberta.ca/arts",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for most Fall 2027 programs. Deadlines vary by program and competitive programs can close earlier — verify the current cycle's dates on the UAlberta admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UAlberta admission-based entrance scholarships",
+          "detail": "UAlberta automatically considers applicants for entrance scholarships based on admission average, with awards generally starting around 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ucalgary",
+      "category": "geography",
+      "slug": "ucalgary-geography",
+      "name": "Geography",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.ucalgary.ca/future-students/undergraduate/explore-programs/geography",
+      "notes": "Requirements shown use Ontario 4U codes; Alberta applicants present ELA 30-1 and other 30-level academic courses. A BSc Geography route with science prerequisites is also available.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.ucalgary.ca/future-students/undergraduate/explore-programs/geography",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for most Fall 2027 programs. Deadlines vary by program and competitive programs can close earlier — verify the current cycle's dates on the UCalgary admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UCalgary automatic entrance awards",
+          "detail": "UCalgary automatically considers applicants for admission-average-based entrance awards, with most automatic awards starting around an 85% admission average. Verify current thresholds on UCalgary's awards pages.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "usask",
+      "category": "geography",
+      "slug": "usask-geography",
+      "name": "Geography",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://admissions.usask.ca/geography.php",
+      "notes": "Offered by the Department of Geography and Planning through the College of Arts and Science. Saskatchewan applicants present ELA A30 and B30; Ontario applicants present ENG4U.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://admissions.usask.ca/geography.php",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "USask application deadline",
+          "detail": "Apply by February 15, 2027 for most direct-entry Fall 2027 programs. Verify the current cycle's deadline for your program on the USask admissions site.",
+          "value": "2027-02-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "USask Guaranteed Entrance Scholarships",
+          "detail": "USask awards Guaranteed Entrance Scholarships automatically by admission average, with tiers starting at 80% and larger awards at 85% and 90%. Verify current values on USask's scholarship pages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "memorial",
+      "category": "geography",
+      "slug": "memorial-geography",
+      "name": "Geography",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.mun.ca/geography/",
+      "notes": "Memorial's tuition is among the lowest of any Canadian university, particularly for students from Newfoundland and Labrador.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://www.mun.ca/geography/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Memorial reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    }
+  ]
+}

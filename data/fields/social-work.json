@@ -1,0 +1,479 @@
+{
+  "categories": [
+    {
+      "slug": "social-work",
+      "name": "Social Work",
+      "aliases": [
+        "BSW",
+        "social worker",
+        "social services",
+        "community services"
+      ],
+      "description": "Direct-entry Bachelor of Social Work (BSW) programs preparing students for professional practice with individuals, families, and communities, combining coursework with supervised field placements. Seats are limited at most schools, and several confirm professional standing after initial university courses.",
+      "tips": [
+        {
+          "kind": "extracurricular",
+          "title": "Volunteer with community organizations and shelters",
+          "detail": "Sustained volunteering with food banks, shelters, settlement agencies, or community centres is the clearest evidence of commitment to social work and gives you concrete stories for personal statements.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Build experience with vulnerable populations",
+          "detail": "Roles that involve direct, respectful contact with seniors, newcomers, people with disabilities, or youth — through volunteering or part-time work — carry real weight in BSW admissions and later professional applications.",
+          "sortOrder": 1
+        },
+        {
+          "kind": "supplementary_focus",
+          "title": "Line up strong references early",
+          "detail": "Many BSW applications ask for references who can speak to your work with people. Build relationships with volunteer coordinators and supervisors now, and ask for letters well before deadlines.",
+          "sortOrder": 2
+        }
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "institution": "windsor",
+      "category": "social-work",
+      "slug": "windsor-social-work",
+      "name": "Social Work (BSW)",
+      "degreeType": "BSW",
+      "campus": null,
+      "url": "https://www.uwindsor.ca/socialwork/",
+      "notes": "Direct entry from high school through OUAC. Seats are limited and admission is more competitive than general Arts entry; the professional years combine coursework with field placements.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 79,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.uwindsor.ca/socialwork/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Windsor entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for University of Windsor entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "lakehead",
+      "category": "social-work",
+      "slug": "lakehead-social-work",
+      "name": "Social Work (HBSW)",
+      "degreeType": "HBSW",
+      "campus": null,
+      "url": "https://www.lakeheadu.ca/programs",
+      "notes": "Direct-entry Honours Bachelor of Social Work offered at both the Thunder Bay and Orillia campuses. Seats are limited.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 77,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.lakeheadu.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Lakehead entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Lakehead entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "laurentian",
+      "category": "social-work",
+      "slug": "laurentian-social-work",
+      "name": "Social Work (BSW)",
+      "degreeType": "BSW",
+      "campus": null,
+      "url": "https://laurentian.ca/programs",
+      "notes": "Direct-entry BSW; a parallel French-language program (Service social) is also offered. Seats are limited.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 76,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://laurentian.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Laurentian entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Laurentian entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "tmu",
+      "category": "social-work",
+      "slug": "tmu-social-work",
+      "name": "Social Work (BSW)",
+      "degreeType": "BSW",
+      "campus": null,
+      "url": "https://www.torontomu.ca/programs/undergraduate/social-work/",
+      "notes": "One of the largest direct-entry BSW intakes in Ontario. Admission is competitive: seats are limited and successful applicants typically present averages well above the published minimum.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 83,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://www.torontomu.ca/programs/undergraduate/social-work/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "TMU entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for TMU entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "uregina",
+      "category": "social-work",
+      "slug": "uregina-social-work",
+      "name": "Social Work (BSW)",
+      "degreeType": "BSW",
+      "campus": null,
+      "url": "https://www.uregina.ca/socialwork/",
+      "notes": "High-school applicants are admitted directly to the Faculty of Social Work; standing in the BSW is confirmed as qualifying university courses are completed. Saskatchewan applicants present ELA A30 and B30. Professional seats, including practicum placements, are limited.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 75,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.uregina.ca/socialwork/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "URegina application deadline",
+          "detail": "Apply by March 15, 2027 for most Fall 2027 programs at the University of Regina. Verify the current cycle's deadline for your program on the URegina admissions site.",
+          "value": "2027-03-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "stu",
+      "category": "social-work",
+      "slug": "stu-social-work",
+      "name": "Social Work (BSW)",
+      "degreeType": "BSW",
+      "campus": null,
+      "url": "https://www.stu.ca/socialwork/",
+      "notes": "High-school applicants are admitted to St. Thomas and complete initial coursework before formal admission to the limited-enrolment BSW major; non-academic experience and references carry real weight at that stage.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.stu.ca/socialwork/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "essay",
+          "name": "BSW application and references",
+          "description": "Written application with a personal statement and references, assessed by the School of Social Work; experience with people and communities is weighed alongside grades.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Build the record your BSW application needs",
+          "detail": "Admission to the professional program weighs volunteer and work experience with people alongside grades. Start logging community involvement now and line up referees who have seen you work with others.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "St. Thomas reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "cbu",
+      "category": "social-work",
+      "slug": "cbu-social-work",
+      "name": "Social Work (BSW)",
+      "degreeType": "BSW",
+      "campus": null,
+      "url": "https://www.cbu.ca/academics/programs/",
+      "notes": "A newer BSW offering with a small intake; seats are limited and program details are still evolving, so confirm requirements directly with CBU admissions.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 76,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.cbu.ca/academics/programs/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Cape Breton University reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "memorial",
+      "category": "social-work",
+      "slug": "memorial-social-work",
+      "name": "Social Work (BSW)",
+      "degreeType": "BSW",
+      "campus": null,
+      "url": "https://www.mun.ca/socialwork/",
+      "notes": "Limited-entry program: applicants complete qualifying first-year courses at Memorial and then apply to the BSW, where admission is competitive and considers experience as well as grades.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 79,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.mun.ca/socialwork/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "essay",
+          "name": "BSW admission application",
+          "description": "Written application to the limited-entry BSW, including a personal statement about experience and suitability for social work, submitted after qualifying first-year courses.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Prepare the BSW personal statement early",
+          "detail": "The limited-entry application asks you to show understanding of social work and relevant experience. Volunteer through first year and draft your statement well before the internal deadline.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Memorial reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "moncton",
+      "category": "social-work",
+      "slug": "moncton-social-work",
+      "name": "Travail social (BSW)",
+      "degreeType": "BSW",
+      "campus": null,
+      "url": "https://www.umoncton.ca/programmes/",
+      "notes": "Instruction is in French, and applicants must demonstrate French-language proficiency. For Ontario applicants, Grade 12 French (FRA4U or FIF4U) or equivalent francophone schooling is the expected preparation. Seats in the professional years are limited.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 68,
+          "competitiveLow": 72,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://www.umoncton.ca/programmes/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Université de Moncton reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uqam",
+      "category": "social-work",
+      "slug": "uqam-social-work",
+      "name": "Travail social (BSW)",
+      "degreeType": "BSW",
+      "campus": null,
+      "url": "https://etudier.uqam.ca/",
+      "notes": "Heavily limited-enrolment (contingenté) program. Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 86,
+          "sourceUrl": "https://etudier.uqam.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to UQAM by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "laval",
+      "category": "social-work",
+      "slug": "laval-social-work",
+      "name": "Service social (BSW)",
+      "degreeType": "BSW",
+      "campus": null,
+      "url": "https://www.ulaval.ca/etudes/programmes/baccalaureat-en-service-social",
+      "notes": "Limited-enrolment program. Instruction is in French, and proof of French proficiency is required. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are evaluated on their grade-12 record.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 77,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.ulaval.ca/etudes/programmes/baccalaureat-en-service-social",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Université Laval by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    }
+  ]
+}

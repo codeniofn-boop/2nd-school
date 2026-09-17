@@ -1,0 +1,1952 @@
+{
+  "categories": [
+    {
+      "slug": "psychology",
+      "name": "Psychology",
+      "aliases": [
+        "psych",
+        "behavioural science",
+        "cognitive science",
+        "neuroscience and psychology",
+        "mental health"
+      ],
+      "description": "Psychology and behavioural-science programs covering cognition, development, social behaviour, and the biological bases of the mind, offered as BA and BSc pathways at universities across Canada.",
+      "tips": [
+        {
+          "kind": "extracurricular",
+          "title": "Volunteer on a peer-support or crisis line",
+          "detail": "Sustained volunteering with a distress centre, crisis line, or school peer-support program is strong evidence of commitment to mental-health work and builds the listening skills psychology programs value. Many services train and accept high-school-age volunteers.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Get research experience early",
+          "detail": "Helping a university or community research team, or running your own psychology experiment for a science fair, shows you understand the scientific side of the field and gives you concrete material for supplementary applications.",
+          "sortOrder": 1
+        },
+        {
+          "kind": "extracurricular",
+          "title": "Help lead a mental-health advocacy club",
+          "detail": "Starting or leading a student wellness or mental-health advocacy club — such as a Jack.org chapter — demonstrates initiative and a genuine interest in psychology beyond the classroom.",
+          "sortOrder": 2
+        }
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "institution": "uoft",
+      "category": "psychology",
+      "slug": "uoft-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": "St. George",
+      "url": "https://future.utoronto.ca/undergraduate-programs/psychology/",
+      "notes": "Admission is to the Faculty of Arts & Science; students enrol in the psychology major or specialist after first year, and entry to the program depends on first-year grades. The research-specialist and BSc streams expect stronger math and science preparation.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://future.utoronto.ca/undergraduate-programs/psychology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "President's/entrance scholar consideration",
+          "detail": "Admitted students with averages of roughly 92% and above are automatically considered for University of Toronto entrance scholarships, including President's Scholars awards.",
+          "value": "92",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "waterloo",
+      "category": "psychology",
+      "slug": "waterloo-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://uwaterloo.ca/future-students/programs/psychology",
+      "notes": "Offered as a BA through the Faculty of Arts and as a BSc through the Faculty of Science. The BA route requires only English; applicants to the BSc route apply through Science and need 4U math and science courses, so treat the recommended courses as required for that stream.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 83,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://uwaterloo.ca/future-students/programs/psychology",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "SBI4U",
+              "courseName": "Biology"
+            },
+            {
+              "courseCode": "SCH4U",
+              "courseName": "Chemistry"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "President's Scholarship of Distinction",
+          "detail": "Automatic consideration by admission average: 95%+ earns the President's Scholarship of Distinction, 90–94.9% the President's Scholarship, and 85–89.9% the Merit Scholarship.",
+          "value": "95",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mcmaster",
+      "category": "psychology",
+      "slug": "mcmaster-psychology",
+      "name": "Psychology, Neuroscience & Behaviour (PNB)",
+      "degreeType": "BSc",
+      "campus": null,
+      "url": "https://pnb.mcmaster.ca/",
+      "notes": "Direct-entry Level 1 program in the Faculty of Science and one of the most competitive psychology entries in Ontario; successful applicants typically present averages in the high 80s.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 84,
+          "competitiveLow": 88,
+          "competitiveHigh": 91,
+          "sourceUrl": "https://pnb.mcmaster.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            }
+          ]
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "SBI4U",
+              "courseName": "Biology"
+            },
+            {
+              "courseCode": "SCH4U",
+              "courseName": "Chemistry"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "McMaster entrance awards",
+          "detail": "Averages of 95% and above receive automatic consideration for McMaster's top entrance awards; lower tiers apply automatically at lower averages.",
+          "value": "95",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "western",
+      "category": "psychology",
+      "slug": "western-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://psychology.uwo.ca/",
+      "notes": "Admission is through Western's Social Science (BA) or Science (BSc) first-year entry, with the psychology module declared after first year. The BSc route requires 4U math and science courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 83,
+          "competitiveLow": 86,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://psychology.uwo.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Western entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for Western's admission scholarships, with higher tiers at higher averages.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "queens",
+      "category": "psychology",
+      "slug": "queens-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.queensu.ca/psychology/",
+      "notes": "Admission is through Arts (BAH) or Science (BScH) entry, with the psychology plan declared after first year; entry is competitive. The BSc route requires 4U math and science courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 83,
+          "competitiveLow": 87,
+          "competitiveHigh": 91,
+          "sourceUrl": "https://www.queensu.ca/psychology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Queen's entrance scholarships",
+          "detail": "Admitted students with averages of roughly 90% and above are automatically considered for Queen's admission-based entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "york",
+      "category": "psychology",
+      "slug": "york-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://health.yorku.ca",
+      "notes": "One of the largest psychology programs in Canada, offered through the Faculty of Health as a BA or BSc; the BSc stream requires 4U math and science courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://health.yorku.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "York entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for York entrance scholarships, with larger awards at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ottawa",
+      "category": "psychology",
+      "slug": "ottawa-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.uottawa.ca/faculty-social-sciences",
+      "notes": "Offered through the Faculty of Social Sciences, with courses available in English and French. The BSc stream requires 4U math and science courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.uottawa.ca/faculty-social-sciences",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "uOttawa admission scholarships",
+          "detail": "uOttawa admission scholarships are automatic and tiered by admission average, starting at roughly 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "carleton",
+      "category": "psychology",
+      "slug": "carleton-psychology",
+      "name": "Psychology",
+      "degreeType": "BA (Hons)",
+      "campus": null,
+      "url": "https://carleton.ca/psychology/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://carleton.ca/psychology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Carleton entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for Carleton's renewable entrance scholarships, with higher tiers at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "guelph",
+      "category": "psychology",
+      "slug": "guelph-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.uoguelph.ca/psychology/",
+      "notes": "The BA route requires only English; the BSc route (Psychology: Brain and Cognition) requires 4U math and science courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 76,
+          "competitiveLow": 80,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.uoguelph.ca/psychology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "SBI4U",
+              "courseName": "Biology"
+            },
+            {
+              "courseCode": "SCH4U",
+              "courseName": "Chemistry"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Guelph entrance scholarships",
+          "detail": "Averages of roughly 85% and above receive automatic consideration for Guelph's admission-average entrance scholarships, with higher tiers at higher averages.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "laurier",
+      "category": "psychology",
+      "slug": "laurier-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.wlu.ca/programs",
+      "notes": "Offered as a BA or BSc; the BSc stream requires 4U math and science courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 74,
+          "competitiveLow": 78,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.wlu.ca/programs",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Laurier entrance scholarships",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for Laurier entrance scholarships, with higher tiers at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "tmu",
+      "category": "psychology",
+      "slug": "tmu-psychology",
+      "name": "Psychology",
+      "degreeType": "BA (Hons)",
+      "campus": null,
+      "url": "https://www.torontomu.ca/programs/undergraduate/psychology/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 74,
+          "competitiveLow": 80,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.torontomu.ca/programs/undergraduate/psychology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "TMU entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for TMU entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "brock",
+      "category": "psychology",
+      "slug": "brock-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://brocku.ca/social-sciences/psychology/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 75,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://brocku.ca/social-sciences/psychology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Brock Scholars Award",
+          "detail": "Averages of roughly 80% and above receive automatic consideration for the Brock Scholars Award, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "windsor",
+      "category": "psychology",
+      "slug": "windsor-psychology",
+      "name": "Psychology",
+      "degreeType": "BA (Hons)",
+      "campus": null,
+      "url": "https://www.uwindsor.ca/psychology/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 76,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.uwindsor.ca/psychology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Windsor entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for University of Windsor entrance scholarships, tiered by admission average.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mcgill",
+      "category": "psychology",
+      "slug": "mcgill-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.mcgill.ca/psychology/",
+      "notes": "Offered as a BA through the Faculty of Arts and a BSc through the Faculty of Science; the BSc route requires 4U math and sciences and is more competitive. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 86,
+          "competitiveLow": 89,
+          "competitiveHigh": 92,
+          "sourceUrl": "https://www.mcgill.ca/psychology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to McGill by February 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on McGill's admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Basic Entrance Scholarship consideration",
+          "detail": "All admitted students are automatically considered for McGill's one-time Basic Entrance Scholarship. Recent recipients have typically presented averages of roughly 93% and above; exact cutoffs vary by year and faculty.",
+          "value": "93",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "concordia",
+      "category": "psychology",
+      "slug": "concordia-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.concordia.ca/artsci/psychology.html",
+      "notes": "Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.concordia.ca/artsci/psychology.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply directly to Concordia by March 1, 2027 for Fall 2027 entry; verify the current cycle's deadline on Concordia's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "bishops",
+      "category": "psychology",
+      "slug": "bishops-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.ubishops.ca/academic-programs/",
+      "notes": "Small English-language university with class sizes well below the Montreal schools. Québec applicants are assessed on their CEGEP R-score; out-of-province applicants are assessed on their grade-12 average. Listed prerequisites are Ontario 4U equivalents; other provinces' equivalents are accepted.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 75,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.ubishops.ca/academic-programs/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Bishop's reviews applications on a rolling basis; aim to apply by March 1, 2027 for Fall 2027 entry and verify the current cycle's dates on the Bishop's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ubc",
+      "category": "psychology",
+      "slug": "ubc-psychology",
+      "name": "Psychology",
+      "degreeType": "BA",
+      "campus": "Vancouver",
+      "url": "https://psych.ubc.ca/",
+      "notes": "Admission is to the Faculty of Arts, with the psychology major declared after first year; a BSc in behavioural neuroscience is available through the Faculty of Science with stronger math and science requirements. BC equivalents of the listed courses are English Studies 12 and Pre-Calculus 12.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 83,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://psych.ubc.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "essay",
+          "name": "Personal Profile",
+          "description": "Short written responses about experiences, activities, and what you learned from them; weighted alongside grades for all direct-entry UBC applicants.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Take the Personal Profile seriously",
+          "detail": "The Personal Profile is weighted alongside your marks. Draft your short answers early, be specific about what you did and what it taught you, and have someone you trust review them before submitting.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "UBC application deadline",
+          "detail": "Apply through EducationPlannerBC by January 15, 2027 for September 2027 entry. Verify the current cycle's dates on UBC's admissions site before relying on them.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "Major entrance awards are profile-based",
+          "detail": "UBC's major entrance awards, including Presidential Scholars Awards, are selected from the application and Personal Profile rather than an automatic average cutoff; some require a separate application.",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "sfu",
+      "category": "psychology",
+      "slug": "sfu-psychology",
+      "name": "Psychology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.sfu.ca/psychology.html",
+      "notes": "Offered through the Faculty of Arts and Social Sciences. BC equivalents of the listed courses are English Studies 12 and a Grade 12 math.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 78,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.sfu.ca/psychology.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "SFU application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for Fall 2027 entry. Verify the current cycle's dates on SFU's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uvic",
+      "category": "psychology",
+      "slug": "uvic-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.uvic.ca/socialsciences/psychology/",
+      "notes": "Offered as a BA or BSc through the Faculty of Social Sciences; the BSc stream expects stronger math and science preparation. BC equivalents of the listed courses are English Studies 12 and Pre-Calculus 12.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.uvic.ca/socialsciences/psychology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UVic application deadline",
+          "detail": "Apply through EducationPlannerBC by January 31, 2027 for September 2027 entry. Verify the current cycle's dates on UVic's admissions site before relying on them.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "tru",
+      "category": "psychology",
+      "slug": "tru-psychology",
+      "name": "Psychology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.tru.ca/arts.html",
+      "notes": "Admission is requirements-based and much less average-competitive than the large research universities. In BC terms, English Studies 12 is the key requirement.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 68,
+          "competitiveLow": 72,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.tru.ca/arts.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Apply early through EducationPlannerBC",
+          "detail": "TRU accepts applications over an extended window, but popular programs fill early; applying in the winter for September entry is safest. Verify the current cycle's dates on tru.ca.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ufv",
+      "category": "psychology",
+      "slug": "ufv-psychology",
+      "name": "Psychology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.ufv.ca/psychology/",
+      "notes": "Admission is requirements-based and much less average-competitive than the large research universities.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 67,
+          "competitiveLow": 71,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.ufv.ca/psychology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Apply early through EducationPlannerBC",
+          "detail": "UFV accepts applications over an extended window, but popular programs fill early; applying in the winter for September entry is safest. Verify the current cycle's dates on ufv.ca.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ualberta",
+      "category": "psychology",
+      "slug": "ualberta-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.ualberta.ca/psychology",
+      "notes": "Offered as a BA through the Faculty of Arts and a BSc through the Faculty of Science; the BSc route requires Math 30-1 and additional sciences. Alberta applicants present ELA 30-1 and four other 30-level subjects.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 77,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.ualberta.ca/psychology",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for most Fall 2027 programs. Deadlines vary by program and competitive programs can close earlier — verify the current cycle's dates on the UAlberta admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UAlberta admission-based entrance scholarships",
+          "detail": "UAlberta automatically considers applicants for entrance scholarships based on admission average, with awards generally starting around 80% and increasing at higher averages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ucalgary",
+      "category": "psychology",
+      "slug": "ucalgary-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://psychology.ucalgary.ca/",
+      "notes": "Offered as a BA or BSc; the BSc route requires additional 30-level sciences. Alberta applicants present ELA 30-1 and Math 30-1 or 30-2.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://psychology.ucalgary.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ]
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for most Fall 2027 programs. Deadlines vary by program and competitive programs can close earlier — verify the current cycle's dates on the UCalgary admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UCalgary automatic entrance awards",
+          "detail": "UCalgary automatically considers applicants for admission-average-based entrance awards, with most automatic awards starting around an 85% admission average. Verify current thresholds on UCalgary's awards pages.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "macewan",
+      "category": "psychology",
+      "slug": "macewan-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.macewan.ca/academics/programs/",
+      "notes": "Alberta applicants present ELA 30-1; Math 30-1 or 30-2 strengthens an application and is required for the BSc route.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 67,
+          "competitiveLow": 72,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.macewan.ca/academics/programs/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "ApplyAlberta application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 for most Fall 2027 programs; MacEwan fills many programs on a first-qualified basis, so apply as early as possible and verify the current cycle's dates.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "usask",
+      "category": "psychology",
+      "slug": "usask-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://admissions.usask.ca/psychology.php",
+      "notes": "Saskatchewan applicants present ELA A30 and B30; Pre-Calculus 30 is needed for the BSc stream.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://admissions.usask.ca/psychology.php",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "USask application deadline",
+          "detail": "Apply by February 15, 2027 for most direct-entry Fall 2027 programs. Verify the current cycle's deadline for your program on the USask admissions site.",
+          "value": "2027-02-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "USask Guaranteed Entrance Scholarships",
+          "detail": "USask awards Guaranteed Entrance Scholarships automatically by admission average, with tiers starting at 80% and larger awards at 85% and 90%. Verify current values on USask's scholarship pages.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "uregina",
+      "category": "psychology",
+      "slug": "uregina-psychology",
+      "name": "Psychology",
+      "degreeType": "BA",
+      "campus": null,
+      "url": "https://www.uregina.ca/arts/psychology/",
+      "notes": "Saskatchewan applicants present ELA A30 and B30.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 70,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.uregina.ca/arts/psychology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "URegina application deadline",
+          "detail": "Apply by March 15, 2027 for most Fall 2027 programs at the University of Regina. Verify the current cycle's deadline for your program on the URegina admissions site.",
+          "value": "2027-03-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "umanitoba",
+      "category": "psychology",
+      "slug": "umanitoba-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://umanitoba.ca/explore/programs-of-study",
+      "notes": "Most students take introductory psychology through direct-entry Arts or Science or through University 1 before declaring the major. Manitoba applicants present ELA 40S; Pre-Calculus 40S is needed for the Science route.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 76,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://umanitoba.ca/explore/programs-of-study",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UManitoba application deadline",
+          "detail": "Apply by March 1, 2027 for most direct-entry Fall 2027 programs for Canadian applicants. Verify the current cycle's deadline for your program on the UManitoba admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "dalhousie",
+      "category": "psychology",
+      "slug": "dalhousie-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.dal.ca/academics/programs/undergraduate/psychology.html",
+      "notes": "Taught by the Department of Psychology and Neuroscience and available as a BA or BSc; the BSc route requires a 4U math and two 4U sciences.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 77,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.dal.ca/academics/programs/undergraduate/psychology.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Dalhousie reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "Applicants with admission averages of roughly 85% and above are automatically considered for Dalhousie's general entrance scholarships; larger named awards require a separate application earlier in the cycle.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "acadia",
+      "category": "psychology",
+      "slug": "acadia-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://psychology.acadiau.ca",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://psychology.acadiau.ca",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Acadia reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "Acadia automatically considers applicants for entrance scholarships based on admission average, with award tiers beginning around 80%. No separate application is needed for the automatic tiers.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "stfx",
+      "category": "psychology",
+      "slug": "stfx-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.stfx.ca/programs/psychology",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.stfx.ca/programs/psychology",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "StFX reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "StFX automatically considers applicants for entrance scholarships based on admission average, with tiers beginning around 80%; higher averages qualify for larger awards.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "unb",
+      "category": "psychology",
+      "slug": "unb-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.unb.ca/fredericton/arts/departments/psychology/",
+      "notes": "Offered on both the Fredericton and Saint John campuses; the BSc route requires 4U math and science courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.unb.ca/fredericton/arts/departments/psychology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "UNB reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Automatic entrance scholarships",
+          "detail": "UNB awards entrance scholarships automatically based on admission average, with tiers beginning around 80%; additional named awards require a separate scholarship application.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "memorial",
+      "category": "psychology",
+      "slug": "memorial-psychology",
+      "name": "Psychology",
+      "degreeType": "BA/BSc",
+      "campus": null,
+      "url": "https://www.mun.ca/psychology/",
+      "notes": "Memorial's tuition is among the lowest of any Canadian university. The BSc route requires 4U math and science courses.",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.mun.ca/psychology/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        },
+        {
+          "oneOf": [
+            {
+              "courseCode": "MHF4U",
+              "courseName": "Advanced Functions"
+            },
+            {
+              "courseCode": "MCV4U",
+              "courseName": "Calculus and Vectors"
+            },
+            {
+              "courseCode": "MDM4U",
+              "courseName": "Data Management"
+            }
+          ],
+          "isRequired": false
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission — apply by early spring",
+          "detail": "Memorial reviews applications on a rolling basis rather than against a single equal-consideration date. Applying by early spring — ideally before March — is advised for the best access to program seats, residence, and entrance award consideration.",
+          "sortOrder": 0
+        }
+      ]
+    }
+  ]
+}
