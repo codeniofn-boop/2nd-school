@@ -1,0 +1,1012 @@
+{
+  "categories": [
+    {
+      "slug": "english-literature",
+      "name": "English & Creative Writing",
+      "aliases": [
+        "english",
+        "literature",
+        "creative writing",
+        "english literature",
+        "writing",
+        "poetry"
+      ],
+      "description": "English literature and creative writing programs for readers, writers, and future editors, teachers, and storytellers.",
+      "tips": [
+        {
+          "title": "Publish in student and literary magazines",
+          "detail": "Placing work in your school paper, zines, or youth writing contests builds the track record creative programs look for.",
+          "value": null,
+          "kind": "extracurricular",
+          "sortOrder": 0
+        },
+        {
+          "title": "Keep a working portfolio",
+          "detail": "Maintain and revise a small set of your strongest pieces — portfolio-based programs ask for polished, finished writing.",
+          "value": null,
+          "kind": "extracurricular",
+          "sortOrder": 1
+        },
+        {
+          "title": "Read widely, on the record",
+          "detail": "A reading journal or review blog shows sustained engagement with literature beyond the classroom.",
+          "value": null,
+          "kind": "extracurricular",
+          "sortOrder": 2
+        }
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "institution": "uoft",
+      "category": "english-literature",
+      "slug": "uoft-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://english.utoronto.ca/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 83,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://english.utoronto.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "mcgill",
+      "category": "english-literature",
+      "slug": "mcgill-english",
+      "name": "English Literature",
+      "degreeType": "BA",
+      "url": "https://www.mcgill.ca/english/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 82,
+          "competitiveLow": 85,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://www.mcgill.ca/english/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "McGill application deadline",
+          "detail": "Apply by February 1, 2027 for Fall 2027 entry — verify the current cycle's deadline on McGill's admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "queens",
+      "category": "english-literature",
+      "slug": "queens-english",
+      "name": "English Language and Literature",
+      "degreeType": "BAH",
+      "url": "https://www.queensu.ca/english/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://www.queensu.ca/english/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Queen's entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for Queen's entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "western",
+      "category": "english-literature",
+      "slug": "western-english",
+      "name": "English Language and Literature",
+      "degreeType": "BA",
+      "url": "https://www.uwo.ca/english/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 81,
+          "competitiveHigh": 86,
+          "sourceUrl": "https://www.uwo.ca/english/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Western entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for Western's admission scholarships, with higher tiers at higher averages.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mcmaster",
+      "category": "english-literature",
+      "slug": "mcmaster-english",
+      "name": "English and Cultural Studies",
+      "degreeType": "BA",
+      "url": "https://english.humanities.mcmaster.ca/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 77,
+          "competitiveLow": 80,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://english.humanities.mcmaster.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "McMaster entrance awards",
+          "detail": "Averages of 95% and above receive automatic consideration for McMaster's top entrance awards; lower tiers apply automatically at lower averages.",
+          "value": "95",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "york",
+      "category": "english-literature",
+      "slug": "york-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://www.yorku.ca/laps/en/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 76,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.yorku.ca/laps/en/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "york",
+      "category": "english-literature",
+      "slug": "york-creative-writing",
+      "name": "Creative Writing",
+      "degreeType": "BA",
+      "url": "https://www.yorku.ca/laps/en/creative-writing/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.yorku.ca/laps/en/creative-writing/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ],
+      "notes": "Workshop-based program; admission to upper-year workshops is by portfolio."
+    },
+    {
+      "institution": "ottawa",
+      "category": "english-literature",
+      "slug": "ottawa-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://www.uottawa.ca/faculty-arts/english",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 76,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.uottawa.ca/faculty-arts/english",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "carleton",
+      "category": "english-literature",
+      "slug": "carleton-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://carleton.ca/english/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 76,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://carleton.ca/english/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "guelph",
+      "category": "english-literature",
+      "slug": "guelph-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://www.uoguelph.ca/arts/sets",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 77,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.uoguelph.ca/arts/sets",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "laurier",
+      "category": "english-literature",
+      "slug": "laurier-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://www.wlu.ca/programs/arts/undergraduate/english-ba/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 75,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.wlu.ca/programs/arts/undergraduate/english-ba/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "brock",
+      "category": "english-literature",
+      "slug": "brock-english",
+      "name": "English Language and Literature",
+      "degreeType": "BA",
+      "url": "https://brocku.ca/humanities/english/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://brocku.ca/humanities/english/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "trent",
+      "category": "english-literature",
+      "slug": "trent-english",
+      "name": "English Literature",
+      "degreeType": "BA",
+      "url": "https://www.trentu.ca/english/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://www.trentu.ca/english/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "windsor",
+      "category": "english-literature",
+      "slug": "windsor-english",
+      "name": "English and Creative Writing",
+      "degreeType": "BA",
+      "url": "https://www.uwindsor.ca/english/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://www.uwindsor.ca/english/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ubc",
+      "category": "english-literature",
+      "slug": "ubc-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://english.ubc.ca/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://english.ubc.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "essay",
+          "name": "Personal Profile",
+          "description": "UBC's written Personal Profile covering experiences, activities, and circumstances; scored and weighted alongside grades.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Take the Personal Profile seriously",
+          "detail": "UBC admission is broad-based: grades plus the Personal Profile. Concrete stories about commitment and leadership outscore generic statements.",
+          "value": null,
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "UBC application deadline",
+          "detail": "Apply by January 15, 2027 for Fall 2027 entry — verify the current cycle's deadline on UBC's admissions site.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "uvic",
+      "category": "english-literature",
+      "slug": "uvic-writing",
+      "name": "Writing",
+      "degreeType": "BFA",
+      "url": "https://www.uvic.ca/finearts/writing/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.uvic.ca/finearts/writing/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "portfolio",
+          "name": "Writing portfolio",
+          "description": "A portfolio of creative work (fiction, poetry, drama, or creative nonfiction) reviewed by the Department of Writing.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Curate your writing portfolio",
+          "detail": "UVic's Writing department selects on the portfolio — polish a small set of finished pieces across at most two genres rather than submitting everything.",
+          "value": null,
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "UVic application deadline",
+          "detail": "Apply by January 31, 2027 for Fall 2027 entry — verify the current cycle's deadline on UVic's admissions site.",
+          "value": "2027-01-31",
+          "sortOrder": 1
+        }
+      ],
+      "notes": "UVic's Department of Writing is one of Canada's best-known creative writing programs."
+    },
+    {
+      "institution": "sfu",
+      "category": "english-literature",
+      "slug": "sfu-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://www.sfu.ca/english.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.sfu.ca/english.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "SFU application deadline",
+          "detail": "Apply by January 31, 2027 for Fall 2027 entry — verify the current cycle's deadline on SFU's admissions site.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ualberta",
+      "category": "english-literature",
+      "slug": "ualberta-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://www.ualberta.ca/english-film-studies/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.ualberta.ca/english-film-studies/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 — verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UAlberta entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for University of Alberta admission-based entrance scholarships.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ucalgary",
+      "category": "english-literature",
+      "slug": "ucalgary-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://arts.ucalgary.ca/english",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://arts.ucalgary.ca/english",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 — verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UCalgary entrance awards",
+          "detail": "Averages of 85% and above receive automatic consideration for University of Calgary admission-based entrance awards.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "usask",
+      "category": "english-literature",
+      "slug": "usask-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://artsandscience.usask.ca/english/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://artsandscience.usask.ca/english/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "USask application deadline",
+          "detail": "Apply by February 15, 2027 for Fall 2027 entry — verify the current cycle's deadline on USask's admissions site.",
+          "value": "2027-02-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "umanitoba",
+      "category": "english-literature",
+      "slug": "umanitoba-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://umanitoba.ca/arts/english-theatre-film-media",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://umanitoba.ca/arts/english-theatre-film-media",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UManitoba application deadline",
+          "detail": "Apply by March 1, 2027 for Fall 2027 entry — verify the current cycle's deadline on UManitoba's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "dalhousie",
+      "category": "english-literature",
+      "slug": "dalhousie-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://www.dal.ca/faculty/arts/english.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.dal.ca/faculty/arts/english.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission",
+          "detail": "Admission is rolling — applications are reviewed as they arrive, and applying by early spring is strongly advised for scholarship and residence consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "acadia",
+      "category": "english-literature",
+      "slug": "acadia-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://english.acadiau.ca/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://english.acadiau.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission",
+          "detail": "Admission is rolling — applications are reviewed as they arrive, and applying by early spring is strongly advised for scholarship and residence consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "mta",
+      "category": "english-literature",
+      "slug": "mta-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://mta.ca/english",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://mta.ca/english",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission",
+          "detail": "Admission is rolling — applications are reviewed as they arrive, and applying by early spring is strongly advised for scholarship and residence consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "unb",
+      "category": "english-literature",
+      "slug": "unb-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://www.unb.ca/faculties/arts/departments/english/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://www.unb.ca/faculties/arts/departments/english/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission",
+          "detail": "Admission is rolling — applications are reviewed as they arrive, and applying by early spring is strongly advised for scholarship and residence consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "memorial",
+      "category": "english-literature",
+      "slug": "memorial-english",
+      "name": "English",
+      "degreeType": "BA",
+      "url": "https://www.mun.ca/english/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 70,
+          "competitiveHigh": 76,
+          "sourceUrl": "https://www.mun.ca/english/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission",
+          "detail": "Admission is rolling — applications are reviewed as they arrive, and applying by early spring is strongly advised for scholarship and residence consideration.",
+          "sortOrder": 0
+        }
+      ]
+    }
+  ]
+}

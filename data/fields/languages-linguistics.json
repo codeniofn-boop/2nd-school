@@ -1,0 +1,639 @@
+{
+  "categories": [
+    {
+      "slug": "languages-linguistics",
+      "name": "Languages & Linguistics",
+      "aliases": [
+        "linguistics",
+        "french",
+        "translation",
+        "modern languages",
+        "spanish",
+        "german",
+        "language studies",
+        "second language"
+      ],
+      "description": "Linguistics, translation, and modern-language programs for students fascinated by how language works.",
+      "tips": [
+        {
+          "title": "Certify a second language",
+          "detail": "A recognized credential (DELF/DALF for French, DELE for Spanish, or similar) is concrete proof of language ability.",
+          "value": null,
+          "kind": "extracurricular",
+          "sortOrder": 0
+        },
+        {
+          "title": "Tutor or run a language exchange",
+          "detail": "Teaching a language — even informally — deepens your grasp of its structure and shows initiative.",
+          "value": null,
+          "kind": "extracurricular",
+          "sortOrder": 1
+        },
+        {
+          "title": "Try a linguistics olympiad",
+          "detail": "Competitions like NACLO reward exactly the pattern-analysis skills linguistics programs train.",
+          "value": null,
+          "kind": "extracurricular",
+          "sortOrder": 2
+        }
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "institution": "uoft",
+      "category": "languages-linguistics",
+      "slug": "uoft-linguistics",
+      "name": "Linguistics",
+      "degreeType": "BA",
+      "url": "https://linguistics.utoronto.ca/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 83,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://linguistics.utoronto.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "mcgill",
+      "category": "languages-linguistics",
+      "slug": "mcgill-linguistics",
+      "name": "Linguistics",
+      "degreeType": "BA",
+      "url": "https://www.mcgill.ca/linguistics/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 82,
+          "competitiveLow": 85,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://www.mcgill.ca/linguistics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "McGill application deadline",
+          "detail": "Apply by February 1, 2027 for Fall 2027 entry — verify the current cycle's deadline on McGill's admissions site.",
+          "value": "2027-02-01",
+          "sortOrder": 0
+        }
+      ],
+      "notes": "One of North America's best-known linguistics departments."
+    },
+    {
+      "institution": "mcmaster",
+      "category": "languages-linguistics",
+      "slug": "mcmaster-linguistics",
+      "name": "Linguistics",
+      "degreeType": "BA",
+      "url": "https://linguistics.humanities.mcmaster.ca/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://linguistics.humanities.mcmaster.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "McMaster entrance awards",
+          "detail": "Averages of 95% and above receive automatic consideration for McMaster's top entrance awards; lower tiers apply automatically at lower averages.",
+          "value": "95",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "queens",
+      "category": "languages-linguistics",
+      "slug": "queens-linguistics",
+      "name": "Linguistics",
+      "degreeType": "BAH",
+      "url": "https://www.queensu.ca/lling/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 82,
+          "competitiveHigh": 87,
+          "sourceUrl": "https://www.queensu.ca/lling/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Queen's entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for Queen's entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "york",
+      "category": "languages-linguistics",
+      "slug": "york-linguistics",
+      "name": "Linguistics",
+      "degreeType": "BA",
+      "url": "https://www.yorku.ca/laps/dlll/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.yorku.ca/laps/dlll/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ottawa",
+      "category": "languages-linguistics",
+      "slug": "ottawa-linguistics",
+      "name": "Linguistics",
+      "degreeType": "BA",
+      "url": "https://www.uottawa.ca/faculty-arts/linguistics",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 75,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.uottawa.ca/faculty-arts/linguistics",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ottawa",
+      "category": "languages-linguistics",
+      "slug": "ottawa-translation",
+      "name": "Translation",
+      "degreeType": "BA",
+      "url": "https://www.uottawa.ca/faculty-arts/translation",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.uottawa.ca/faculty-arts/translation",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ],
+      "notes": "Canada's flagship undergraduate translation school; offered bilingually with English and French streams."
+    },
+    {
+      "institution": "concordia",
+      "category": "languages-linguistics",
+      "slug": "concordia-linguistics",
+      "name": "Linguistics",
+      "degreeType": "BA",
+      "url": "https://www.concordia.ca/artsci/cmll.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 72,
+          "competitiveLow": 75,
+          "competitiveHigh": 81,
+          "sourceUrl": "https://www.concordia.ca/artsci/cmll.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Concordia application deadline",
+          "detail": "Apply by March 1, 2027 for Fall 2027 entry — verify the current cycle's deadline on Concordia's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ubc",
+      "category": "languages-linguistics",
+      "slug": "ubc-linguistics",
+      "name": "Linguistics",
+      "degreeType": "BA",
+      "url": "https://linguistics.ubc.ca/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 89,
+          "sourceUrl": "https://linguistics.ubc.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "essay",
+          "name": "Personal Profile",
+          "description": "UBC's written Personal Profile covering experiences, activities, and circumstances; scored and weighted alongside grades.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Take the Personal Profile seriously",
+          "detail": "UBC admission is broad-based: grades plus the Personal Profile. Concrete stories about commitment and leadership outscore generic statements.",
+          "value": null,
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "UBC application deadline",
+          "detail": "Apply by January 15, 2027 for Fall 2027 entry — verify the current cycle's deadline on UBC's admissions site.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "sfu",
+      "category": "languages-linguistics",
+      "slug": "sfu-linguistics",
+      "name": "Linguistics",
+      "degreeType": "BA",
+      "url": "https://www.sfu.ca/linguistics.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.sfu.ca/linguistics.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "SFU application deadline",
+          "detail": "Apply by January 31, 2027 for Fall 2027 entry — verify the current cycle's deadline on SFU's admissions site.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "uvic",
+      "category": "languages-linguistics",
+      "slug": "uvic-linguistics",
+      "name": "Linguistics",
+      "degreeType": "BA",
+      "url": "https://www.uvic.ca/humanities/linguistics/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 76,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.uvic.ca/humanities/linguistics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UVic application deadline",
+          "detail": "Apply by January 31, 2027 for Fall 2027 entry — verify the current cycle's deadline on UVic's admissions site.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ualberta",
+      "category": "languages-linguistics",
+      "slug": "ualberta-linguistics",
+      "name": "Linguistics",
+      "degreeType": "BA",
+      "url": "https://www.ualberta.ca/linguistics/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://www.ualberta.ca/linguistics/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 — verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UAlberta entrance scholarships",
+          "detail": "Averages of 80% and above receive automatic consideration for University of Alberta admission-based entrance scholarships.",
+          "value": "80",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "ucalgary",
+      "category": "languages-linguistics",
+      "slug": "ucalgary-linguistics",
+      "name": "Linguistics and Language",
+      "degreeType": "BA",
+      "url": "https://arts.ucalgary.ca/languages-linguistics-literatures-cultures",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://arts.ucalgary.ca/languages-linguistics-literatures-cultures",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 — verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UCalgary entrance awards",
+          "detail": "Averages of 85% and above receive automatic consideration for University of Calgary admission-based entrance awards.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "umanitoba",
+      "category": "languages-linguistics",
+      "slug": "umanitoba-linguistics",
+      "name": "Linguistics",
+      "degreeType": "BA",
+      "url": "https://umanitoba.ca/arts/linguistics",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 79,
+          "sourceUrl": "https://umanitoba.ca/arts/linguistics",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UManitoba application deadline",
+          "detail": "Apply by March 1, 2027 for Fall 2027 entry — verify the current cycle's deadline on UManitoba's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "laval",
+      "category": "languages-linguistics",
+      "slug": "laval-traduction",
+      "name": "Traduction",
+      "degreeType": "BA",
+      "url": "https://www.ulaval.ca/etudes/programmes/baccalaureat-en-traduction",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.ulaval.ca/etudes/programmes/baccalaureat-en-traduction",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply by March 1, 2027 for Fall 2027 entry — verify the current cycle's deadline on Université Laval's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ],
+      "notes": "Instruction is in French. Québec applicants are assessed on CEGEP R-score; out-of-province applicants on their grade-12 average."
+    },
+    {
+      "institution": "moncton",
+      "category": "languages-linguistics",
+      "slug": "moncton-traduction",
+      "name": "Traduction",
+      "degreeType": "BA",
+      "url": "https://www.umoncton.ca/umcm-traduction/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 65,
+          "competitiveLow": 70,
+          "competitiveHigh": 76,
+          "sourceUrl": "https://www.umoncton.ca/umcm-traduction/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission",
+          "detail": "Admission is rolling — applications are reviewed as they arrive, and applying by early spring is strongly advised for scholarship and residence consideration.",
+          "sortOrder": 0
+        }
+      ],
+      "notes": "Instruction is in French. Québec applicants are assessed on CEGEP R-score; out-of-province applicants on their grade-12 average."
+    }
+  ]
+}

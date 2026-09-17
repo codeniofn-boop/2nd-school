@@ -1,0 +1,756 @@
+{
+  "categories": [
+    {
+      "slug": "communications",
+      "name": "Communication & Media Studies",
+      "aliases": [
+        "media",
+        "media studies",
+        "communication studies",
+        "journalism",
+        "public relations",
+        "media production",
+        "broadcasting",
+        "film studies"
+      ],
+      "description": "Journalism, media production, public relations, and communication programs for storytellers and media makers.",
+      "tips": [
+        {
+          "title": "Publish and broadcast now",
+          "detail": "Run a podcast, YouTube channel, or school paper — a body of published work is the strongest signal for media programs.",
+          "value": null,
+          "kind": "extracurricular",
+          "sortOrder": 0
+        },
+        {
+          "title": "Join student radio or yearbook",
+          "detail": "Production roles teach deadlines, editing, and teamwork, and give you credits to point at in portfolios and interviews.",
+          "value": null,
+          "kind": "extracurricular",
+          "sortOrder": 1
+        },
+        {
+          "title": "Build a clippings portfolio",
+          "detail": "Keep your best 5-10 pieces — articles, videos, campaigns — organized and dated; several programs invite supplementary material.",
+          "value": null,
+          "kind": "extracurricular",
+          "sortOrder": 2
+        }
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "institution": "carleton",
+      "category": "communications",
+      "slug": "carleton-journalism",
+      "name": "Journalism",
+      "degreeType": "BJ",
+      "url": "https://carleton.ca/sjc/journalism/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://carleton.ca/sjc/journalism/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ],
+      "notes": "One of Canada's best-known journalism schools; admission is average-competitive with limited seats."
+    },
+    {
+      "institution": "carleton",
+      "category": "communications",
+      "slug": "carleton-communication",
+      "name": "Communication and Media Studies",
+      "degreeType": "BA",
+      "url": "https://carleton.ca/sjc/communication/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 84,
+          "sourceUrl": "https://carleton.ca/sjc/communication/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "tmu",
+      "category": "communications",
+      "slug": "tmu-journalism",
+      "name": "Journalism",
+      "degreeType": "BA (Hons)",
+      "url": "https://www.torontomu.ca/programs/undergraduate/journalism/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 85,
+          "competitiveHigh": 90,
+          "sourceUrl": "https://www.torontomu.ca/programs/undergraduate/journalism/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "TMU entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for TMU entrance scholarships.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ],
+      "notes": "Limited-enrolment program; strong writing samples help if invited to supply them."
+    },
+    {
+      "institution": "tmu",
+      "category": "communications",
+      "slug": "tmu-media-production",
+      "name": "Media Production (RTA)",
+      "degreeType": "BA (Hons)",
+      "url": "https://www.torontomu.ca/programs/undergraduate/media-production/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 80,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://www.torontomu.ca/programs/undergraduate/media-production/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [
+        {
+          "kind": "portfolio",
+          "name": "Creative portfolio",
+          "description": "RTA School of Media portfolio and statement; weighted heavily alongside grades.",
+          "isWeighted": true
+        }
+      ],
+      "tips": [
+        {
+          "kind": "supplementary_focus",
+          "title": "Lead with your portfolio",
+          "detail": "RTA selection leans on the creative portfolio — submit finished, edited work (video, audio, or interactive) rather than raw clips.",
+          "value": null,
+          "sortOrder": 0
+        },
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 1
+        },
+        {
+          "kind": "scholarship",
+          "title": "TMU entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for TMU entrance scholarships.",
+          "value": "90",
+          "sortOrder": 2
+        }
+      ]
+    },
+    {
+      "institution": "kings-halifax",
+      "category": "communications",
+      "slug": "kings-halifax-journalism",
+      "name": "Journalism (Honours)",
+      "degreeType": "BJ (Hons)",
+      "url": "https://ukings.ca/programme/journalism/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://ukings.ca/programme/journalism/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission",
+          "detail": "Admission is rolling — applications are reviewed as they arrive, and applying by early spring is strongly advised for scholarship and residence consideration.",
+          "sortOrder": 0
+        }
+      ],
+      "notes": "University of King's College's flagship journalism degree, taught alongside the Foundation Year tradition."
+    },
+    {
+      "institution": "concordia",
+      "category": "communications",
+      "slug": "concordia-journalism",
+      "name": "Journalism",
+      "degreeType": "BA",
+      "url": "https://www.concordia.ca/artsci/journalism.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.concordia.ca/artsci/journalism.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Concordia application deadline",
+          "detail": "Apply by March 1, 2027 for Fall 2027 entry — verify the current cycle's deadline on Concordia's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "concordia",
+      "category": "communications",
+      "slug": "concordia-communication",
+      "name": "Communication Studies",
+      "degreeType": "BA",
+      "url": "https://www.concordia.ca/artsci/coms.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://www.concordia.ca/artsci/coms.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Concordia application deadline",
+          "detail": "Apply by March 1, 2027 for Fall 2027 entry — verify the current cycle's deadline on Concordia's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "york",
+      "category": "communications",
+      "slug": "york-communication",
+      "name": "Communication & Media Studies",
+      "degreeType": "BA",
+      "url": "https://www.yorku.ca/laps/cmds/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 75,
+          "competitiveLow": 78,
+          "competitiveHigh": 83,
+          "sourceUrl": "https://www.yorku.ca/laps/cmds/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ottawa",
+      "category": "communications",
+      "slug": "ottawa-communication",
+      "name": "Communication",
+      "degreeType": "BA",
+      "url": "https://www.uottawa.ca/faculty-arts/communication",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 76,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.uottawa.ca/faculty-arts/communication",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ],
+      "notes": "Offered bilingually; courses available in English and French."
+    },
+    {
+      "institution": "western",
+      "category": "communications",
+      "slug": "western-media-information",
+      "name": "Media, Information & Technoculture",
+      "degreeType": "BA",
+      "url": "https://www.uwo.ca/fims/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 80,
+          "competitiveLow": 84,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://www.uwo.ca/fims/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "Western entrance scholarships",
+          "detail": "Averages of 90% and above receive automatic consideration for Western's admission scholarships, with higher tiers at higher averages.",
+          "value": "90",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "mcmaster",
+      "category": "communications",
+      "slug": "mcmaster-communication",
+      "name": "Communication Studies",
+      "degreeType": "BA",
+      "url": "https://csmm.humanities.mcmaster.ca/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 77,
+          "competitiveLow": 80,
+          "competitiveHigh": 85,
+          "sourceUrl": "https://csmm.humanities.mcmaster.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "McMaster entrance awards",
+          "detail": "Averages of 95% and above receive automatic consideration for McMaster's top entrance awards; lower tiers apply automatically at lower averages.",
+          "value": "95",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "windsor",
+      "category": "communications",
+      "slug": "windsor-communication",
+      "name": "Communication, Media & Film",
+      "degreeType": "BA",
+      "url": "https://www.uwindsor.ca/communication-media-film/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.uwindsor.ca/communication-media-film/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "brock",
+      "category": "communications",
+      "slug": "brock-communication",
+      "name": "Communication Studies",
+      "degreeType": "BA",
+      "url": "https://brocku.ca/social-sciences/communication/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 75,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://brocku.ca/social-sciences/communication/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "laurier",
+      "category": "communications",
+      "slug": "laurier-communication",
+      "name": "Communication Studies",
+      "degreeType": "BA",
+      "url": "https://www.wlu.ca/programs/arts/undergraduate/communication-studies-ba/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 73,
+          "competitiveLow": 76,
+          "competitiveHigh": 82,
+          "sourceUrl": "https://www.wlu.ca/programs/arts/undergraduate/communication-studies-ba/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "OUAC application deadline",
+          "detail": "Apply through OUAC by January 15, 2027 — the equal-consideration date for Fall 2027 entry to Ontario universities.",
+          "value": "2027-01-15",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "sfu",
+      "category": "communications",
+      "slug": "sfu-communication",
+      "name": "Communication",
+      "degreeType": "BA",
+      "url": "https://www.sfu.ca/communication.html",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 78,
+          "competitiveLow": 82,
+          "competitiveHigh": 88,
+          "sourceUrl": "https://www.sfu.ca/communication.html",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "SFU application deadline",
+          "detail": "Apply by January 31, 2027 for Fall 2027 entry — verify the current cycle's deadline on SFU's admissions site.",
+          "value": "2027-01-31",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "ucalgary",
+      "category": "communications",
+      "slug": "ucalgary-communication",
+      "name": "Communication and Media Studies",
+      "degreeType": "BA",
+      "url": "https://arts.ucalgary.ca/communication-media-film",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://arts.ucalgary.ca/communication-media-film",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Application deadline",
+          "detail": "Apply through ApplyAlberta by March 1, 2027 — verify the current cycle's deadline on the university's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        },
+        {
+          "kind": "scholarship",
+          "title": "UCalgary entrance awards",
+          "detail": "Averages of 85% and above receive automatic consideration for University of Calgary admission-based entrance awards.",
+          "value": "85",
+          "sortOrder": 1
+        }
+      ]
+    },
+    {
+      "institution": "uqam",
+      "category": "communications",
+      "slug": "uqam-communication",
+      "name": "Communication",
+      "degreeType": "BA",
+      "url": "https://uqam.ca/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 74,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://uqam.ca/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "UQAM application deadline",
+          "detail": "Apply by March 1, 2027 for Fall 2027 entry — verify the current cycle's deadline on UQAM's admissions site.",
+          "value": "2027-03-01",
+          "sortOrder": 0
+        }
+      ],
+      "notes": "Instruction is in French. Québec applicants are assessed on CEGEP R-score; out-of-province applicants on their grade-12 average."
+    },
+    {
+      "institution": "stu",
+      "category": "communications",
+      "slug": "stu-journalism",
+      "name": "Journalism and Communications",
+      "degreeType": "BA",
+      "url": "https://www.stu.ca/journalism/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 72,
+          "competitiveHigh": 78,
+          "sourceUrl": "https://www.stu.ca/journalism/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission",
+          "detail": "Admission is rolling — applications are reviewed as they arrive, and applying by early spring is strongly advised for scholarship and residence consideration.",
+          "sortOrder": 0
+        }
+      ]
+    },
+    {
+      "institution": "msvu",
+      "category": "communications",
+      "slug": "msvu-public-relations",
+      "name": "Public Relations",
+      "degreeType": "BPR",
+      "url": "https://www.msvu.ca/academics/undergraduate/bachelor-of-public-relations/",
+      "requirements": [
+        {
+          "year": 2027,
+          "minAverage": 70,
+          "competitiveLow": 73,
+          "competitiveHigh": 80,
+          "sourceUrl": "https://www.msvu.ca/academics/undergraduate/bachelor-of-public-relations/",
+          "lastVerified": "2026-09-01T00:00:00.000Z",
+          "isEstimated": true
+        }
+      ],
+      "prerequisites": [
+        {
+          "courseCode": "ENG4U",
+          "courseName": "English"
+        }
+      ],
+      "supplementary": [],
+      "tips": [
+        {
+          "kind": "deadline",
+          "title": "Rolling admission",
+          "detail": "Admission is rolling — applications are reviewed as they arrive, and applying by early spring is strongly advised for scholarship and residence consideration.",
+          "sortOrder": 0
+        }
+      ],
+      "notes": "One of Canada's few dedicated public-relations degrees, with co-op work terms."
+    }
+  ]
+}
