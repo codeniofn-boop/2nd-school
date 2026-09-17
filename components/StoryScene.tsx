@@ -92,7 +92,7 @@ export default function StoryScene() {
 
         <section className="act act-high" data-act="2">
           <h2>Every university in Canada.</h2>
-          <p className="sub">88 universities. 231 programs. One search.</p>
+          <p className="sub">88 universities. 544 programs. One search.</p>
         </section>
 
         <section className="act act-high" data-act="3">
