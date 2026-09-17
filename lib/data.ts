@@ -41,24 +41,96 @@ export interface CategoryDetail {
   categoryTips: ProgramDTO["tips"];
 }
 
+// Shape returned by the program queries below (relations included, ordered).
+type ProgramWithRelations = Awaited<ReturnType<typeof queryPrograms>>[number];
+
+function queryPrograms(where?: { categoryId?: string }) {
+  return prisma.program.findMany({
+    where,
+    orderBy: { name: "asc" },
+    include: {
+      institution: true,
+      admissionRequirements: { orderBy: { year: "desc" as const } },
+      prerequisites: true,
+      supplementaryRequirements: true,
+      improvementTips: { orderBy: { sortOrder: "asc" as const } },
+    },
+  });
+}
+
+function serializeProgram(p: ProgramWithRelations): ProgramDTO {
+  return {
+    id: p.id,
+    slug: p.slug,
+    name: p.name,
+    degreeType: p.degreeType,
+    campus: p.campus,
+    url: p.url,
+    notes: p.notes,
+    institution: {
+      slug: p.institution.slug,
+      name: p.institution.name,
+      shortName: p.institution.shortName,
+      type: p.institution.type,
+      city: p.institution.city,
+      province: p.institution.province,
+      applicationSystem: p.institution.applicationSystem,
+      website: p.institution.website,
+    },
+    requirement: p.admissionRequirements[0]
+      ? {
+          year: p.admissionRequirements[0].year,
+          minAverage: p.admissionRequirements[0].minAverage,
+          competitiveLow: p.admissionRequirements[0].competitiveLow,
+          competitiveHigh: p.admissionRequirements[0].competitiveHigh,
+          sourceUrl: p.admissionRequirements[0].sourceUrl,
+          lastVerified: p.admissionRequirements[0].lastVerified.toISOString(),
+          isEstimated: p.admissionRequirements[0].isEstimated,
+        }
+      : null,
+    prerequisites: p.prerequisites.map((pr) => ({
+      id: pr.id,
+      courseCode: pr.courseCode,
+      courseName: pr.courseName,
+      minGrade: pr.minGrade,
+      isRequired: pr.isRequired,
+      altGroup: pr.altGroup,
+    })),
+    supplementary: p.supplementaryRequirements.map((s) => ({
+      kind: s.kind,
+      name: s.name,
+      description: s.description,
+      isWeighted: s.isWeighted,
+    })),
+    tips: p.improvementTips.map((t) => ({
+      kind: t.kind,
+      title: t.title,
+      detail: t.detail,
+      value: t.value,
+      sortOrder: t.sortOrder,
+    })),
+  };
+}
+
+/** Every program across every category — the "All programs" browse view. */
+export async function getAllProgramsDetail(): Promise<CategoryDetail> {
+  const programs = await queryPrograms();
+  return {
+    slug: "all",
+    name: "All programs",
+    description: "Every program we track, across all fields and universities.",
+    categoryTips: [],
+    programs: programs.map(serializeProgram),
+  };
+}
+
 export async function getCategoryDetail(slug: string): Promise<CategoryDetail | null> {
   const category = await prisma.programCategory.findUnique({
     where: { slug },
-    include: {
-      improvementTips: { orderBy: { sortOrder: "asc" } },
-      programs: {
-        orderBy: { name: "asc" },
-        include: {
-          institution: true,
-          admissionRequirements: { orderBy: { year: "desc" } },
-          prerequisites: true,
-          supplementaryRequirements: true,
-          improvementTips: { orderBy: { sortOrder: "asc" } },
-        },
-      },
-    },
+    include: { improvementTips: { orderBy: { sortOrder: "asc" } } },
   });
   if (!category) return null;
+  const programs = await queryPrograms({ categoryId: category.id });
 
   return {
     slug: category.slug,
@@ -71,57 +143,7 @@ export async function getCategoryDetail(slug: string): Promise<CategoryDetail | 
       value: t.value,
       sortOrder: t.sortOrder,
     })),
-    programs: category.programs.map((p) => ({
-      id: p.id,
-      slug: p.slug,
-      name: p.name,
-      degreeType: p.degreeType,
-      campus: p.campus,
-      url: p.url,
-      notes: p.notes,
-      institution: {
-        slug: p.institution.slug,
-        name: p.institution.name,
-        shortName: p.institution.shortName,
-        type: p.institution.type,
-        city: p.institution.city,
-        province: p.institution.province,
-        applicationSystem: p.institution.applicationSystem,
-        website: p.institution.website,
-      },
-      requirement: p.admissionRequirements[0]
-        ? {
-            year: p.admissionRequirements[0].year,
-            minAverage: p.admissionRequirements[0].minAverage,
-            competitiveLow: p.admissionRequirements[0].competitiveLow,
-            competitiveHigh: p.admissionRequirements[0].competitiveHigh,
-            sourceUrl: p.admissionRequirements[0].sourceUrl,
-            lastVerified: p.admissionRequirements[0].lastVerified.toISOString(),
-            isEstimated: p.admissionRequirements[0].isEstimated,
-          }
-        : null,
-      prerequisites: p.prerequisites.map((pr) => ({
-        id: pr.id,
-        courseCode: pr.courseCode,
-        courseName: pr.courseName,
-        minGrade: pr.minGrade,
-        isRequired: pr.isRequired,
-        altGroup: pr.altGroup,
-      })),
-      supplementary: p.supplementaryRequirements.map((s) => ({
-        kind: s.kind,
-        name: s.name,
-        description: s.description,
-        isWeighted: s.isWeighted,
-      })),
-      tips: p.improvementTips.map((t) => ({
-        kind: t.kind,
-        title: t.title,
-        detail: t.detail,
-        value: t.value,
-        sortOrder: t.sortOrder,
-      })),
-    })),
+    programs: programs.map(serializeProgram),
   };
 }
 

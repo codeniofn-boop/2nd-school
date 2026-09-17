@@ -7,7 +7,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "AdmitPath",
   description:
-    "See where you can realistically get in. Admission averages, prerequisites, and Safe/Target/Reach labels for Ontario university and college programs.",
+    "See where you can realistically get in. Admission averages, prerequisites, and Safe/Target/Reach labels for university programs across Canada.",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {

@@ -2,7 +2,8 @@
 
 ## Recently shipped (v1)
 
-- Fuzzy program search across categories, aliases, and program names (Ontario universities and colleges).
+- Fuzzy program search across categories, aliases, and program names, plus an "All programs" browse page.
+- Coverage of every Canadian university (Universities Canada members), with programs across five fields at the universities that offer them.
 - Safe / Target / Reach / Unlikely labels from a pure, tested rules engine, with plain-language explanations and the grade gap to the next-better label.
 - Prerequisite checking with "one of A/B/C" alternative groups and recommended-course handling.
 - Data honesty: estimated ranges badged as estimates, source URLs and last-verified dates on every number.
@@ -23,9 +24,9 @@ Deadline tips already carry machine-readable ISO dates in `value`; surface them 
 
 Scholarship tips carry a threshold average in `value`; compare it against the student's saved average to show "you currently qualify for..." and "raise your average by X% to qualify for..." across their shortlist. It turns the same improvement framing used for admission labels into a concrete financial incentive. Scope: a matching function in the rules layer (same pattern as `assessProgram`) and a scholarship section on program and shortlist pages.
 
-### 4. More provinces & countries
+### 4. Provincial course equivalency, verified data & other countries
 
-The schema already supports this: `institutions.province`, `institutions.country`, and free-form `applicationSystem` mean adding BC (EducationPlannerBC) or Alberta (ApplyAlberta) is a data problem, not a schema migration. The main work is product, not plumbing: course-code equivalency (ENG4U vs English Studies 12) so one student profile can be assessed against out-of-province prerequisites. Scope: a course-equivalency mapping table, province filters in the UI, and seed data for one new province as the pilot.
+Institutions across all ten provinces (and Yukon) now ship in the seed, but prerequisites are expressed in Ontario 4U/M codes and out-of-Ontario admission ranges are offline estimates. Next: a course-equivalency mapping table (ENG4U ↔ English Studies 12 ↔ ELA 30-1) so a student picks their own province's courses, a per-university data verification pass against official pages, province filters in the UI, and then colleges and international institutions.
 
 ### 5. Counselor dashboard
 

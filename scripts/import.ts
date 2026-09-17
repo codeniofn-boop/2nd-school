@@ -16,7 +16,8 @@
 //     wholesale for the program/category that owns them
 // so re-running the same import never duplicates rows.
 
-import { existsSync, readFileSync } from "node:fs";
+import { existsSync, readFileSync, readdirSync, statSync } from "node:fs";
+import { join } from "node:path";
 import { prisma } from "../lib/db";
 
 // ---------------------------------------------------------------------------
@@ -757,9 +758,21 @@ async function main(): Promise<void> {
     );
   }
 
+  // A directory argument expands to every .json/.csv file inside it (sorted);
+  // an empty or data-free directory contributes nothing.
+  const expanded = args.flatMap((arg) => {
+    if (existsSync(arg) && statSync(arg).isDirectory()) {
+      return readdirSync(arg)
+        .filter((f) => /\.(json|csv)$/i.test(f))
+        .sort()
+        .map((f) => join(arg, f));
+    }
+    return [arg];
+  });
+
   const jsonFiles: string[] = [];
   const csvFiles: string[] = [];
-  for (const arg of args) {
+  for (const arg of expanded) {
     const lower = arg.toLowerCase();
     if (lower.endsWith(".json")) jsonFiles.push(arg);
     else if (lower.endsWith(".csv")) csvFiles.push(arg);

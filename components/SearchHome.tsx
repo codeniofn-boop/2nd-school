@@ -58,7 +58,7 @@ export default function SearchHome({ categories }: { categories: CategorySummary
         </h1>
         <p className="mx-auto mt-3 max-w-md text-sm leading-relaxed text-slate-600">
           Search a program you want to study, then add your average once to see a Safe, Target, or
-          Reach label for every Ontario school we track. Try &ldquo;comp sci&rdquo;,
+          Reach label at universities across Canada. Try &ldquo;comp sci&rdquo;,
           &ldquo;nursing&rdquo;, or &ldquo;business&rdquo;.
         </p>
       </section>
@@ -96,6 +96,16 @@ export default function SearchHome({ categories }: { categories: CategorySummary
             ))}
           </div>
         )}
+
+        <p className="mt-6 text-center">
+          <Link
+            href="/all"
+            className="inline-flex min-h-11 items-center rounded text-sm font-semibold text-blue-600 underline-offset-2 hover:underline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"
+          >
+            Browse all {categories.reduce((n, c) => n + c.programCount, 0)} programs at every
+            university&nbsp;&rarr;
+          </Link>
+        </p>
       </section>
     </div>
   );

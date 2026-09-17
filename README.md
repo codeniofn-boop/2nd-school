@@ -1,6 +1,8 @@
 # AdmitPath
 
-AdmitPath helps Ontario high-school students see where they can realistically get into university or college for a program they want. Students pick a field of study, enter their average and the Grade 12 courses they have taken (or are taking), and every matching program is labeled Safe, Target, Reach, or Unlikely — with an explanation, the exact gap to the next-better label, and concrete ways to improve their chances.
+AdmitPath helps Canadian high-school students see where they can realistically get into university for a program they want. Students pick a field of study, enter their average and the Grade 12 courses they have taken (or are taking), and every matching program is labeled Safe, Target, Reach, or Unlikely — with an explanation, the exact gap to the next-better label, and concrete ways to improve their chances.
+
+The seed dataset covers every Canadian university (Universities Canada members) as an institution, with programs across five fields — computer science, engineering, business, nursing, and health/life sciences — at the universities that offer them. Prerequisites are expressed in Ontario Grade 12 (4U/M) course codes as the canonical vocabulary; other provinces' equivalents are noted per program where relevant. An "All programs" page (`/all`) lists everything across fields.
 
 The core student flow:
 
@@ -110,6 +112,7 @@ institution,category,slug,name,degree_type,campus,url,notes,year,min_average,com
 
 - `is_estimated = true` on an admission requirement means the competitive/safe-zone range is **not officially published** — it is an estimate. The UI must show these numbers with an "estimated" badge and never present them as official. Only the published minimum (when one exists) is official.
 - Every requirement row carries a `source_url` and a `last_verified` date. Seed numbers must be re-verified against `source_url` each admission cycle — cutoffs move year to year, and stale numbers are worse than none.
+- The rest-of-Canada region files were authored offline from general knowledge and are flagged `is_estimated` accordingly; treat them as a starting point to verify against each university's own pages, not as vetted cutoffs.
 
 ## Database
 
@@ -131,7 +134,8 @@ lib/
 prisma/
   schema.prisma       Database schema
 data/
-  seed.json           Seed data (real programs)
+  seed.json           Ontario core seed data (real programs)
+  regions/            Rest-of-Canada seed data, one file per region
   template.json       Annotated JSON import template
   template.csv        Annotated CSV import template
 scripts/
